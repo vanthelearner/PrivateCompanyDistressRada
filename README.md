@@ -1,6 +1,6 @@
 # Private Company Distress Radar (UK Companies House)
 
-This project is a small research / tooling sandbox to spot **UK private companies** that might be:
+This project is a small research / tooling sandbox to spot **UK private companies** that might be (there will be 5 stages, more coming):
 
 - at **risk of financial distress**, or  
 - **boring but reliably profitable**
@@ -49,5 +49,6 @@ Roughly:
 │     ├─ company_features_with_signals_v1.csv
 │     ├─ distress_watchlist_v1.csv
 │     └─ boring_profitable_watchlist_v1.csv
-├─ Week 1_Foundations.ipynb  # Stage/Week 1 – API + caching (naming may vary)
+├─ Week 1_Foundations.ipynb  # Stage/Week 1 – API + caching
 └─ Stage 1 + Stage 2.ipynb   # Consolidated Week 2 pipeline
+
