@@ -1,0 +1,265 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQyMTgxMzIwNmFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2024-05-15",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11621190/filing-history/MzQyMTgxMzIwNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oFkHnga2cnYV57_8_owX3bvsQxLWIl_dJtzUeT8jZ-o"
+      }
+    },
+    {
+      "transaction_id": "MzQxNTYwODExM2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2024-04-02",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11621190/filing-history/MzQxNTYwODExM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lu5WmZT39B0op5ZQ7EtRHeRySU-RwXq7mSXNrXyiVXw"
+      }
+    },
+    {
+      "transaction_id": "MzQwMTc1NjY0MWFkaXF6a2N4",
+      "barcode": "ACGXZABE",
+      "type": "CS01",
+      "date": "2023-11-29",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-11-10"
+      },
+      "pages": 2,
+      "action_date": "2023-11-10",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11621190/filing-history/MzQwMTc1NjY0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BBGoMPLJYl0PrurIl_EXgjgguzWaEmBwmCa9e1yWqh8"
+      }
+    },
+    {
+      "transaction_id": "MzM5MzQ5OTUzOWFkaXF6a2N4",
+      "barcode": "ACC09BD4",
+      "type": "TM01",
+      "date": "2023-09-22",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Alison Christina Porritt",
+        "termination_date": "2023-09-11"
+      },
+      "pages": 1,
+      "action_date": "2023-09-11",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11621190/filing-history/MzM5MzQ5OTUzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/j1yWHYGgpgm88oPa28iRxGu6cDIKCmjUu8J7tpmJEBY"
+      }
+    },
+    {
+      "transaction_id": "MzM3MzA4NDE4MmFkaXF6a2N4",
+      "barcode": "XBZHVBOG",
+      "type": "AP01",
+      "date": "2023-03-17",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Robert Michael Porritt",
+        "appointment_date": "2023-03-15"
+      },
+      "pages": 2,
+      "action_date": "2023-03-15",
+      "links": {
+        "self": "/company/11621190/filing-history/MzM3MzA4NDE4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/G0XdQWg70nEW3jRSV7RwZYYKknkoPWYf090O17DGR2U"
+      }
+    },
+    {
+      "transaction_id": "MzM2NTI4OTA2MmFkaXF6a2N4",
+      "barcode": "XBUXNN56",
+      "type": "AA",
+      "date": "2023-01-10",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2022-04-30"
+      },
+      "pages": 6,
+      "action_date": "2022-04-30",
+      "links": {
+        "self": "/company/11621190/filing-history/MzM2NTI4OTA2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cGUT72lTldQEx3cb8MPopDJhiVoKM3Sc9KXbMiYj2us"
+      }
+    },
+    {
+      "transaction_id": "MzM1OTgwNDcxMGFkaXF6a2N4",
+      "barcode": "XBHJ1LQQ",
+      "type": "CS01",
+      "date": "2022-11-25",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-11-10"
+      },
+      "pages": 3,
+      "action_date": "2022-11-10",
+      "links": {
+        "self": "/company/11621190/filing-history/MzM1OTgwNDcxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nDMNcczW8YQod1NSp1XD_UiZ4R15zUr6pc1V7Gj3M64"
+      }
+    },
+    {
+      "transaction_id": "MzM0NDgzOTU0NWFkaXF6a2N4",
+      "barcode": "XB7P9OU2",
+      "type": "AA01",
+      "date": "2022-07-06",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-extended",
+      "description_values": {
+        "made_up_date": "2021-10-31",
+        "new_date": "2022-04-30"
+      },
+      "pages": 1,
+      "action_date": "2022-04-30",
+      "links": {
+        "self": "/company/11621190/filing-history/MzM0NDgzOTU0NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7ohaEtFN5peuGUuuvukx_du_6p03llL-k5OuCyp15tg"
+      }
+    },
+    {
+      "transaction_id": "MzMyMDQ2NjMxM2FkaXF6a2N4",
+      "barcode": "XAHGYWHJ",
+      "type": "CS01",
+      "date": "2021-11-17",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-11-10"
+      },
+      "pages": 3,
+      "action_date": "2021-11-10",
+      "links": {
+        "self": "/company/11621190/filing-history/MzMyMDQ2NjMxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eplqaVcCWt2wjSliZ8oTH98pcqzdpNSE04dp3H-JlBI"
+      }
+    },
+    {
+      "transaction_id": "MzMxMDg3NTU2M2FkaXF6a2N4",
+      "barcode": "XAB2N9SW",
+      "type": "AA",
+      "date": "2021-08-17",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2020-10-31"
+      },
+      "pages": 5,
+      "action_date": "2020-10-31",
+      "links": {
+        "self": "/company/11621190/filing-history/MzMxMDg3NTU2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_TlRGKEw0zYLKBvNrXzWmTmknol2xz62OLcjFd3OA9w"
+      }
+    },
+    {
+      "transaction_id": "MzI4MzUzNDQ0MmFkaXF6a2N4",
+      "barcode": "X9HYDOPL",
+      "type": "CS01",
+      "date": "2020-11-16",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-11-10"
+      },
+      "pages": 3,
+      "action_date": "2020-11-10",
+      "links": {
+        "self": "/company/11621190/filing-history/MzI4MzUzNDQ0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VNTWw02E7gVTLwh4huASx7IGCaPnVeQjfHnoe3EAdzc"
+      }
+    },
+    {
+      "transaction_id": "MzI2NDA0MDc0OWFkaXF6a2N4",
+      "barcode": "X94GLZ9D",
+      "type": "AA",
+      "date": "2020-05-06",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2019-10-31"
+      },
+      "pages": 2,
+      "action_date": "2019-10-31",
+      "links": {
+        "self": "/company/11621190/filing-history/MzI2NDA0MDc0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3qGhUNIgGwFLJvXSuF4guHVJ7LeA_5TBUlVB07tdH8I"
+      }
+    },
+    {
+      "transaction_id": "MzI0ODI0NDQ2MGFkaXF6a2N4",
+      "barcode": "X8H8AO4A",
+      "type": "CS01",
+      "date": "2019-10-31",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-10-13"
+      },
+      "pages": 3,
+      "action_date": "2019-10-13",
+      "links": {
+        "self": "/company/11621190/filing-history/MzI0ODI0NDQ2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BXq3DK963uANyid6J-o-Jcm5Gy31eRI2V8vb3u8v1bY"
+      }
+    },
+    {
+      "transaction_id": "MzIxNjgzOTE4MGFkaXF6a2N4",
+      "barcode": "X7GF7FMW",
+      "type": "NEWINC",
+      "date": "2018-10-14",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2018-10-14",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2018-10-14",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-10-14",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2018-10-14"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 12,
+      "links": {
+        "self": "/company/11621190/filing-history/MzIxNjgzOTE4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/x2nVndGY-lHeezeNA0cJbG3MD2qT_onfT60h0oJRdXY"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 14
+}

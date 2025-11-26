@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-09-30",
+      "period_end_on": "2024-09-30",
+      "period_start_on": "2023-10-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-06-30",
+      "overdue": false,
+      "period_end_on": "2025-09-30",
+      "period_start_on": "2024-10-01"
+    },
+    "next_due": "2026-06-30",
+    "next_made_up_to": "2025-09-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "SANDCREST CONSULTING LIMITED",
+  "company_number": "09762552",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-08-26",
+    "next_due": "2026-09-09",
+    "next_made_up_to": "2026-08-26",
+    "overdue": false
+  },
+  "date_of_creation": "2015-09-04",
+  "etag": "e34ba3adbb9c29aeaba449690d786e01cfb5f9b0",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/09762552/persons-with-significant-control",
+    "self": "/company/09762552",
+    "filing_history": "/company/09762552/filing-history",
+    "officers": "/company/09762552/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "The Dairy",
+    "address_line_2": "Manor Courtyard",
+    "country": "England",
+    "locality": "Aston Sandford",
+    "postal_code": "HP17 8JB",
+    "region": "Bucks"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

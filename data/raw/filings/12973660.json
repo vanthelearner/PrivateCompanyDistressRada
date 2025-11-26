@@ -1,0 +1,128 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzM2NDU3NzEwNmFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2023-01-17",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12973660/filing-history/MzM2NDU3NzEwNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cGJjWGU4DaOwkIyNLWzvxGVPQ5fSujTcBc9hA5hmQYc"
+      }
+    },
+    {
+      "transaction_id": "MzM1NjU2MDE1M2FkaXF6a2N4",
+      "barcode": "XBFFQNAO",
+      "type": "AA",
+      "date": "2022-10-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-10-30"
+      },
+      "pages": 8,
+      "action_date": "2021-10-30",
+      "links": {
+        "self": "/company/12973660/filing-history/MzM1NjU2MDE1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Cly5cUGg8ZVB8bIk5aUPAMJbrRiEDLbMsaIj1HIZ4as"
+      }
+    },
+    {
+      "transaction_id": "MzM0NjgxNDY3NWFkaXF6a2N4",
+      "barcode": "XB91JTW0",
+      "type": "AA01",
+      "date": "2022-07-27",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-shortened",
+      "description_values": {
+        "made_up_date": "2021-11-01",
+        "new_date": "2021-10-30"
+      },
+      "pages": 1,
+      "action_date": "2021-10-30",
+      "links": {
+        "self": "/company/12973660/filing-history/MzM0NjgxNDY3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7i5r5mHsjgxiywFXxbh3Ttug1bV3krTkPTI7c0yLoQc"
+      }
+    },
+    {
+      "transaction_id": "MzM0Njc3NTI2OWFkaXF6a2N4",
+      "barcode": "XB91FM83",
+      "type": "AA01",
+      "date": "2022-07-26",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-extended",
+      "description_values": {
+        "made_up_date": "2021-10-31",
+        "new_date": "2021-11-01"
+      },
+      "pages": 1,
+      "action_date": "2021-11-01",
+      "links": {
+        "self": "/company/12973660/filing-history/MzM0Njc3NTI2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vH7YLaNaP5wFx3eiG8n2U5f2njckefwDMB7DYVLnf9g"
+      }
+    },
+    {
+      "transaction_id": "MzMyMzgzOTE0M2FkaXF6a2N4",
+      "barcode": "XAJHIEUJ",
+      "type": "CS01",
+      "date": "2021-12-16",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-10-25"
+      },
+      "pages": 3,
+      "action_date": "2021-10-25",
+      "links": {
+        "self": "/company/12973660/filing-history/MzMyMzgzOTE0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eBkx74NfMbmmyAdUn4gQfD2ZE_Ok-6GayZVmQL8chqQ"
+      }
+    },
+    {
+      "transaction_id": "MzI4MTQ2NzE0MWFkaXF6a2N4",
+      "barcode": "X9G985AX",
+      "type": "NEWINC",
+      "date": "2020-10-26",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2020-10-26",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2020-10-26",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-10-26",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2020-10-26"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/12973660/filing-history/MzI4MTQ2NzE0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pF0LeGBufWxnWkGwSVbUaVVA54MOjEwENJ6EpEwz-Bo"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 6
+}

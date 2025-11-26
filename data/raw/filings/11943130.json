@@ -1,0 +1,225 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQyMTgxNTMwNWFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2024-05-15",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11943130/filing-history/MzQyMTgxNTMwNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SwADGF_Go_PCnS_vnpEhYrOpL-TC-eh9I4cspJjRtNU"
+      }
+    },
+    {
+      "transaction_id": "MzQxNTYxMDg4N2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2024-04-02",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11943130/filing-history/MzQxNTYxMDg4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/erhRHuB24pSzsDExPeMZeITVHG4vCMek_I2VSbygVys"
+      }
+    },
+    {
+      "transaction_id": "MzM4MjUwOTY0N2FkaXF6a2N4",
+      "barcode": "XC5GU2KZ",
+      "type": "AD01",
+      "date": "2023-06-11",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-06-11",
+        "old_address": "98 High Street Rochester ME1 1JT England",
+        "new_address": "20 st Catherines Court Star Hill Rochester ME1 1GA"
+      },
+      "pages": 1,
+      "action_date": "2023-06-11",
+      "links": {
+        "self": "/company/11943130/filing-history/MzM4MjUwOTY0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FJUbAaw1SqvuTkJpZb8TKIfh2-Rm0w_JNU1dnoW4jm8"
+      }
+    },
+    {
+      "transaction_id": "MzM3NDMxMjIwM2FkaXF6a2N4",
+      "barcode": "XC08Y2SB",
+      "type": "CS01",
+      "date": "2023-03-28",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-03-28"
+      },
+      "pages": 3,
+      "action_date": "2023-03-28",
+      "links": {
+        "self": "/company/11943130/filing-history/MzM3NDMxMjIwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5vGLh-Houf3wU_0XhKSi_4cJuuRTbO_vykrFY3Gxm6k"
+      }
+    },
+    {
+      "transaction_id": "MzM1NjI2MDQ5OGFkaXF6a2N4",
+      "barcode": "XBFABTQO",
+      "type": "AA",
+      "date": "2022-10-24",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2022-04-30"
+      },
+      "pages": 10,
+      "links": {
+        "self": "/company/11943130/filing-history/MzM1NjI2MDQ5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eL2yMvzz7DxjXDibTgrBEcaDfFZSjfrcozmMRLRZg1k"
+      }
+    },
+    {
+      "transaction_id": "MzMzNDQ5ODg0NmFkaXF6a2N4",
+      "barcode": "XB0U5IJ6",
+      "type": "CS01",
+      "date": "2022-03-29",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-03-29"
+      },
+      "pages": 3,
+      "action_date": "2022-03-29",
+      "links": {
+        "self": "/company/11943130/filing-history/MzMzNDQ5ODg0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CMEflGI4ozUQOtjBG_t-bHpGtNF8vAK8GiWBJ2F2rVQ"
+      }
+    },
+    {
+      "transaction_id": "MzMyODA0MjU1OWFkaXF6a2N4",
+      "barcode": "XAWKYEND",
+      "type": "AA",
+      "date": "2022-01-27",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2021-04-30"
+      },
+      "pages": 10,
+      "links": {
+        "self": "/company/11943130/filing-history/MzMyODA0MjU1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/r8-9wzK6uV9w6dQOxmqq-o7qxbfci7MOg39TJ-l9siU"
+      }
+    },
+    {
+      "transaction_id": "MzMwMjMzMTI5NGFkaXF6a2N4",
+      "barcode": "XA5CD9RF",
+      "type": "AA",
+      "date": "2021-05-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2020-04-30"
+      },
+      "pages": 8,
+      "links": {
+        "self": "/company/11943130/filing-history/MzMwMjMzMTI5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hZCoC4p9aST1pxzL1bGtzh9PxcPjRzw20PIfrB6g62k"
+      }
+    },
+    {
+      "transaction_id": "MzI5NjA2OTEyM2FkaXF6a2N4",
+      "barcode": "XA1AMNLT",
+      "type": "CS01",
+      "date": "2021-03-29",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-03-29"
+      },
+      "pages": 3,
+      "action_date": "2021-03-29",
+      "links": {
+        "self": "/company/11943130/filing-history/MzI5NjA2OTEyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LTk0EswYvB0fnT136RkoljDtrT6_mrymQZ3mJzw4fg0"
+      }
+    },
+    {
+      "transaction_id": "MzI5MjI1NzM4M2FkaXF6a2N4",
+      "barcode": "X9YWH4AI",
+      "type": "AD01",
+      "date": "2021-02-23",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-02-23",
+        "old_address": "19 Station Road Bromley 19 Station Road Bromley BR1 3LP United Kingdom",
+        "new_address": "98 High Street Rochester ME1 1JT"
+      },
+      "pages": 1,
+      "action_date": "2021-02-23",
+      "links": {
+        "self": "/company/11943130/filing-history/MzI5MjI1NzM4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/OtP7zn7uzNUj4W_atay2D5nI7dcEmE2E0ahFHFzD9rY"
+      }
+    },
+    {
+      "transaction_id": "MzI2MjE5NjQ3MGFkaXF6a2N4",
+      "barcode": "X92PBN9F",
+      "type": "CS01",
+      "date": "2020-04-10",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-04-10"
+      },
+      "pages": 3,
+      "action_date": "2020-04-10",
+      "links": {
+        "self": "/company/11943130/filing-history/MzI2MjE5NjQ3MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UKkWN9UZ5IdDN0h1ktxRgT_6hF_uJsHyj_Bd4RgCGqo"
+      }
+    },
+    {
+      "transaction_id": "MzIzMTg3MDA0OWFkaXF6a2N4",
+      "barcode": "X836T315",
+      "type": "NEWINC",
+      "date": "2019-04-12",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-04-12",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-04-12",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-04-12",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "10,000"
+              }
+            ]
+          },
+          "action_date": "2019-04-12"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/11943130/filing-history/MzIzMTg3MDA0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iEstfMKEPrF3v8W9ZiZQmX35bG2LBg6WVbls7-_A8HM"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 12
+}

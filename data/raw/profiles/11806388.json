@@ -1,0 +1,65 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-02-28",
+      "period_end_on": "2022-02-28",
+      "period_start_on": "2021-03-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2024-02-29",
+      "overdue": true,
+      "period_end_on": "2023-02-28",
+      "period_start_on": "2022-03-01"
+    },
+    "next_due": "2024-02-29",
+    "next_made_up_to": "2023-02-28",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "RELIANCE MEDICS LIMITED",
+  "company_number": "11806388",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-01-24",
+    "next_due": "2025-02-07",
+    "next_made_up_to": "2025-01-24",
+    "overdue": true
+  },
+  "date_of_creation": "2019-02-05",
+  "etag": "9c466f19b18392fb2465fcad6b4355443d882f1f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11806388/persons-with-significant-control",
+    "self": "/company/11806388",
+    "filing_history": "/company/11806388/filing-history",
+    "officers": "/company/11806388/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2023-01-24",
+      "effective_from": "2019-02-05",
+      "name": "INSURASSIST LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "11806388 - COMPANIES HOUSE DEFAULT ADDRESS",
+    "locality": "Cardiff",
+    "po_box": "4385",
+    "postal_code": "CF14 8LH"
+  },
+  "registered_office_is_in_dispute": true,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

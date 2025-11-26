@@ -1,0 +1,197 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQ4NjEwODc2MmFkaXF6a2N4",
+      "barcode": "XEDRSWXC",
+      "type": "AA",
+      "date": "2025-10-23",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2025-01-31"
+      },
+      "pages": 5,
+      "action_date": "2025-01-31",
+      "links": {
+        "self": "/company/14082106/filing-history/MzQ4NjEwODc2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/NezU_kHeVjIat4pzr8yJ3DlToD8txP9AhbuwDsdHlyk"
+      }
+    },
+    {
+      "transaction_id": "MzQ2NjE4MTE4NGFkaXF6a2N4",
+      "barcode": "XE2JW36W",
+      "type": "CS01",
+      "date": "2025-05-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2025-05-03"
+      },
+      "pages": 3,
+      "action_date": "2025-05-03",
+      "links": {
+        "self": "/company/14082106/filing-history/MzQ2NjE4MTE4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/yw02capqyZenYZXbvA1_pe8_u-Xmsj1P4SHlLDe6LkE"
+      }
+    },
+    {
+      "transaction_id": "MzQzOTM2MzYzNWFkaXF6a2N4",
+      "barcode": "XDDQMV0I",
+      "type": "AA",
+      "date": "2024-10-14",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2024-01-31"
+      },
+      "pages": 3,
+      "action_date": "2024-01-31",
+      "links": {
+        "self": "/company/14082106/filing-history/MzQzOTM2MzYzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/AmhGMMpeyNlXlXhAjYgiC2n50RGXcL8UAr0B6Jrz3mY"
+      }
+    },
+    {
+      "transaction_id": "MzQyMTgxNTYyNGFkaXF6a2N4",
+      "barcode": "XD340F7D",
+      "type": "CS01",
+      "date": "2024-05-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-05-03"
+      },
+      "pages": 3,
+      "action_date": "2024-05-03",
+      "links": {
+        "self": "/company/14082106/filing-history/MzQyMTgxNTYyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/fD_SOCkjySki48EgS_GnbyA6dKZ9RSSOk6qBGkjY7vI"
+      }
+    },
+    {
+      "transaction_id": "MzM3ODY3NDg3M2FkaXF6a2N4",
+      "barcode": "XC2VCAE2",
+      "type": "CH01",
+      "date": "2023-05-09",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2023-05-05",
+        "officer_name": "Mr Declan Blackwood"
+      },
+      "pages": 2,
+      "action_date": "2023-05-05",
+      "links": {
+        "self": "/company/14082106/filing-history/MzM3ODY3NDg3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/C7n8hB5yj7gpDlUKgBDpfUwGyeGUSl1XqDCNlQ6-Bsc"
+      }
+    },
+    {
+      "transaction_id": "MzM3ODY3NTA1NWFkaXF6a2N4",
+      "barcode": "XC2VCB15",
+      "type": "CS01",
+      "date": "2023-05-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-05-03"
+      },
+      "pages": 3,
+      "action_date": "2023-05-03",
+      "links": {
+        "self": "/company/14082106/filing-history/MzM3ODY3NTA1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mqkaZ8Xlpl6ez8Sz3Yjazat0Ap932_4lhQuM8kSiLx8"
+      }
+    },
+    {
+      "transaction_id": "MzM3MjU0NjEyNWFkaXF6a2N4",
+      "barcode": "XBZ9SNNE",
+      "type": "AA",
+      "date": "2023-03-14",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2023-01-31"
+      },
+      "pages": 7,
+      "action_date": "2023-01-31",
+      "links": {
+        "self": "/company/14082106/filing-history/MzM3MjU0NjEyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/B4C4O5Y8xN0Pzl_9lkDE8P8HU5TIisYVW9-MwvBnh5k"
+      }
+    },
+    {
+      "transaction_id": "MzM2OTA2NDU1NGFkaXF6a2N4",
+      "barcode": "XBX8Z4TS",
+      "type": "AA01",
+      "date": "2023-02-13",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-shortened",
+      "description_values": {
+        "made_up_date": "2023-05-31",
+        "new_date": "2023-01-31"
+      },
+      "pages": 1,
+      "action_date": "2023-01-31",
+      "links": {
+        "self": "/company/14082106/filing-history/MzM2OTA2NDU1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oaap4N3ZnJKhtn-XYnig_uSucdbvz0_8eUYVHWWuol0"
+      }
+    },
+    {
+      "transaction_id": "MzM0ODM1NDM1MmFkaXF6a2N4",
+      "barcode": "XBA33CO0",
+      "type": "AP01",
+      "date": "2022-08-11",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Declan Blackwood",
+        "appointment_date": "2022-08-10"
+      },
+      "pages": 2,
+      "action_date": "2022-08-10",
+      "links": {
+        "self": "/company/14082106/filing-history/MzM0ODM1NDM1MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Vrd4sqTH3u6IjkExo_XOKvsQcU9QmvCV73HAOhnPzE0"
+      }
+    },
+    {
+      "transaction_id": "MzMzNzg4NDcyMWFkaXF6a2N4",
+      "barcode": "XB2XQYH5",
+      "type": "NEWINC",
+      "date": "2022-05-03",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2022-05-03",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2022-05-03",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2022-05-03"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 28,
+      "links": {
+        "self": "/company/14082106/filing-history/MzMzNzg4NDcyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0AiFOg229u8EjLD6RrtbGIL8gcgPgGkNIm3ZPHR6iFk"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 10
+}

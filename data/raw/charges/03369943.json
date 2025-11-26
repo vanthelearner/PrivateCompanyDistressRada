@@ -1,0 +1,87 @@
+{
+  "etag": "6923291ec565299bc6f2d4058ca51a4cec3ad863",
+  "total_count": 2,
+  "unfiltered_count": 2,
+  "satisfied_count": 1,
+  "part_satisfied_count": 0,
+  "items": [
+    {
+      "etag": "ee7462b514097541493081170210d5ae76f3f38f",
+      "charge_code": "033699430002",
+      "classification": {
+        "type": "charge-description",
+        "description": "A registered charge"
+      },
+      "charge_number": 2,
+      "status": "outstanding",
+      "delivered_on": "2021-06-02",
+      "created_on": "2021-05-26",
+      "particulars": {
+        "type": "brief-description",
+        "description": "7 salisbury pavement, dawes road, london, SW6 7HT and as more particularly described at the land registry: 7 salisbury pavement, dawes road, london (SW6 7HT).",
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Shawbrook Bank Limited"
+        }
+      ],
+      "transactions": [
+        {
+          "filing_type": "create-charge-with-deed",
+          "delivered_on": "2021-06-02",
+          "links": {
+            "filing": "/company/03369943/filing-history/MzMwMzE2OTY1MWFkaXF6a2N4"
+          }
+        }
+      ],
+      "links": {
+        "self": "/company/03369943/charges/NNVxQALAaaa-7toS9QrgVKNJaYA"
+      }
+    },
+    {
+      "etag": "03d876c7e1bbbda9e9c303f6d74145e4a9fe719a",
+      "classification": {
+        "type": "charge-description",
+        "description": "Legal charge"
+      },
+      "charge_number": 1,
+      "status": "fully-satisfied",
+      "delivered_on": "2007-02-07",
+      "created_on": "2007-01-24",
+      "satisfied_on": "2021-06-16",
+      "particulars": {
+        "type": "short-particulars",
+        "description": "7 salisbury pavement dawes road london. Fixed charge all buildings and other structures fixed to the property fixed charge any goodwill relating to the property fixed charge all plant machinery and other items affixed to the property assignment of the rental sums together with the benefit of all rights and remedies fixed charge the proceeds of any claim made under insurance policy relating to the property floating charge all unattached plant machinery chattels and goods on or in or used in connection with the property or the business or undertaking at the property."
+      },
+      "secured_details": {
+        "type": "amount-secured",
+        "description": "All monies due or to become due from the company to the chargee"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Governor and Company of the Bank of Scotland"
+        }
+      ],
+      "transactions": [
+        {
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "delivered_on": "2007-02-07",
+          "links": {
+            "filing": "/company/03369943/filing-history/MDE3NjA3MjIyOGFkaXF6a2N4"
+          }
+        },
+        {
+          "filing_type": "charge-satisfaction",
+          "delivered_on": "2021-06-16",
+          "links": {
+            "filing": "/company/03369943/filing-history/MzMwNDU4NzkwN2FkaXF6a2N4"
+          }
+        }
+      ],
+      "links": {
+        "self": "/company/03369943/charges/d1zFXbY390P0B3GfnNiZNMPgaDo"
+      }
+    }
+  ]
+}

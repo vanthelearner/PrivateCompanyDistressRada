@@ -1,0 +1,506 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQyMTQwMTkyN2FkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2024-05-14",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11774302/filing-history/MzQyMTQwMTkyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uDL97I_HtU9XL8ozuXfvYLc5zUxVHwGSpottpo85jG0"
+      }
+    },
+    {
+      "transaction_id": "MzQxNTcwMDE5M2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2024-04-02",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11774302/filing-history/MzQxNTcwMDE5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BcZyggFNd4dY0EkLj8zKh2PqovUcXiSu0QYF5sX5lQI"
+      }
+    },
+    {
+      "transaction_id": "MzQxMDY0NzM3NWFkaXF6a2N4",
+      "barcode": "XCWI4C9K",
+      "type": "AD01",
+      "date": "2024-02-09",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2024-02-09",
+        "old_address": "Flat # 2 66 a Uxbridge Road London W12 8LP England",
+        "new_address": "47 Marsham Street London SW1P 3DR"
+      },
+      "pages": 1,
+      "action_date": "2024-02-09",
+      "links": {
+        "self": "/company/11774302/filing-history/MzQxMDY0NzM3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ehDbUdgJGEmhaPiYGqJmtJdBEV2BuouSn0p1jSgVC-4"
+      }
+    },
+    {
+      "transaction_id": "MzQwODkzNDE3OGFkaXF6a2N4",
+      "barcode": "XCVG83AG",
+      "type": "AD01",
+      "date": "2024-01-25",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2024-01-25",
+        "old_address": "47 Marsham Street London SW1P 3DR England",
+        "new_address": "Flat # 2 66 a Uxbridge Road London W12 8LP"
+      },
+      "pages": 1,
+      "action_date": "2024-01-25",
+      "links": {
+        "self": "/company/11774302/filing-history/MzQwODkzNDE3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/p-BUSWtGAzH7vB9xOdqd6ecF0aq0GYVABTQuEg4f4OU"
+      }
+    },
+    {
+      "transaction_id": "MzQwODkzNDA2NmFkaXF6a2N4",
+      "barcode": "XCVG82M9",
+      "type": "CS01",
+      "date": "2024-01-25",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-01-10"
+      },
+      "pages": 3,
+      "action_date": "2024-01-10",
+      "links": {
+        "self": "/company/11774302/filing-history/MzQwODkzNDA2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XS6pDhShr2A1HeuzTHxIHWwes51ZfCEvdu8dsJRWLog"
+      }
+    },
+    {
+      "transaction_id": "MzM5MDIzODg5MWFkaXF6a2N4",
+      "barcode": "XCAE5HB5",
+      "type": "AD01",
+      "date": "2023-08-21",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-08-21",
+        "old_address": "40 Godolphin Road London W12 8JF England",
+        "new_address": "47 Marsham Street London SW1P 3DR"
+      },
+      "pages": 1,
+      "action_date": "2023-08-21",
+      "links": {
+        "self": "/company/11774302/filing-history/MzM5MDIzODg5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/U2pnwhsFO7GGLQeynJAKVQAkTlGwT3_gcrIhB2IPosM"
+      }
+    },
+    {
+      "transaction_id": "MzM3OTMzOTAxMGFkaXF6a2N4",
+      "barcode": "XC3DRQ1N",
+      "type": "AD01",
+      "date": "2023-05-12",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-05-12",
+        "old_address": "16 Gransden Road London W12 9SA England",
+        "new_address": "40 Godolphin Road London W12 8JF"
+      },
+      "pages": 1,
+      "action_date": "2023-05-12",
+      "links": {
+        "self": "/company/11774302/filing-history/MzM3OTMzOTAxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ALH4hPwbx2GtlOSY2CIMDwP2ZsTsf1hXlNdi1_7Zh_I"
+      }
+    },
+    {
+      "transaction_id": "MzM2NjYyMjU3MWFkaXF6a2N4",
+      "barcode": "XBVLUV8Y",
+      "type": "AA",
+      "date": "2023-01-20",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2022-01-31"
+      },
+      "pages": 4,
+      "action_date": "2022-01-31",
+      "links": {
+        "self": "/company/11774302/filing-history/MzM2NjYyMjU3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/f6wOKsPjGyHZEwv5G1-FzSYpxZH5Rtuvx1xTFjxEBuI"
+      }
+    },
+    {
+      "transaction_id": "MzM2NTIwMzE3NGFkaXF6a2N4",
+      "barcode": "XBUXJUIQ",
+      "type": "CS01",
+      "date": "2023-01-10",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-01-10"
+      },
+      "pages": 3,
+      "action_date": "2023-01-10",
+      "links": {
+        "self": "/company/11774302/filing-history/MzM2NTIwMzE3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/fxbGutFRt5-tTtKw3DGjTZmd087vmypq4tpMxShVrWM"
+      }
+    },
+    {
+      "transaction_id": "MzM1OTgxNjM3MGFkaXF6a2N4",
+      "barcode": "XBHJ2OAY",
+      "type": "PSC04",
+      "date": "2022-11-28",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2022-11-01",
+        "psc_name": "Ms Sanjida Ruhani"
+      },
+      "pages": 2,
+      "action_date": "2022-11-01",
+      "links": {
+        "self": "/company/11774302/filing-history/MzM1OTgxNjM3MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xkZ9WAKoiOUHvJY9_bFWCflWNQ5tl938ntL7HCSI8NA"
+      }
+    },
+    {
+      "transaction_id": "MzM1OTgxNjUwNmFkaXF6a2N4",
+      "barcode": "XBHJ2ONK",
+      "type": "CH01",
+      "date": "2022-11-25",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2022-11-01",
+        "officer_name": "Ms Sanjida Ruhani"
+      },
+      "pages": 2,
+      "action_date": "2022-11-01",
+      "links": {
+        "self": "/company/11774302/filing-history/MzM1OTgxNjUwNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xIt4DCX3IarLWSkTmnVaX77zcE7A_gLH07Cf5aQ2yVQ"
+      }
+    },
+    {
+      "transaction_id": "MzM1OTgxNjI1NWFkaXF6a2N4",
+      "barcode": "XBHJ2NOZ",
+      "type": "PSC04",
+      "date": "2022-11-25",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2022-11-01",
+        "psc_name": "Ms Sanjida Ruhani"
+      },
+      "pages": 2,
+      "action_date": "2022-11-01",
+      "links": {
+        "self": "/company/11774302/filing-history/MzM1OTgxNjI1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KM6qA_Em9EZYN9Sswj69AWpzKJT9u2ZWaoDiqLspJ8s"
+      }
+    },
+    {
+      "transaction_id": "MzM1OTgxNTg5MmFkaXF6a2N4",
+      "barcode": "XBHJ2M5N",
+      "type": "AD01",
+      "date": "2022-11-25",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-11-25",
+        "old_address": "40 Godolphin Road Godolphin Road London W12 8JF England",
+        "new_address": "16 Gransden Road London W12 9SA"
+      },
+      "pages": 1,
+      "action_date": "2022-11-25",
+      "links": {
+        "self": "/company/11774302/filing-history/MzM1OTgxNTg5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WHuMjMU1I1LzSC4EUnKXvZqoQCrBeA6kbP1QkRsQRLg"
+      }
+    },
+    {
+      "transaction_id": "MzM1ODAwOTMwOWFkaXF6a2N4",
+      "barcode": "XBGEUJQ2",
+      "type": "DS02",
+      "date": "2022-11-09",
+      "category": "dissolution",
+      "description": "dissolution-withdrawal-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/11774302/filing-history/MzM1ODAwOTMwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/s08JeH531kQIBljP6Qx_GHaISrkP_a3DKh-sMNSuZMs"
+      }
+    },
+    {
+      "transaction_id": "MzM1NDU4MzMxNmFkaXF6a2N4",
+      "type": "SOAS(A)",
+      "date": "2022-10-11",
+      "category": "dissolution",
+      "description": "dissolution-voluntary-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11774302/filing-history/MzM1NDU4MzMxNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Aqf0rec65ZMzDSXEjYesvB1xhLT-4RPrcV_THYnPkkQ"
+      }
+    },
+    {
+      "transaction_id": "MzM1MzM3MTIxN2FkaXF6a2N4",
+      "barcode": "XBDHTNPC",
+      "type": "CH01",
+      "date": "2022-09-28",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2019-03-15",
+        "officer_name": "Ms Sanjida Ruhani"
+      },
+      "pages": 2,
+      "action_date": "2019-03-15",
+      "links": {
+        "self": "/company/11774302/filing-history/MzM1MzM3MTIxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/T2FnWJv0oVgMJvKFshcKBGASWBzssoc9hOBbYeE8kOY"
+      }
+    },
+    {
+      "transaction_id": "MzM1MzM3MDg3N2FkaXF6a2N4",
+      "barcode": "XBDHTMC1",
+      "type": "PSC04",
+      "date": "2022-09-28",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2019-01-19",
+        "psc_name": "Ms Sanjida Ruhani"
+      },
+      "pages": 2,
+      "action_date": "2019-01-19",
+      "links": {
+        "self": "/company/11774302/filing-history/MzM1MzM3MDg3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4O3GM48Z66me5y7dybzXwWjBni0k2-W7UnxNZsxqOmA"
+      }
+    },
+    {
+      "transaction_id": "MzM1MDE0MzA4M2FkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2022-09-06",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11774302/filing-history/MzM1MDE0MzA4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pGaL6CsWpNV93YnjYyTttw_NgwcSeNZLBLwx5xAdujo"
+      }
+    },
+    {
+      "transaction_id": "MzM0OTk5ODIzM2FkaXF6a2N4",
+      "barcode": "XBBC7BMG",
+      "type": "DS01",
+      "date": "2022-08-30",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/11774302/filing-history/MzM0OTk5ODIzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/shZFDfYNonpja_9BUpVuzcF_PmHFYqUZbLu2mOlf_xc"
+      }
+    },
+    {
+      "transaction_id": "MzM0OTA5MDgxNGFkaXF6a2N4",
+      "barcode": "XBAOE7GO",
+      "type": "AD01",
+      "date": "2022-08-18",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-08-18",
+        "old_address": "107 Burdett Road London E3 4JN England",
+        "new_address": "40 Godolphin Road Godolphin Road London W12 8JF"
+      },
+      "pages": 1,
+      "action_date": "2022-08-18",
+      "links": {
+        "self": "/company/11774302/filing-history/MzM0OTA5MDgxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cM-JVNsZkwj1TtQiz_d6HDaDkrYxKZeCGRDdJKdl86A"
+      }
+    },
+    {
+      "transaction_id": "MzMyNjY0NjY5MWFkaXF6a2N4",
+      "barcode": "XAVOS0NV",
+      "type": "CS01",
+      "date": "2022-01-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-01-14"
+      },
+      "pages": 3,
+      "action_date": "2022-01-14",
+      "links": {
+        "self": "/company/11774302/filing-history/MzMyNjY0NjY5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BLVPPUzXOuGNXd4gyfevKVhibDf4VBrUpDbvCz7nwY8"
+      }
+    },
+    {
+      "transaction_id": "MzMxODMyOTQ5NGFkaXF6a2N4",
+      "barcode": "XAFZG2GZ",
+      "type": "AA",
+      "date": "2021-10-27",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2021-01-31"
+      },
+      "pages": 2,
+      "action_date": "2021-01-31",
+      "links": {
+        "self": "/company/11774302/filing-history/MzMxODMyOTQ5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/NLSe794N4IatQFu5BUozQgxfCWbzEahbtqSZFwqbv5g"
+      }
+    },
+    {
+      "transaction_id": "MzI5MTk3MjMxN2FkaXF6a2N4",
+      "barcode": "X9YOJNVS",
+      "type": "CS01",
+      "date": "2021-02-19",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-01-16"
+      },
+      "pages": 3,
+      "action_date": "2021-01-16",
+      "links": {
+        "self": "/company/11774302/filing-history/MzI5MTk3MjMxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QM-svhYqRX-AHWS8R7NHc5fSav49rZrkxgUocU1Ti9A"
+      }
+    },
+    {
+      "transaction_id": "MzI4ODM1NTY1NmFkaXF6a2N4",
+      "barcode": "X9W05VZF",
+      "type": "AA",
+      "date": "2021-01-12",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2020-01-31"
+      },
+      "pages": 2,
+      "action_date": "2020-01-31",
+      "links": {
+        "self": "/company/11774302/filing-history/MzI4ODM1NTY1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9bK63hzcFsC7NhJJadBSGwwFPoqhj5gKDsHtJwA6TIE"
+      }
+    },
+    {
+      "transaction_id": "MzI2NjQ5NTMxN2FkaXF6a2N4",
+      "barcode": "X96G6D14",
+      "type": "AD01",
+      "date": "2020-06-03",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2020-06-03",
+        "old_address": "Suite-15, 2nd Floor 225 Marsh Wall London E14 9FW England",
+        "new_address": "107 Burdett Road London E3 4JN"
+      },
+      "pages": 1,
+      "action_date": "2020-06-03",
+      "links": {
+        "self": "/company/11774302/filing-history/MzI2NjQ5NTMxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tn7c66sqLJXMZuxW3UAcjnZmZf1UKNzUG9l9L56Yq1k"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTI0NjY2MWFkaXF6a2N4",
+      "barcode": "X8X6DVZJ",
+      "type": "CS01",
+      "date": "2020-01-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-01-16"
+      },
+      "pages": 3,
+      "action_date": "2020-01-16",
+      "links": {
+        "self": "/company/11774302/filing-history/MzI1NTI0NjY2MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/k_odOcz3xwWgc-wr4nQSkeXAeqoqCN9n43LM81RuMjU"
+      }
+    },
+    {
+      "transaction_id": "MzIzMjcwMDY4N2FkaXF6a2N4",
+      "barcode": "X84258PN",
+      "type": "AD01",
+      "date": "2019-04-24",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2019-04-24",
+        "old_address": "38a Collingbourne Road London W12 0JQ United Kingdom",
+        "new_address": "Suite-15, 2nd Floor 225 Marsh Wall London E14 9FW"
+      },
+      "pages": 1,
+      "action_date": "2019-04-24",
+      "links": {
+        "self": "/company/11774302/filing-history/MzIzMjcwMDY4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wR4-lZtk_CqG2S7vXPOlclWrM7mKU-rF9IZ0iNYqwSA"
+      }
+    },
+    {
+      "transaction_id": "MzIyNDY3OTY1N2FkaXF6a2N4",
+      "barcode": "X7XCSMNT",
+      "type": "NEWINC",
+      "date": "2019-01-17",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-01-17",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-01-17",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-01-17",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2019-01-17"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 11,
+      "links": {
+        "self": "/company/11774302/filing-history/MzIyNDY3OTY1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qF7oasjDAQlh0O34kUIDygSiswP9vOIlCXSXEOan-Qc"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 28
+}

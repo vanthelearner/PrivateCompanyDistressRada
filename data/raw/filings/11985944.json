@@ -1,0 +1,341 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQyMTgxNDc5MWFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2024-05-15",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11985944/filing-history/MzQyMTgxNDc5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vQ6fe_SH-DiT7ALyMJu0tDvktvYy2yW1YF3B543EMx0"
+      }
+    },
+    {
+      "transaction_id": "MzQxOTMxMDU3NmFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2024-04-30",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11985944/filing-history/MzQxOTMxMDU3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CbjGdal-CMcovEEGTgJvL43Y68xO2iNXk-XYAb-fYkY"
+      }
+    },
+    {
+      "transaction_id": "MzM4NDAxNzM5MGFkaXF6a2N4",
+      "barcode": "XC6AL6KO",
+      "type": "CS01",
+      "date": "2023-06-23",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-05-04"
+      },
+      "pages": 3,
+      "action_date": "2023-05-04",
+      "links": {
+        "self": "/company/11985944/filing-history/MzM4NDAxNzM5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tbkJ3Qi5Z3QWVL3Oenz0qeG7N1tkSYjG0yv-ciso7T0"
+      }
+    },
+    {
+      "transaction_id": "MzM4NDAxNzIwNGFkaXF6a2N4",
+      "barcode": "XC6AL5FM",
+      "type": "AA",
+      "date": "2023-06-23",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-05-31"
+      },
+      "pages": 3,
+      "action_date": "2022-05-31",
+      "links": {
+        "self": "/company/11985944/filing-history/MzM4NDAxNzIwNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sYKa_AcMOu_AKuXgpqVDaOxE3tPRgPkKcPbJN3HLHNQ"
+      }
+    },
+    {
+      "transaction_id": "MzM3MzE1MjMyMWFkaXF6a2N4",
+      "barcode": "XBZI24HK",
+      "type": "AD01",
+      "date": "2023-03-17",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-03-17",
+        "old_address": "Building 18 Gateway 1000, Whittle Way Arlington Business Park Stevenage Hertfordshire SG1 2FP England",
+        "new_address": "23 Saxon Close Northfleet Gravesend DA11 8HA"
+      },
+      "pages": 1,
+      "action_date": "2023-03-17",
+      "links": {
+        "self": "/company/11985944/filing-history/MzM3MzE1MjMyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ykBa21X8-TxtePwVxsnzrv-qbJ4NVahyBNCBJHmTer0"
+      }
+    },
+    {
+      "transaction_id": "MzM0MTY3NjczMmFkaXF6a2N4",
+      "barcode": "AB5GPXC9",
+      "type": "AAMD",
+      "date": "2022-06-10",
+      "category": "accounts",
+      "description": "accounts-amended-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2020-05-31"
+      },
+      "pages": 4,
+      "action_date": "2020-05-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11985944/filing-history/MzM0MTY3NjczMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MUEwadqoBnpvNT2m5G4kDIcRs38H1Lbp7wpS9L-cC78"
+      }
+    },
+    {
+      "transaction_id": "MzM0MDk5MjMwNGFkaXF6a2N4",
+      "barcode": "XB53BGHK",
+      "type": "AA",
+      "date": "2022-05-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-05-31"
+      },
+      "pages": 3,
+      "action_date": "2021-05-31",
+      "links": {
+        "self": "/company/11985944/filing-history/MzM0MDk5MjMwNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gwp5fQrRekkfO-ol-pwQJWjGTIGhDraGAv6oTXYD0Kw"
+      }
+    },
+    {
+      "transaction_id": "MzMzODY4ODE0MWFkaXF6a2N4",
+      "barcode": "XB3NYKLT",
+      "type": "CS01",
+      "date": "2022-05-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-05-04"
+      },
+      "pages": 3,
+      "action_date": "2022-05-04",
+      "links": {
+        "self": "/company/11985944/filing-history/MzMzODY4ODE0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/S1sHxm6E1BOCyOg_npyYShEM60InLCafcwkubWib9aA"
+      }
+    },
+    {
+      "transaction_id": "MzMwMDgwNDM5NGFkaXF6a2N4",
+      "barcode": "XA4DEQ34",
+      "type": "CS01",
+      "date": "2021-05-12",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-05-04"
+      },
+      "pages": 3,
+      "action_date": "2021-05-04",
+      "links": {
+        "self": "/company/11985944/filing-history/MzMwMDgwNDM5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tZlkLzYehyHbswvJFngKJGih7qhgn_V7-2BQ19AbYe8"
+      }
+    },
+    {
+      "transaction_id": "MzI5NDMzMjQ2MmFkaXF6a2N4",
+      "barcode": "XA0BIV5N",
+      "type": "AA",
+      "date": "2021-03-15",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-05-31"
+      },
+      "pages": 3,
+      "action_date": "2020-05-31",
+      "links": {
+        "self": "/company/11985944/filing-history/MzI5NDMzMjQ2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jTzlwU4zfVhu6YFPrbk2y4lHwJ55WesEm-Y8FUd9FO4"
+      }
+    },
+    {
+      "transaction_id": "MzI4OTIwMTEzOGFkaXF6a2N4",
+      "barcode": "X9WLIBZD",
+      "type": "CH01",
+      "date": "2021-01-20",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-01-19",
+        "officer_name": "Miss Maxine Thompson-Reede"
+      },
+      "pages": 2,
+      "action_date": "2021-01-19",
+      "links": {
+        "self": "/company/11985944/filing-history/MzI4OTIwMTEzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6V5tbNooPhDxa-Br0zXg1Yovh7lq81OMWi9n_0IqfKw"
+      }
+    },
+    {
+      "transaction_id": "MzI4OTIwMTEwNWFkaXF6a2N4",
+      "barcode": "X9WLIC29",
+      "type": "PSC04",
+      "date": "2021-01-20",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2021-01-19",
+        "psc_name": "Miss Maxine Thompson-Reede"
+      },
+      "pages": 2,
+      "action_date": "2021-01-19",
+      "links": {
+        "self": "/company/11985944/filing-history/MzI4OTIwMTEwNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CZtAJ1_mUSC-_8ZTx3XZLybU0Wmpd94nJTHo9iiMRZc"
+      }
+    },
+    {
+      "transaction_id": "MzI2NDg4NjY5NGFkaXF6a2N4",
+      "barcode": "X954CCG0",
+      "type": "PSC04",
+      "date": "2020-05-15",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-05-15",
+        "psc_name": "Miss Maxine Thompson-Reede"
+      },
+      "pages": 2,
+      "action_date": "2020-05-15",
+      "links": {
+        "self": "/company/11985944/filing-history/MzI2NDg4NjY5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/JiPhEJEO3MDp_GmWJ_NuZlIABRKwzhQxNHry3Otl4MY"
+      }
+    },
+    {
+      "transaction_id": "MzI2NDg4NjYxOGFkaXF6a2N4",
+      "barcode": "X954CC5M",
+      "type": "CH01",
+      "date": "2020-05-15",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-05-15",
+        "officer_name": "Miss Maxine Thompson-Reede"
+      },
+      "pages": 2,
+      "action_date": "2020-05-15",
+      "links": {
+        "self": "/company/11985944/filing-history/MzI2NDg4NjYxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ku-chg0nDPiYpgpueb9u5eWrKbCaHQUZqaWc9I-7WF8"
+      }
+    },
+    {
+      "transaction_id": "MzI2NDg4NjUzN2FkaXF6a2N4",
+      "barcode": "X954CBRS",
+      "type": "PSC04",
+      "date": "2020-05-15",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-05-15",
+        "psc_name": "Miss Maxine Thompson-Reede"
+      },
+      "pages": 2,
+      "action_date": "2020-05-15",
+      "links": {
+        "self": "/company/11985944/filing-history/MzI2NDg4NjUzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KcEJvWtQdMCnr18yYnau8tcu39N_gSPxQGG9uteENKs"
+      }
+    },
+    {
+      "transaction_id": "MzI2NDg4NjM3N2FkaXF6a2N4",
+      "barcode": "X954CB69",
+      "type": "AD01",
+      "date": "2020-05-15",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2020-05-15",
+        "old_address": "20-22 Wenlock Road London N1 7GU England",
+        "new_address": "Building 18 Gateway 1000, Whittle Way Arlington Business Park Stevenage Hertfordshire SG1 2FP"
+      },
+      "pages": 1,
+      "action_date": "2020-05-15",
+      "links": {
+        "self": "/company/11985944/filing-history/MzI2NDg4NjM3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6Q5FURlYfATQGE_80_lfV465ZlB24geTSdhRMtuXu3s"
+      }
+    },
+    {
+      "transaction_id": "MzI2Mzg3NDE1MmFkaXF6a2N4",
+      "barcode": "X94BBMRK",
+      "type": "CS01",
+      "date": "2020-05-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-05-04"
+      },
+      "pages": 3,
+      "action_date": "2020-05-04",
+      "links": {
+        "self": "/company/11985944/filing-history/MzI2Mzg3NDE1MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ppiW_0CsbdLchg5YgHUPKNdLnGdh0Sgu9Asjjnjg95Q"
+      }
+    },
+    {
+      "transaction_id": "MzIzMzkxMjc1NWFkaXF6a2N4",
+      "barcode": "X850PS2Y",
+      "type": "NEWINC",
+      "date": "2019-05-09",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-05-09",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-05-09",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-05-09",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2019-05-09"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/11985944/filing-history/MzIzMzkxMjc1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Be3tf8Dz6gb5ARBiOzbs87SF3ZYpRmOXmO_8PcY5uCk"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 18
+}

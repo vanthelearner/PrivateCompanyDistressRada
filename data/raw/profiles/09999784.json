@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2020-02-29",
+      "period_end_on": "2020-02-29",
+      "period_start_on": "2019-03-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2021-11-30",
+      "overdue": true,
+      "period_end_on": "2021-02-28",
+      "period_start_on": "2020-03-01"
+    },
+    "next_due": "2021-11-30",
+    "next_made_up_to": "2021-02-28",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "HODGKINSON CONSULTANCY SERVICES LTD",
+  "company_number": "09999784",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2022-02-10",
+    "next_due": "2023-02-24",
+    "next_made_up_to": "2023-02-10",
+    "overdue": true
+  },
+  "date_of_creation": "2016-02-11",
+  "etag": "f0031db97f51f065bb53bf34f7c4b7ec8ba718d7",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/09999784/persons-with-significant-control",
+    "self": "/company/09999784",
+    "filing_history": "/company/09999784/filing-history",
+    "officers": "/company/09999784/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "19 Lincoln Square",
+    "country": "England",
+    "locality": "Widnes",
+    "postal_code": "WA8 6SR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70221"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

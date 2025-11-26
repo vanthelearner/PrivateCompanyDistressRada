@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2020-02-28",
+      "period_end_on": "2020-02-28",
+      "period_start_on": "2019-02-14",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2021-11-30",
+      "overdue": true,
+      "period_end_on": "2021-02-28",
+      "period_start_on": "2020-02-29"
+    },
+    "next_due": "2021-11-30",
+    "next_made_up_to": "2021-02-28",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "ESSEX ADVERTISING SERVICES LTD",
+  "company_number": "11826595",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2021-02-13",
+    "next_due": "2022-02-27",
+    "next_made_up_to": "2022-02-13",
+    "overdue": true
+  },
+  "date_of_creation": "2019-02-14",
+  "etag": "5c509084bb030fa17118e0dcd542183553616eae",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11826595/persons-with-significant-control",
+    "self": "/company/11826595",
+    "filing_history": "/company/11826595/filing-history",
+    "officers": "/company/11826595/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "181-183 Station Lane",
+    "country": "United Kingdom",
+    "locality": "Hornchurch",
+    "postal_code": "RM12 6LL"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "73110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

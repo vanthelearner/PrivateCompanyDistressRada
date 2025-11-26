@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2020-06-30",
+      "period_end_on": "2020-06-30",
+      "period_start_on": "2019-07-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2022-03-31",
+      "overdue": true,
+      "period_end_on": "2021-06-30",
+      "period_start_on": "2020-07-01"
+    },
+    "next_due": "2022-03-31",
+    "next_made_up_to": "2021-06-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TOWNLEY SERVICES LIMITED",
+  "company_number": "11430485",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2021-07-11",
+    "next_due": "2022-07-25",
+    "next_made_up_to": "2022-07-11",
+    "overdue": true
+  },
+  "date_of_cessation": "2021-12-07",
+  "date_of_creation": "2018-06-25",
+  "etag": "b8ba06ff7d8fa2f1997c2ac95e4c556640dcb189",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11430485/persons-with-significant-control",
+    "self": "/company/11430485",
+    "filing_history": "/company/11430485/filing-history",
+    "officers": "/company/11430485/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "28 Sparrowgrove",
+    "address_line_2": "Otterbourne",
+    "country": "United Kingdom",
+    "locality": "Winchester",
+    "postal_code": "SO21 2DL"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

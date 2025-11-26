@@ -1,0 +1,97 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQ3NTQ5OTA4MGFkaXF6a2N4",
+      "barcode": "XE7TA7E0",
+      "type": "AA",
+      "date": "2025-07-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2024-12-31"
+      },
+      "pages": 7,
+      "action_date": "2024-12-31",
+      "links": {
+        "self": "/company/15664493/filing-history/MzQ3NTQ5OTA4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/39HYqn7sjmk1S9nCALDSjZq1eLks2O9tAWw-kd-orxs"
+      }
+    },
+    {
+      "transaction_id": "MzQ2MzgyMzU3M2FkaXF6a2N4",
+      "barcode": "XE14I08I",
+      "type": "CS01",
+      "date": "2025-04-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2025-04-19"
+      },
+      "pages": 4,
+      "action_date": "2025-04-19",
+      "links": {
+        "self": "/company/15664493/filing-history/MzQ2MzgyMzU3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tfVo8wph-fJoz8HzrXeLSZkP3dCllNrhEtqo5916gEI"
+      }
+    },
+    {
+      "transaction_id": "MzQyMTgxMjEwOWFkaXF6a2N4",
+      "barcode": "XD340AD5",
+      "type": "AA01",
+      "date": "2024-05-14",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-current-shortened",
+      "description_values": {
+        "made_up_date": "2025-04-30",
+        "new_date": "2024-12-31"
+      },
+      "pages": 1,
+      "action_date": "2024-12-31",
+      "links": {
+        "self": "/company/15664493/filing-history/MzQyMTgxMjEwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5Zkq8vLGpWNwztP08w_WytV70uO4iSOITHhOeNeGM5k"
+      }
+    },
+    {
+      "transaction_id": "MzQxOTAyNjMxM2FkaXF6a2N4",
+      "barcode": "XD1DZR8H",
+      "type": "NEWINC",
+      "date": "2024-04-20",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2024-04-20",
+          "description": "model-articles-adopted-amended-provisions",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2024-04-20",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2024-04-20",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2024-04-20"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 35,
+      "links": {
+        "self": "/company/15664493/filing-history/MzQxOTAyNjMxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DAbowlMjKsxHJmNk8gPgNrEcRBuOlS5m1VWZFrZVsvQ"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 4
+}

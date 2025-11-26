@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2018-09-30",
+      "period_end_on": "2018-09-30",
+      "period_start_on": "2017-10-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2020-09-30",
+      "overdue": true,
+      "period_end_on": "2019-09-30",
+      "period_start_on": "2018-10-01"
+    },
+    "next_due": "2020-09-30",
+    "next_made_up_to": "2019-09-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "JAIMAA CONSULTANT LTD",
+  "company_number": "10373307",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2019-09-12",
+    "next_due": "2020-10-24",
+    "next_made_up_to": "2020-09-12",
+    "overdue": true
+  },
+  "date_of_cessation": "2020-12-29",
+  "date_of_creation": "2016-09-13",
+  "etag": "02b10685e1454383d11fc37e2a257755a57149a9",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control_statements": "/company/10373307/persons-with-significant-control-statements",
+    "self": "/company/10373307",
+    "filing_history": "/company/10373307/filing-history",
+    "officers": "/company/10373307/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "1 Bramley Close",
+    "country": "United Kingdom",
+    "locality": "Maidenhead",
+    "postal_code": "SL6 3HQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

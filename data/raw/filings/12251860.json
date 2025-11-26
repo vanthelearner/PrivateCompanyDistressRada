@@ -1,0 +1,277 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQzMDc0NDUyOGFkaXF6a2N4",
+      "barcode": "XD8I79W3",
+      "type": "AA",
+      "date": "2024-07-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-10-31"
+      },
+      "pages": 5,
+      "action_date": "2023-10-31",
+      "links": {
+        "self": "/company/12251860/filing-history/MzQzMDc0NDUyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/A4Mv3HfVih3FeyfG4wr2BMTWS59UIMo-_RGyl1kZ_O4"
+      }
+    },
+    {
+      "transaction_id": "MzQyMTgxODIyMmFkaXF6a2N4",
+      "type": "SOAS(A)",
+      "date": "2024-05-15",
+      "category": "dissolution",
+      "description": "dissolution-voluntary-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12251860/filing-history/MzQyMTgxODIyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/w4Qpj3EIl1z4auCWRSZaXNEn_S-cEhUZCO5cwhmwkwA"
+      }
+    },
+    {
+      "transaction_id": "MzQxODA0MTAwMmFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2024-04-23",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12251860/filing-history/MzQxODA0MTAwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/NixJje33O9EmnN6SH59Gb1MLUNT32V5_JsvVwSWR9k0"
+      }
+    },
+    {
+      "transaction_id": "MzQxODA0MDE0MGFkaXF6a2N4",
+      "barcode": "XCZCR39V",
+      "type": "DS01",
+      "date": "2024-04-12",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/12251860/filing-history/MzQxODA0MDE0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/18kwg98ximtKT4zBD2GJBmvrR-dxA6JWQdJjAk2h_rw"
+      }
+    },
+    {
+      "transaction_id": "MzM5NTkxMjI3MWFkaXF6a2N4",
+      "barcode": "XCDTXARN",
+      "type": "CS01",
+      "date": "2023-10-10",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-09-30"
+      },
+      "pages": 3,
+      "action_date": "2023-09-30",
+      "links": {
+        "self": "/company/12251860/filing-history/MzM5NTkxMjI3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_0lcKS-mNuGQacPvFVXbFeoe5amx9GOIHGID2wxuS3E"
+      }
+    },
+    {
+      "transaction_id": "MzM4Nzk3Mzk5OWFkaXF6a2N4",
+      "barcode": "XC8OUOKR",
+      "type": "AA",
+      "date": "2023-07-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-10-31"
+      },
+      "pages": 5,
+      "action_date": "2022-10-31",
+      "links": {
+        "self": "/company/12251860/filing-history/MzM4Nzk3Mzk5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/r_sWTubFnz2mz-7yYMtGHUThkv-a4xuCx6Tb4KB6iUA"
+      }
+    },
+    {
+      "transaction_id": "MzM2OTY5Nzc2MGFkaXF6a2N4",
+      "barcode": "XBXJRD0O",
+      "type": "AD01",
+      "date": "2023-02-17",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-02-17",
+        "old_address": "201a First Floor Church Road Hove East Sussex BN3 2AB England",
+        "new_address": "12a Marlborough Place Brighton BN1 1WN"
+      },
+      "pages": 1,
+      "action_date": "2023-02-17",
+      "links": {
+        "self": "/company/12251860/filing-history/MzM2OTY5Nzc2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dEQOk8Tu6FwMb_13WHP_a3-qRnP_AkeAXf16Z8H3LYg"
+      }
+    },
+    {
+      "transaction_id": "MzM1Mzc0ODU0MGFkaXF6a2N4",
+      "barcode": "XBDNKOBM",
+      "type": "CS01",
+      "date": "2022-09-30",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-09-30"
+      },
+      "pages": 3,
+      "action_date": "2022-09-30",
+      "links": {
+        "self": "/company/12251860/filing-history/MzM1Mzc0ODU0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/p99NxOScFYaojCvL9S1n2iPjH3fps2dIdqoId6h8QtY"
+      }
+    },
+    {
+      "transaction_id": "MzM0NDI3MDMxM2FkaXF6a2N4",
+      "barcode": "XB79723C",
+      "type": "AA",
+      "date": "2022-06-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-10-31"
+      },
+      "pages": 6,
+      "action_date": "2021-10-31",
+      "links": {
+        "self": "/company/12251860/filing-history/MzM0NDI3MDMxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/r2rr2jAD-zjId65cOulFcbrQkv8s4xxuI8T-XcuguHM"
+      }
+    },
+    {
+      "transaction_id": "MzMxNzg1Nzg3OGFkaXF6a2N4",
+      "barcode": "XAFOL74Z",
+      "type": "CS01",
+      "date": "2021-10-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-10-08"
+      },
+      "pages": 3,
+      "action_date": "2021-10-08",
+      "links": {
+        "self": "/company/12251860/filing-history/MzMxNzg1Nzg3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/S1joNUvtLMwVfbg_xxdrQcS4ecu7aQd30w1WXDH-U28"
+      }
+    },
+    {
+      "transaction_id": "MzMwNDI4Mjk2NGFkaXF6a2N4",
+      "barcode": "XA6LZO4R",
+      "type": "AA",
+      "date": "2021-06-14",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-10-31"
+      },
+      "pages": 5,
+      "action_date": "2020-10-31",
+      "links": {
+        "self": "/company/12251860/filing-history/MzMwNDI4Mjk2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cWSKD3HbYGOIo8Uu8n7KfOLwpQJFIsFY4sisjhlFmX4"
+      }
+    },
+    {
+      "transaction_id": "MzI4NzY4NzA0MGFkaXF6a2N4",
+      "barcode": "X9VMONK1",
+      "type": "CS01",
+      "date": "2021-01-06",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-10-08"
+      },
+      "pages": 3,
+      "action_date": "2020-10-08",
+      "links": {
+        "self": "/company/12251860/filing-history/MzI4NzY4NzA0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zxW2Sx5WqD5aleIOT0mh6uSkGF334i2vO5pZj4dqNjU"
+      }
+    },
+    {
+      "transaction_id": "MzI4MzQ5NDM1NmFkaXF6a2N4",
+      "barcode": "X9HY9F0O",
+      "type": "AD01",
+      "date": "2020-11-16",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2020-11-16",
+        "old_address": "201a 201a Church Road Hove East Sussex BN3 2AB England",
+        "new_address": "201a First Floor Church Road Hove East Sussex BN3 2AB"
+      },
+      "pages": 1,
+      "action_date": "2020-11-16",
+      "links": {
+        "self": "/company/12251860/filing-history/MzI4MzQ5NDM1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/H9O8aG5JRhCT1EtFuFRiLYFC-mLpgv8tYxOMeYQPeg4"
+      }
+    },
+    {
+      "transaction_id": "MzI2NzAxNzI1NmFkaXF6a2N4",
+      "barcode": "X96W552B",
+      "type": "AD01",
+      "date": "2020-06-10",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2020-06-10",
+        "old_address": "C/O Gilbody and Co 65 Sackville Road Hove East Sussex BN3 3WE England",
+        "new_address": "201a 201a Church Road Hove East Sussex BN3 2AB"
+      },
+      "pages": 1,
+      "action_date": "2020-06-10",
+      "links": {
+        "self": "/company/12251860/filing-history/MzI2NzAxNzI1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/M1jwfZG2v2BUb4bNl8R-BphohzI9PdyYrp5JKTa1iw4"
+      }
+    },
+    {
+      "transaction_id": "MzI0NjMwMjEzNGFkaXF6a2N4",
+      "barcode": "X8FOFU21",
+      "type": "NEWINC",
+      "date": "2019-10-09",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-10-09",
+          "description": "model-articles-adopted-amended-provisions",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-10-09",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-10-09",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2019-10-09"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 16,
+      "links": {
+        "self": "/company/12251860/filing-history/MzI0NjMwMjEzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rqer2Nz97VI6ZkamkMvnUyCoO0nRi0Dy4Ls7i9EkANU"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 15
+}

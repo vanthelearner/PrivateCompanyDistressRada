@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-04-30",
+      "period_end_on": "2024-04-30",
+      "period_start_on": "2023-05-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-01-31",
+      "overdue": false,
+      "period_end_on": "2025-04-30",
+      "period_start_on": "2024-05-01"
+    },
+    "next_due": "2026-01-31",
+    "next_made_up_to": "2025-04-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "S.TAYLOR LOGISTICS CONSULTING LTD",
+  "company_number": "11324336",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-04-22",
+    "next_due": "2026-05-06",
+    "next_made_up_to": "2026-04-22",
+    "overdue": false
+  },
+  "date_of_creation": "2018-04-23",
+  "etag": "5785c110c1b59f79cb0863748040ba0432f7b4e5",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11324336/persons-with-significant-control",
+    "self": "/company/11324336",
+    "filing_history": "/company/11324336/filing-history",
+    "officers": "/company/11324336/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "5 Coxwold View",
+    "country": "United Kingdom",
+    "locality": "Wetherby",
+    "postal_code": "LS22 7PU"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

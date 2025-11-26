@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-04-30",
+      "period_end_on": "2022-04-30",
+      "period_start_on": "2021-05-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2024-01-31",
+      "overdue": true,
+      "period_end_on": "2023-04-30",
+      "period_start_on": "2022-05-01"
+    },
+    "next_due": "2024-01-31",
+    "next_made_up_to": "2023-04-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TIATC LTD",
+  "company_number": "11943130",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-03-28",
+    "next_due": "2024-04-11",
+    "next_made_up_to": "2024-03-28",
+    "overdue": true
+  },
+  "date_of_creation": "2019-04-12",
+  "etag": "25a96df5991e25d8dfdb9b7552fd902174609c0f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11943130/persons-with-significant-control",
+    "self": "/company/11943130",
+    "filing_history": "/company/11943130/filing-history",
+    "officers": "/company/11943130/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "20 St Catherines Court",
+    "address_line_2": "Star Hill",
+    "country": "England",
+    "locality": "Rochester",
+    "postal_code": "ME1 1GA"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

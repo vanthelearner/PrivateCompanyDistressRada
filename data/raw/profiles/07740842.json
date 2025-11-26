@@ -1,0 +1,61 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-08-31",
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-09-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-31",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-09-01"
+    },
+    "next_due": "2026-05-31",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "DECOUPLE LIMITED",
+  "company_number": "07740842",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-08-15",
+    "next_due": "2026-08-29",
+    "next_made_up_to": "2026-08-15",
+    "overdue": false
+  },
+  "date_of_creation": "2011-08-15",
+  "etag": "e328759195d0acc552b87c269ee92b1296d91f9a",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-08-15",
+  "links": {
+    "persons_with_significant_control": "/company/07740842/persons-with-significant-control",
+    "persons_with_significant_control_statements": "/company/07740842/persons-with-significant-control-statements",
+    "self": "/company/07740842",
+    "filing_history": "/company/07740842/filing-history",
+    "officers": "/company/07740842/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Ashlea Merrybank Lane",
+    "address_line_2": "Huby",
+    "locality": "Leeds",
+    "postal_code": "LS17 0EW",
+    "region": "Yorkshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

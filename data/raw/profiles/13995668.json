@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "DMRC CONSULTANCY SERVICES LIMITED",
+  "company_number": "13995668",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-03-21",
+    "next_due": "2026-04-04",
+    "next_made_up_to": "2026-03-21",
+    "overdue": false
+  },
+  "date_of_creation": "2022-03-22",
+  "etag": "18e09907fecd6a9fd49a8c9572d65aad5f591646",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/13995668/persons-with-significant-control",
+    "self": "/company/13995668",
+    "filing_history": "/company/13995668/filing-history",
+    "officers": "/company/13995668/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "The Corner House",
+    "address_line_2": "2 High Street",
+    "country": "England",
+    "locality": "Aylesford",
+    "postal_code": "ME20 7BG"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-12-31",
+      "period_end_on": "2022-12-31",
+      "period_start_on": "2022-01-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2024-06-26",
+      "overdue": true,
+      "period_end_on": "2023-02-28",
+      "period_start_on": "2023-01-01"
+    },
+    "next_due": "2024-06-26",
+    "next_made_up_to": "2023-02-28",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "TECHLAWYER CONSULTANCY LIMITED",
+  "company_number": "11579423",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-09-19",
+    "next_due": "2024-10-03",
+    "next_made_up_to": "2024-09-19",
+    "overdue": true
+  },
+  "date_of_creation": "2018-09-20",
+  "etag": "fb8c5cbcb0dd42aec5fd246a28a8f4a9ef510d89",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11579423/persons-with-significant-control",
+    "self": "/company/11579423",
+    "filing_history": "/company/11579423/filing-history",
+    "officers": "/company/11579423/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "22 Groveside Court Lombard Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW11 3RQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

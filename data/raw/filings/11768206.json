@@ -1,0 +1,139 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQwMzc5MjM1M2FkaXF6a2N4",
+      "barcode": "ACHPSOM8",
+      "type": "CH01",
+      "date": "2023-12-13",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2023-12-01",
+        "officer_name": "Christopher Pane"
+      },
+      "pages": 4,
+      "action_date": "2023-12-01",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11768206/filing-history/MzQwMzc5MjM1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kVOYXiB8_Z5pvxS69tfkfPsyMz4V7WSVpnTBRy__vIU"
+      }
+    },
+    {
+      "transaction_id": "MzQwMTU4OTkzMmFkaXF6a2N4",
+      "barcode": "RCGOK7GH",
+      "type": "AC92",
+      "date": "2023-11-27",
+      "category": "restoration",
+      "description": "restoration-order-of-court",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11768206/filing-history/MzQwMTU4OTkzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_zvHlYhxZU8l-j9h6gafGrRuaXUbQv3F2A5P8X0fpnI"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjg2Njg0NmFkaXF6a2N4",
+      "type": "GAZ2",
+      "date": "2021-07-13",
+      "category": "gazette",
+      "description": "gazette-dissolved-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11768206/filing-history/MzMwNjg2Njg0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cLd7n9I57PHt3FqCUEtfLxrd_93OsUiCCHM7iNL7BIQ"
+      }
+    },
+    {
+      "transaction_id": "MzI5NTk4Mzg1OWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2021-04-27",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11768206/filing-history/MzI5NTk4Mzg1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/IhfOxGt5rR9-ZatXu-k63dbu1uBExIKe5XiC3SLbAoI"
+      }
+    },
+    {
+      "transaction_id": "MzI2MzA5MTYwMGFkaXF6a2N4",
+      "barcode": "X93KRUC1",
+      "type": "CS01",
+      "date": "2020-04-23",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-02-09"
+      },
+      "pages": 3,
+      "action_date": "2020-02-09",
+      "links": {
+        "self": "/company/11768206/filing-history/MzI2MzA5MTYwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/IEeIC1Un9o9CeW-YZcukVsAbEDLP7whHTwFsyHfSes8"
+      }
+    },
+    {
+      "transaction_id": "MzIyNjYyMjI5NWFkaXF6a2N4",
+      "barcode": "X7YWKV56",
+      "type": "CS01",
+      "date": "2019-02-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-02-09"
+      },
+      "pages": 3,
+      "action_date": "2019-02-09",
+      "links": {
+        "self": "/company/11768206/filing-history/MzIyNjYyMjI5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wtoJTxM35FgD_TJ7Y205K310bjXSQxIG3eMJHtgMnl4"
+      }
+    },
+    {
+      "transaction_id": "MzIyNDQxNDg0MGFkaXF6a2N4",
+      "barcode": "X7X4VYK2",
+      "type": "NEWINC",
+      "date": "2019-01-15",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-01-15",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-01-15",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-01-15",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2019-01-15"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/11768206/filing-history/MzIyNDQxNDg0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hxv7wOwhWZZrsD4MnAQZEeO23CFNkHuI1QKhHTdNOfs"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 7
+}

@@ -1,0 +1,326 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQwNjIyNzA3NGFkaXF6a2N4",
+      "barcode": "XCTVHY2R",
+      "type": "AD01",
+      "date": "2024-01-03",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2024-01-03",
+        "old_address": "5 Maple Avenue Birtley Chester Le Street DH3 1FF England",
+        "new_address": "Milburn House Hexham Business Park Burn Lane Hexham Northumberland NE46 3RU"
+      },
+      "pages": 1,
+      "action_date": "2024-01-03",
+      "links": {
+        "self": "/company/12549088/filing-history/MzQwNjIyNzA3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8KLYLy9HgcsZiqGWPha1IlOIx6gM-r1PsinDXb6hknw"
+      }
+    },
+    {
+      "transaction_id": "MzQwNjI1MjUwMWFkaXF6a2N4",
+      "barcode": "XCTVKZ29",
+      "type": "PSC04",
+      "date": "2024-01-02",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2024-01-02",
+        "psc_name": "Mr Michael Peter Harrison"
+      },
+      "pages": 2,
+      "action_date": "2024-01-02",
+      "links": {
+        "self": "/company/12549088/filing-history/MzQwNjI1MjUwMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RVqf805OQxlEnrXyr0pS61jlzFtmtNOo2ppY19D85is"
+      }
+    },
+    {
+      "transaction_id": "MzQwNjIyNzIyNmFkaXF6a2N4",
+      "barcode": "XCTVHZH6",
+      "type": "CH01",
+      "date": "2024-01-02",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2024-01-02",
+        "officer_name": "Mr Michael Peter Harrison"
+      },
+      "pages": 2,
+      "action_date": "2024-01-02",
+      "links": {
+        "self": "/company/12549088/filing-history/MzQwNjIyNzIyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CxK9G-z0uWBWQgl58KoQR4aQqueKSgvK7EyUbjhKH3E"
+      }
+    },
+    {
+      "transaction_id": "MzQwNTIwMzg0MWFkaXF6a2N4",
+      "barcode": "XCIV6EJN",
+      "type": "AA",
+      "date": "2023-12-21",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-06-30"
+      },
+      "pages": 4,
+      "action_date": "2022-06-30",
+      "links": {
+        "self": "/company/12549088/filing-history/MzQwNTIwMzg0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Vo6Hs4Nhh-h1nmoxqM8usbNAgqPTM-nVhmzivxjlsx0"
+      }
+    },
+    {
+      "transaction_id": "MzQwNTE5OTEyN2FkaXF6a2N4",
+      "barcode": "XCIV5R23",
+      "type": "AA",
+      "date": "2023-12-21",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-06-30"
+      },
+      "pages": 3,
+      "action_date": "2021-06-30",
+      "links": {
+        "self": "/company/12549088/filing-history/MzQwNTE5OTEyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WH7B1_P8TzEXHEQFv6ipa6O8piLx55tOxjldh3S2HW8"
+      }
+    },
+    {
+      "transaction_id": "MzM5NzAwODk2MGFkaXF6a2N4",
+      "barcode": "XCEFC2IA",
+      "type": "TM01",
+      "date": "2023-10-18",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Lorraine Hamilton",
+        "termination_date": "2023-09-16"
+      },
+      "pages": 1,
+      "action_date": "2023-09-16",
+      "links": {
+        "self": "/company/12549088/filing-history/MzM5NzAwODk2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/TAs2bf-dJmEjeotA6T-5NmeYNmDKvZYyRCvDbzgpCMA"
+      }
+    },
+    {
+      "transaction_id": "MzM3NjcxNjYxNGFkaXF6a2N4",
+      "barcode": "XC1QQRDM",
+      "type": "CS01",
+      "date": "2023-04-18",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-04-05"
+      },
+      "pages": 3,
+      "action_date": "2023-04-05",
+      "links": {
+        "self": "/company/12549088/filing-history/MzM3NjcxNjYxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/PwNTgAm_t1Jj-FH29GM2K2qzQvAD7JYVlQjGg7QdMp0"
+      }
+    },
+    {
+      "transaction_id": "MzM3Mzc1MjA1NmFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2023-03-24",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12549088/filing-history/MzM3Mzc1MjA1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/y7OWczHBvkxZvXeWAZJamQn4Gw53HqOFJ6SbquFQ_5E"
+      }
+    },
+    {
+      "transaction_id": "MzM3MTY2NDgyNGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2023-03-14",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12549088/filing-history/MzM3MTY2NDgyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/NtHUQO-Q8rlN4VELpkI7wnh4TlV1ncVP8zODdcSZxbs"
+      }
+    },
+    {
+      "transaction_id": "MzM2ODQ3MjU0MmFkaXF6a2N4",
+      "barcode": "XBWVIOI9",
+      "type": "AD01",
+      "date": "2023-02-07",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-02-07",
+        "old_address": "513 Durham Road Gateshead NE9 5EY United Kingdom",
+        "new_address": "5 Maple Avenue Birtley Chester Le Street DH3 1FF"
+      },
+      "pages": 1,
+      "action_date": "2023-02-07",
+      "links": {
+        "self": "/company/12549088/filing-history/MzM2ODQ3MjU0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uaO2u16cdAzV9EIaZpCVJN_ifAcuBm-zs3TUpuwhtcs"
+      }
+    },
+    {
+      "transaction_id": "MzMzNTU5MTE5M2FkaXF6a2N4",
+      "barcode": "XB1G50ZC",
+      "type": "CS01",
+      "date": "2022-04-07",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2022-04-05"
+      },
+      "pages": 4,
+      "action_date": "2022-04-05",
+      "links": {
+        "self": "/company/12549088/filing-history/MzMzNTU5MTE5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ENGOXAa5DtywNiIjEWe4nqNJ3QNSTqGsYyomh9kVodo"
+      }
+    },
+    {
+      "transaction_id": "MzMzNTU4NDM2NmFkaXF6a2N4",
+      "barcode": "XB1G47W0",
+      "type": "PSC04",
+      "date": "2022-04-07",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2022-04-05",
+        "psc_name": "Mr Michael Peter Harrison"
+      },
+      "pages": 2,
+      "action_date": "2022-04-05",
+      "links": {
+        "self": "/company/12549088/filing-history/MzMzNTU4NDM2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Itmva2CVMptVoECQ-ovSLnkOg5YwYqDp_F8QpTM2uR8"
+      }
+    },
+    {
+      "transaction_id": "MzMzNTU4NDI1MWFkaXF6a2N4",
+      "barcode": "XB1G47VK",
+      "type": "CH01",
+      "date": "2022-04-07",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2022-04-05",
+        "officer_name": "Mr Michael Peter Harrison"
+      },
+      "pages": 2,
+      "action_date": "2022-04-05",
+      "links": {
+        "self": "/company/12549088/filing-history/MzMzNTU4NDI1MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qm7Nv1IVoePSuHqrT8qBdjIYcgGTySqSSglRY9gqq1g"
+      }
+    },
+    {
+      "transaction_id": "MzMzNTU4NDE3M2FkaXF6a2N4",
+      "barcode": "XB1G47GI",
+      "type": "CH01",
+      "date": "2022-04-07",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2022-04-05",
+        "officer_name": "Mrs Lorraine Hamilton"
+      },
+      "pages": 2,
+      "action_date": "2022-04-05",
+      "links": {
+        "self": "/company/12549088/filing-history/MzMzNTU4NDE3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FyYOIZJOKJT1ihvSlX9Nei1SjCEOt5X2r5zps6XZ44o"
+      }
+    },
+    {
+      "transaction_id": "MzMyNTcyNTczMGFkaXF6a2N4",
+      "barcode": "XAV0SKLF",
+      "type": "AA01",
+      "date": "2022-01-05",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-extended",
+      "description_values": {
+        "made_up_date": "2021-04-30",
+        "new_date": "2021-06-30"
+      },
+      "pages": 1,
+      "action_date": "2021-06-30",
+      "links": {
+        "self": "/company/12549088/filing-history/MzMyNTcyNTczMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/krgO8Ix4-5PFhOBsqpe9LAO9uhEDSrG4vikbWhfeIzA"
+      }
+    },
+    {
+      "transaction_id": "MzMwNzI4NTkyMWFkaXF6a2N4",
+      "barcode": "XA8CE4YJ",
+      "type": "CS01",
+      "date": "2021-07-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2021-04-05"
+      },
+      "pages": 5,
+      "action_date": "2021-04-05",
+      "links": {
+        "self": "/company/12549088/filing-history/MzMwNzI4NTkyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/AiV_oUEKdZDvTMulGw1sXchsiOElUfgwKzrBEAylTzM"
+      }
+    },
+    {
+      "transaction_id": "MzI2MTgyNjczNGFkaXF6a2N4",
+      "barcode": "X92EQ5LM",
+      "type": "NEWINC",
+      "date": "2020-04-06",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2020-04-06",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2020-04-06",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-04-06",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2020-04-06"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 11,
+      "links": {
+        "self": "/company/12549088/filing-history/MzI2MTgyNjczNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oug0e1DmULkCatC7tKDjiIK9r52gP5jyAPx0y4wlXaA"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 17
+}

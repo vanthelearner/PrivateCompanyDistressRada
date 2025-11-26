@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "ARNOTT ASSOCIATES LIMITED",
+  "company_number": "05801661",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-05-14",
+    "next_due": "2026-05-28",
+    "next_made_up_to": "2026-05-14",
+    "overdue": false
+  },
+  "date_of_creation": "2006-05-02",
+  "etag": "f8795ca33f2b2eda75fada46b3a4db03a7c7a369",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-05-02",
+  "links": {
+    "persons_with_significant_control": "/company/05801661/persons-with-significant-control",
+    "self": "/company/05801661",
+    "filing_history": "/company/05801661/filing-history",
+    "officers": "/company/05801661/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Hellscombe",
+    "address_line_2": "Aldbourne",
+    "locality": "Marlborough",
+    "postal_code": "SN8 2JZ",
+    "region": "Wiltshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

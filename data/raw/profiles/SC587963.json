@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-02-28",
+      "period_end_on": "2024-02-28",
+      "period_start_on": "2023-03-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-11-30",
+      "overdue": false,
+      "period_end_on": "2025-02-28",
+      "period_start_on": "2024-02-29"
+    },
+    "next_due": "2025-11-30",
+    "next_made_up_to": "2025-02-28",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "ANSPRO LTD",
+  "company_number": "SC587963",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-02-06",
+    "next_due": "2025-02-20",
+    "next_made_up_to": "2025-02-06",
+    "overdue": true
+  },
+  "date_of_creation": "2018-02-07",
+  "etag": "e720626e3329796c7162c532dd3f80b90bd19620",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SC587963/persons-with-significant-control",
+    "self": "/company/SC587963",
+    "filing_history": "/company/SC587963/filing-history",
+    "officers": "/company/SC587963/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "28 Bannermill Place",
+    "country": "United Kingdom",
+    "locality": "Aberdeen",
+    "postal_code": "AB24 5EA"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

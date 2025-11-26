@@ -1,0 +1,62 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "MEARS ASH LIMITED",
+  "company_number": "03369943",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-05-13",
+    "next_due": "2026-05-27",
+    "next_made_up_to": "2026-05-13",
+    "overdue": false
+  },
+  "date_of_creation": "1997-05-13",
+  "etag": "66eab60731bf5b3b61a73580fd3beeaa526d4c79",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-05-13",
+  "links": {
+    "persons_with_significant_control": "/company/03369943/persons-with-significant-control",
+    "self": "/company/03369943",
+    "charges": "/company/03369943/charges",
+    "filing_history": "/company/03369943/filing-history",
+    "officers": "/company/03369943/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "28 Ashington Road",
+    "locality": "London",
+    "postal_code": "SW6 3QJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62012",
+    "68209",
+    "73110",
+    "74100"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

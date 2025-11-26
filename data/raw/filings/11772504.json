@@ -1,0 +1,185 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzM5MDg0MjUyOGFkaXF6a2N4",
+      "barcode": "RC9NYK3M",
+      "type": "AC92",
+      "date": "2023-08-25",
+      "category": "restoration",
+      "description": "restoration-order-of-court",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11772504/filing-history/MzM5MDg0MjUyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6W6A2lLp2YIS6hnwKKxSzJmGBgx-Z4hVQkAadnkSNAg"
+      }
+    },
+    {
+      "transaction_id": "MzMyMDQwODU2MGFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2021-11-30",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11772504/filing-history/MzMyMDQwODU2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_P1jYirLfzkTRb-BDU51o5n-N1RwJIN9MJbPKXi1qkE"
+      }
+    },
+    {
+      "transaction_id": "MzMxMTY3NzQ2MGFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2021-09-07",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11772504/filing-history/MzMxMTY3NzQ2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2oRriT_WDE8klgl0pxxXEb_LhO6XLVeOgkOri6_vFh8"
+      }
+    },
+    {
+      "transaction_id": "MzMxMTYxMzY1NGFkaXF6a2N4",
+      "barcode": "XAAUTASA",
+      "type": "DS01",
+      "date": "2021-08-24",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/11772504/filing-history/MzMxMTYxMzY1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WUD_rsFBZX4yr_rr97JUvlo41bd5L7_Ajk4eya5kosE"
+      }
+    },
+    {
+      "transaction_id": "MzI4OTUwNjkyNGFkaXF6a2N4",
+      "barcode": "X9WTIQXE",
+      "type": "CS01",
+      "date": "2021-01-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-01-24"
+      },
+      "pages": 3,
+      "action_date": "2021-01-24",
+      "links": {
+        "self": "/company/11772504/filing-history/MzI4OTUwNjkyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hhb_o1cSRUlkJPKYK-1lizroSu5yhCFjjDvBPQcFFwI"
+      }
+    },
+    {
+      "transaction_id": "MzI4ODM1OTA3MmFkaXF6a2N4",
+      "barcode": "X9W06BPE",
+      "type": "AA",
+      "date": "2021-01-12",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2020-01-31"
+      },
+      "pages": 2,
+      "action_date": "2020-01-31",
+      "links": {
+        "self": "/company/11772504/filing-history/MzI4ODM1OTA3MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ztQjueoNUZ3y-Ukyc61dc8XI4YRu3cyIW5LwsnCXJfE"
+      }
+    },
+    {
+      "transaction_id": "MzI3MjMxNjQyN2FkaXF6a2N4",
+      "barcode": "X98G89LC",
+      "type": "RESOLUTIONS",
+      "date": "2020-07-03",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2020-07-01"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2020-07-03",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/11772504/filing-history/MzI3MjMxNjQyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lMxMttUE_JNqvb7_c6NjYNprAYeozCf1z_xqKk4jha0"
+      }
+    },
+    {
+      "transaction_id": "MzI1ODAwODcyM2FkaXF6a2N4",
+      "barcode": "X8ZDY5SH",
+      "type": "CS01",
+      "date": "2020-02-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-01-16"
+      },
+      "pages": 3,
+      "action_date": "2020-01-16",
+      "links": {
+        "self": "/company/11772504/filing-history/MzI1ODAwODcyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZWHxtZWYkbcyl13KLFdXaK45MzixOLRH0OySUkcGZdM"
+      }
+    },
+    {
+      "transaction_id": "MzIyNDU5NDk5MmFkaXF6a2N4",
+      "barcode": "X7XA63ZM",
+      "type": "NEWINC",
+      "date": "2019-01-17",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-01-17",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-01-17",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-01-17",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2019-01-17"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/11772504/filing-history/MzIyNDU5NDk5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/E6sj2ZMo2wvUqnLCNtaj5C3qXe4ByStGMRjzIZUnHw0"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 9
+}

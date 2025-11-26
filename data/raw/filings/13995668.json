@@ -1,0 +1,130 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQ2MTc2NTMzN2FkaXF6a2N4",
+      "barcode": "XE02IY2I",
+      "type": "CS01",
+      "date": "2025-04-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2025-03-21"
+      },
+      "pages": 3,
+      "action_date": "2025-03-21",
+      "links": {
+        "self": "/company/13995668/filing-history/MzQ2MTc2NTMzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/COpjZnnUdqY8WMrTkvX0VrXNQWUj7fTLfeextF4Hpjo"
+      }
+    },
+    {
+      "transaction_id": "MzQ1OTU5Nzc1OGFkaXF6a2N4",
+      "barcode": "XDYS13M8",
+      "type": "AA",
+      "date": "2025-03-21",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2024-03-31"
+      },
+      "pages": 7,
+      "action_date": "2024-03-31",
+      "links": {
+        "self": "/company/13995668/filing-history/MzQ1OTU5Nzc1OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KBeA6_EpXwD7ks4qKjppseCbCcV1erA6IWuxS9OwgdU"
+      }
+    },
+    {
+      "transaction_id": "MzQyMTgyMjk4N2FkaXF6a2N4",
+      "barcode": "XD340LZ6",
+      "type": "CS01",
+      "date": "2024-05-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-03-21"
+      },
+      "pages": 3,
+      "action_date": "2024-03-21",
+      "links": {
+        "self": "/company/13995668/filing-history/MzQyMTgyMjk4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ta1505aEIf4iCSmxw1bUZ_fPh6izIEqtJ8hJR-GVRtk"
+      }
+    },
+    {
+      "transaction_id": "MzQxNTgxMDMwOWFkaXF6a2N4",
+      "barcode": "XCZFM5FN",
+      "type": "AA",
+      "date": "2024-03-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2023-03-31"
+      },
+      "pages": 7,
+      "action_date": "2023-03-31",
+      "links": {
+        "self": "/company/13995668/filing-history/MzQxNTgxMDMwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uekw45I4KojV1DJHN1M6IQh6yJ_Aoad39-NVTjl6_88"
+      }
+    },
+    {
+      "transaction_id": "MzM3NTcyMjg5NWFkaXF6a2N4",
+      "barcode": "XC17UBXT",
+      "type": "CS01",
+      "date": "2023-04-11",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2023-03-21"
+      },
+      "pages": 4,
+      "action_date": "2023-03-21",
+      "links": {
+        "self": "/company/13995668/filing-history/MzM3NTcyMjg5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2CXK4Lz_LUcldYW8wsucFl_rXkGJ0VUy6QeT8Lu9pF0"
+      }
+    },
+    {
+      "transaction_id": "MzMzMzYyOTEyN2FkaXF6a2N4",
+      "barcode": "XB0BB6BL",
+      "type": "NEWINC",
+      "date": "2022-03-22",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2022-03-22",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2022-03-22",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2022-03-22",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2022-03-22"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/13995668/filing-history/MzMzMzYyOTEyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/96kr6Edl-NYh37Gl1urezYlVns7cqMpQejU_WKWMvAk"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 6
+}

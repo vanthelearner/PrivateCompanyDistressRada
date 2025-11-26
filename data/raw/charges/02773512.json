@@ -1,0 +1,97 @@
+{
+  "etag": "43abef21b128f28fd6649d14efef80e9b2ec1049",
+  "total_count": 2,
+  "unfiltered_count": 2,
+  "satisfied_count": 2,
+  "part_satisfied_count": 0,
+  "items": [
+    {
+      "etag": "88592a64a39a54e6d1a789873aac8e7f4f3916a8",
+      "classification": {
+        "type": "charge-description",
+        "description": "Legal charge"
+      },
+      "charge_number": 2,
+      "status": "fully-satisfied",
+      "delivered_on": "2012-08-03",
+      "created_on": "2012-08-01",
+      "satisfied_on": "2013-03-27",
+      "particulars": {
+        "type": "short-particulars",
+        "description": "Saxtead hall saxtead woodbridge suffolk."
+      },
+      "secured_details": {
+        "type": "amount-secured",
+        "description": "£30,000 due or to become due from the company to rupert thornely-taylor, £30,000 due or to become due from the company to frances thornely-taylor and £310,000 due or to become due from the company to robert temple and fiona temple"
+      },
+      "persons_entitled": [
+        {
+          "name": "Rupert Thornely-Taylor and Frances Thornely-Taylor and Robert and Fiona Temple"
+        }
+      ],
+      "transactions": [
+        {
+          "filing_type": "create-charge-pre-april-2013",
+          "delivered_on": "2012-08-03",
+          "links": {
+            "filing": "/company/02773512/filing-history/MzA2MjEyMTk1MmFkaXF6a2N4"
+          }
+        },
+        {
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "delivered_on": "2013-03-27",
+          "links": {
+            "filing": "/company/02773512/filing-history/MzA3NTUxODUyOWFkaXF6a2N4"
+          }
+        }
+      ],
+      "links": {
+        "self": "/company/02773512/charges/xm32TKS1yqyGIkR1Rm4dlpKyBoE"
+      }
+    },
+    {
+      "etag": "8c86fadbcbd7d6df9eb0bbb8664c19197bada8cc",
+      "classification": {
+        "type": "charge-description",
+        "description": "Legal charge"
+      },
+      "charge_number": 1,
+      "status": "fully-satisfied",
+      "delivered_on": "1999-10-27",
+      "created_on": "1999-10-17",
+      "satisfied_on": "2012-08-02",
+      "particulars": {
+        "type": "short-particulars",
+        "description": "The f/h property k/a rumsden farm steep road jarvis brook east sussex. T/no. Esx 206803."
+      },
+      "secured_details": {
+        "type": "amount-secured",
+        "description": "£131,466.71 due or to become due from the company to the chargee"
+      },
+      "persons_entitled": [
+        {
+          "name": "Rupert Thornely-Taylor, Frances Thornely-Taylor, Robert Temple and Fiona Temple"
+        }
+      ],
+      "transactions": [
+        {
+          "filing_type": "create-charge-pre-2006-companies-act",
+          "delivered_on": "1999-10-27",
+          "links": {
+            "filing": "/company/02773512/filing-history/MDAxMjcyMzU5MmFkaXF6a2N4"
+          }
+        },
+        {
+          "filing_type": "charge-satisfaction-pre-april-2013",
+          "delivered_on": "2012-08-02",
+          "links": {
+            "filing": "/company/02773512/filing-history/MzA2MjAyMDcwOGFkaXF6a2N4"
+          }
+        }
+      ],
+      "links": {
+        "self": "/company/02773512/charges/WqBC0U7rY5qNmYO1oDsDi2tY2Ug"
+      }
+    }
+  ]
+}

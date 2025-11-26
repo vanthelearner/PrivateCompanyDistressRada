@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2021-05-31",
+      "period_end_on": "2021-05-31",
+      "period_start_on": "2020-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2023-02-28",
+      "overdue": true,
+      "period_end_on": "2022-05-31",
+      "period_start_on": "2021-06-01"
+    },
+    "next_due": "2023-02-28",
+    "next_made_up_to": "2022-05-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "B.J.E L&D LTD",
+  "company_number": "10780140",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2022-05-18",
+    "next_due": "2023-06-01",
+    "next_made_up_to": "2023-05-18",
+    "overdue": true
+  },
+  "date_of_cessation": "2019-08-27",
+  "date_of_creation": "2017-05-19",
+  "etag": "977f0477b09a13a7f813fdff2e478fe238edc8ac",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10780140/persons-with-significant-control",
+    "self": "/company/10780140",
+    "filing_history": "/company/10780140/filing-history",
+    "officers": "/company/10780140/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "9 Hall Drive",
+    "country": "England",
+    "locality": "Liverpool",
+    "postal_code": "L32 1TA"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229",
+    "82990"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

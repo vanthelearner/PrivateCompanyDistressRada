@@ -1,0 +1,6 @@
+# secrets
+.env
+*.env
+
+# jupyter noise
+.ipynb_checkpoints/

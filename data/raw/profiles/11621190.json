@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-04-30",
+      "period_end_on": "2022-04-30",
+      "period_start_on": "2020-11-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2024-01-31",
+      "overdue": true,
+      "period_end_on": "2023-04-30",
+      "period_start_on": "2022-05-01"
+    },
+    "next_due": "2024-01-31",
+    "next_made_up_to": "2023-04-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "RMP CONSULTANTS LTD",
+  "company_number": "11621190",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-11-10",
+    "next_due": "2024-11-24",
+    "next_made_up_to": "2024-11-10",
+    "overdue": true
+  },
+  "date_of_creation": "2018-10-14",
+  "etag": "55696e65567df0bc318bc9fce985064887a53d40",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11621190/persons-with-significant-control",
+    "self": "/company/11621190",
+    "filing_history": "/company/11621190/filing-history",
+    "officers": "/company/11621190/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "A6 Kingfisher House, Kingsway",
+    "address_line_2": "Team Valley Trading Estate",
+    "country": "England",
+    "locality": "Gateshead",
+    "postal_code": "NE11 0JQ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

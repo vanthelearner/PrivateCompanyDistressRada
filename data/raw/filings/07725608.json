@@ -1,0 +1,662 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQ2NTc4NDUxN2FkaXF6a2N4",
+      "barcode": "XE2EF22H",
+      "type": "CS01",
+      "date": "2025-05-12",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2025-05-05"
+      },
+      "pages": 3,
+      "action_date": "2025-05-05",
+      "links": {
+        "self": "/company/07725608/filing-history/MzQ2NTc4NDUxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6qBOHovOoYKGQvV0tPAc4zTW7AoR_BQ9pOGrQFnmPEI"
+      }
+    },
+    {
+      "transaction_id": "MzQ2MTM0NjY3MWFkaXF6a2N4",
+      "barcode": "XDZPACRC",
+      "type": "AA",
+      "date": "2025-04-03",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2024-07-31"
+      },
+      "pages": 6,
+      "action_date": "2024-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzQ2MTM0NjY3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/i2zOaVxUyLSEUVCoUwc_3IvI9xwhvRm5IWMghqjFwmY"
+      }
+    },
+    {
+      "transaction_id": "MzQyMTgyMDUyNmFkaXF6a2N4",
+      "barcode": "XD340KYR",
+      "type": "CS01",
+      "date": "2024-05-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-05-05"
+      },
+      "pages": 3,
+      "action_date": "2024-05-05",
+      "links": {
+        "self": "/company/07725608/filing-history/MzQyMTgyMDUyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/q3cV0NsD32jt1U0OgmmCdxgtouBfY_5dkDMaia7ppY4"
+      }
+    },
+    {
+      "transaction_id": "MzQyMDIzNDczM2FkaXF6a2N4",
+      "barcode": "XD255S6R",
+      "type": "AA",
+      "date": "2024-04-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-07-31"
+      },
+      "pages": 6,
+      "action_date": "2023-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzQyMDIzNDczM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tihfy25ATDwkLpJl5SLcgc2fKq4zyK-EnKkNQcIuN4I"
+      }
+    },
+    {
+      "transaction_id": "MzM3ODkwOTE5NWFkaXF6a2N4",
+      "barcode": "XC35P4QP",
+      "type": "CS01",
+      "date": "2023-05-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-05-05"
+      },
+      "pages": 3,
+      "action_date": "2023-05-05",
+      "links": {
+        "self": "/company/07725608/filing-history/MzM3ODkwOTE5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/df_rFEt0BACDJhI7RI_ZEmvDFuY6ClY_kJpJsOIjd-g"
+      }
+    },
+    {
+      "transaction_id": "MzM3MzI2NjU0OWFkaXF6a2N4",
+      "barcode": "XBZPRAWJ",
+      "type": "AA",
+      "date": "2023-03-20",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-07-31"
+      },
+      "pages": 6,
+      "action_date": "2022-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzM3MzI2NjU0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZZqe-ey4MfQ2A3hJ3q5i1w5xxUlJ2UA8-SnrXHaOzD0"
+      }
+    },
+    {
+      "transaction_id": "MzMzODM4MTEzMWFkaXF6a2N4",
+      "barcode": "XB3DJX0W",
+      "type": "CS01",
+      "date": "2022-05-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-05-05"
+      },
+      "pages": 3,
+      "action_date": "2022-05-05",
+      "links": {
+        "self": "/company/07725608/filing-history/MzMzODM4MTEzMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/TycB_7QSeSLC6y5asGVf6GKCHD394dIbPpbxuSkb5fk"
+      }
+    },
+    {
+      "transaction_id": "MzMzMjQ4NTU2NGFkaXF6a2N4",
+      "barcode": "XAZHVC2I",
+      "type": "AA",
+      "date": "2022-03-10",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-07-31"
+      },
+      "pages": 6,
+      "action_date": "2021-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzMzMjQ4NTU2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9Dkc_HcIIWcUD_vpnaZ73oFDWOORE-Q9P_SCngAeiRY"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjI2MDkwOWFkaXF6a2N4",
+      "barcode": "XA7QOBYO",
+      "type": "CS01",
+      "date": "2021-06-30",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-05-05"
+      },
+      "pages": 3,
+      "action_date": "2021-05-05",
+      "links": {
+        "self": "/company/07725608/filing-history/MzMwNjI2MDkwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/itCZD3NxDIVzsIqFiNnjUS70p3vJGY_vYEGdiPzOS0o"
+      }
+    },
+    {
+      "transaction_id": "MzMwNTE2NDMyNGFkaXF6a2N4",
+      "barcode": "AA6X5FIX",
+      "type": "SH08",
+      "date": "2021-06-26",
+      "category": "capital",
+      "description": "capital-name-of-class-of-shares",
+      "pages": 2,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/07725608/filing-history/MzMwNTE2NDMyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QRNaj92f9-2yjmm_6cJqaGUjujk8UgSFEaMY-eFIrMw"
+      }
+    },
+    {
+      "transaction_id": "MzI5ODk1OTYxNGFkaXF6a2N4",
+      "barcode": "XA38Q0WX",
+      "type": "AA",
+      "date": "2021-04-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-07-31"
+      },
+      "pages": 6,
+      "action_date": "2020-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzI5ODk1OTYxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wke8XvoCKcl8yoo_aQJsVx6QYrI_vdc0C-ILXASJj-I"
+      }
+    },
+    {
+      "transaction_id": "MzI5NzczODgwNWFkaXF6a2N4",
+      "barcode": "XA2F6HD7",
+      "type": "CH01",
+      "date": "2021-04-14",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-04-14",
+        "officer_name": "Mr David Gladstone Riddle"
+      },
+      "pages": 2,
+      "action_date": "2021-04-14",
+      "links": {
+        "self": "/company/07725608/filing-history/MzI5NzczODgwNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Dw4frHL2FK1f3ceGlC3xynP3Xrx5wbGedevzwG6v-sE"
+      }
+    },
+    {
+      "transaction_id": "MzI5NzczODc3NmFkaXF6a2N4",
+      "barcode": "XA2F6H8O",
+      "type": "CH01",
+      "date": "2021-04-14",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-04-14",
+        "officer_name": "Anne Riddle"
+      },
+      "pages": 2,
+      "action_date": "2021-04-14",
+      "links": {
+        "self": "/company/07725608/filing-history/MzI5NzczODc3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hobtkttatgb0GcCzRrTJTqCPeac068GC50UBRd_Qusc"
+      }
+    },
+    {
+      "transaction_id": "MzI5NzczODc5OWFkaXF6a2N4",
+      "barcode": "XA2F6HCR",
+      "type": "AD01",
+      "date": "2021-04-14",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-04-14",
+        "old_address": "17 Fryern Court Road Burgate Fordingbridge SP6 1QX England",
+        "new_address": "Suite 204 Warner House 123 Castle Street Salisbury Wiltshire SP1 3TB"
+      },
+      "pages": 1,
+      "action_date": "2021-04-14",
+      "links": {
+        "self": "/company/07725608/filing-history/MzI5NzczODc5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vc_v5AznhajVbNBwitKwv09rjAuWYlVFgnqHCFAVh3E"
+      }
+    },
+    {
+      "transaction_id": "MzI2Mzk0OTMzOGFkaXF6a2N4",
+      "barcode": "X94DYX23",
+      "type": "CS01",
+      "date": "2020-05-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-05-05"
+      },
+      "pages": 5,
+      "action_date": "2020-05-05",
+      "links": {
+        "self": "/company/07725608/filing-history/MzI2Mzk0OTMzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CsCIQXGAB6ZjRf0MGFcvw7_upkPZjS8KAb8yU94KgTY"
+      }
+    },
+    {
+      "transaction_id": "MzI2MzUyNDM5MmFkaXF6a2N4",
+      "barcode": "X940IIXT",
+      "type": "AA",
+      "date": "2020-04-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2019-07-31"
+      },
+      "pages": 4,
+      "action_date": "2019-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzI2MzUyNDM5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nhlhZnBMWDVEq61Z7-CL0k991WGlq-pYvV1yPAtjzms"
+      }
+    },
+    {
+      "transaction_id": "MzI2MzIwMzk5OGFkaXF6a2N4",
+      "barcode": "X93NGA1L",
+      "type": "AP01",
+      "date": "2020-04-24",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Anne Riddle",
+        "appointment_date": "2018-08-02"
+      },
+      "pages": 2,
+      "action_date": "2018-08-02",
+      "links": {
+        "self": "/company/07725608/filing-history/MzI2MzIwMzk5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/EIn4CSprKL8uPj1mVNAsvTekSTgMHZEoMw0gHXgYamw"
+      }
+    },
+    {
+      "transaction_id": "MzI0NDE5MTMxN2FkaXF6a2N4",
+      "barcode": "X8DWN5BD",
+      "type": "CS01",
+      "date": "2019-09-13",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2019-08-02"
+      },
+      "pages": 5,
+      "action_date": "2019-08-02",
+      "links": {
+        "self": "/company/07725608/filing-history/MzI0NDE5MTMxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/i-PBVp_4VATNp8uWg_7fFMCEh8YnyRDBx0Awi0TGHJs"
+      }
+    },
+    {
+      "transaction_id": "MzIyOTc4MzI1NWFkaXF6a2N4",
+      "barcode": "X81MKYZM",
+      "type": "AA",
+      "date": "2019-03-20",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2018-07-31"
+      },
+      "pages": 4,
+      "action_date": "2018-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzIyOTc4MzI1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/buNU6L2Sd4nTk4hsVSXEKY6s43RFT1ePEcTykfDw07w"
+      }
+    },
+    {
+      "transaction_id": "MzIxMTI2MTAyMmFkaXF6a2N4",
+      "barcode": "X7BGZMH7",
+      "type": "CS01",
+      "date": "2018-08-02",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-08-02"
+      },
+      "pages": 3,
+      "action_date": "2018-08-02",
+      "links": {
+        "self": "/company/07725608/filing-history/MzIxMTI2MTAyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WYigmrDtIXasd2XVk6HUeYP5dKId4pnx8P3UzEVPzOA"
+      }
+    },
+    {
+      "transaction_id": "MzIwMTg1MjIzOWFkaXF6a2N4",
+      "barcode": "X7379QDN",
+      "type": "AA",
+      "date": "2018-04-05",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2017-07-31"
+      },
+      "pages": 4,
+      "action_date": "2017-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzIwMTg1MjIzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/d9lowyOV8mWVesRMiUwz8MjnSUirJQkvBo7MN6Q4qAQ"
+      }
+    },
+    {
+      "transaction_id": "MzE4MjE0NjYwOWFkaXF6a2N4",
+      "barcode": "X6C1XNAG",
+      "type": "CS01",
+      "date": "2017-08-03",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2017-08-02"
+      },
+      "pages": 3,
+      "action_date": "2017-08-02",
+      "links": {
+        "self": "/company/07725608/filing-history/MzE4MjE0NjYwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cjRTxD0Z1dfdMdthrlC3VtmTlbM_KY2OGZHaWbFVYug"
+      }
+    },
+    {
+      "transaction_id": "MzE3NDg1Mzk0N2FkaXF6a2N4",
+      "barcode": "X65M0PM1",
+      "type": "AD01",
+      "date": "2017-05-02",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2017-05-02",
+        "old_address": "35 Chequers Court Brown Street Salisbury Wiltshire SP1 2AS",
+        "new_address": "17 Fryern Court Road Burgate Fordingbridge SP6 1QX"
+      },
+      "pages": 1,
+      "action_date": "2017-05-02",
+      "links": {
+        "self": "/company/07725608/filing-history/MzE3NDg1Mzk0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SkhhXJsTwtsgsw9YgpRuODW_vfJa3CuWo3X9oUadOOs"
+      }
+    },
+    {
+      "transaction_id": "MzE3NDQ3NjcyOGFkaXF6a2N4",
+      "barcode": "X656DFGX",
+      "type": "AA",
+      "date": "2017-04-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2016-07-31"
+      },
+      "pages": 5,
+      "action_date": "2016-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzE3NDQ3NjcyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uWaGbq4oRjsNmLsA7uwsOATITXB2dKHY0smAt8c_eKI"
+      }
+    },
+    {
+      "transaction_id": "MzE1NTcwMTM3NGFkaXF6a2N4",
+      "barcode": "X5DZJUS0",
+      "type": "CS01",
+      "date": "2016-08-23",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2016-08-02"
+      },
+      "pages": 6,
+      "action_date": "2016-08-02",
+      "links": {
+        "self": "/company/07725608/filing-history/MzE1NTcwMTM3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KiGfFvfwjM-hHBylNCoFZjWDolGmTB75blfzCPw0oUM"
+      }
+    },
+    {
+      "transaction_id": "MzE0NTUyNDkxMWFkaXF6a2N4",
+      "barcode": "X548EJN6",
+      "type": "AA",
+      "date": "2016-04-04",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2015-07-31"
+      },
+      "pages": 5,
+      "action_date": "2015-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzE0NTUyNDkxMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BRHLiaDao-JTL-mRM3t1I9qH2Nnwy5D7Pbzvajes-5c"
+      }
+    },
+    {
+      "transaction_id": "MzEyOTg4MDIxN2FkaXF6a2N4",
+      "barcode": "X4EN9T97",
+      "type": "AR01",
+      "date": "2015-08-27",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-08-27",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-08-27",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2015-08-27"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2015-08-02"
+      },
+      "pages": 3,
+      "action_date": "2015-08-02",
+      "links": {
+        "self": "/company/07725608/filing-history/MzEyOTg4MDIxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5cy-KP1boCuGPAxomIoqpbSJAhrZq0EiAFl1p6TUFEk"
+      }
+    },
+    {
+      "transaction_id": "MzEyMTUxMDY1M2FkaXF6a2N4",
+      "barcode": "X45QPILS",
+      "type": "AA",
+      "date": "2015-04-20",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2014-07-31"
+      },
+      "pages": 5,
+      "action_date": "2014-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzEyMTUxMDY1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qpLexCV-XXQ9rJe-RcAFirJ5lRxrg3zlj-4587w7AZg"
+      }
+    },
+    {
+      "transaction_id": "MzEwNTgyMjc2OGFkaXF6a2N4",
+      "barcode": "X3EMO6TT",
+      "type": "AR01",
+      "date": "2014-08-19",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2014-08-19",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2014-08-19",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2014-08-19"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2014-08-02"
+      },
+      "pages": 3,
+      "action_date": "2014-08-02",
+      "links": {
+        "self": "/company/07725608/filing-history/MzEwNTgyMjc2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vmHC6cRt01342_Rm5h6bLfJm7mg8EJ6OEJGpE55Dl6Q"
+      }
+    },
+    {
+      "transaction_id": "MzA5ODkyNTE2MmFkaXF6a2N4",
+      "barcode": "X36RLPVD",
+      "type": "AA",
+      "date": "2014-04-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2013-07-31"
+      },
+      "pages": 5,
+      "action_date": "2013-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzA5ODkyNTE2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CtxeLG264hpVJlNpLVInw-XgE8DA_CiYcFW9vnh1zhY"
+      }
+    },
+    {
+      "transaction_id": "MzA4MzcxMjM0M2FkaXF6a2N4",
+      "barcode": "X2FAAHCQ",
+      "type": "AR01",
+      "date": "2013-08-22",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2013-08-22",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2013-08-22",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2013-08-22"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2013-08-02"
+      },
+      "pages": 3,
+      "action_date": "2013-08-02",
+      "links": {
+        "self": "/company/07725608/filing-history/MzA4MzcxMjM0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6YcY8hfERNVVyTaDnkH3wdmVVJlaQtvNjOqMKnVPYjA"
+      }
+    },
+    {
+      "transaction_id": "MzA3NjY1ODE2M2FkaXF6a2N4",
+      "barcode": "X26T13YB",
+      "type": "AA",
+      "date": "2013-04-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2012-07-31"
+      },
+      "pages": 7,
+      "action_date": "2012-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzA3NjY1ODE2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mY1LLbmJuo5CwhTNjoUPU9nLlHLOy6pdKPPT17kEP2w"
+      }
+    },
+    {
+      "transaction_id": "MzA2MjI0MTI4OGFkaXF6a2N4",
+      "barcode": "X1F19GOX",
+      "type": "AR01",
+      "date": "2012-08-10",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2012-08-02"
+      },
+      "pages": 3,
+      "action_date": "2012-08-02",
+      "links": {
+        "self": "/company/07725608/filing-history/MzA2MjI0MTI4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4UCmcTC-m0QMkYXSJzKTgHcTXXkJ6M4kd8Dnbcm7Z2Y"
+      }
+    },
+    {
+      "transaction_id": "MzA0MjMzODM1M2FkaXF6a2N4",
+      "barcode": "XIX8OWTX",
+      "type": "AA01",
+      "date": "2011-08-19",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-current-shortened",
+      "description_values": {
+        "made_up_date": "2012-08-31",
+        "new_date": "2012-07-31"
+      },
+      "pages": 1,
+      "action_date": "2012-07-31",
+      "links": {
+        "self": "/company/07725608/filing-history/MzA0MjMzODM1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/X7jCQvxwxgrFmJfpXJZSv2e30wmy5jEoj4_h3PzKZeQ"
+      }
+    },
+    {
+      "transaction_id": "MzA0MTM5MDU2NGFkaXF6a2N4",
+      "barcode": "XCY09WBN",
+      "type": "NEWINC",
+      "date": "2011-08-02",
+      "category": "incorporation",
+      "description": "incorporation-company",
+      "pages": 18,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/07725608/filing-history/MzA0MTM5MDU2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2S1wonnIDsgSZV4L2VpDN-70oWVkh4uXcU9NRNRLnnY"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 35
+}

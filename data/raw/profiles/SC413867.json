@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "29",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-01-29",
+      "period_end_on": "2023-01-29",
+      "period_start_on": "2022-01-30",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2024-10-29",
+      "overdue": true,
+      "period_end_on": "2024-01-29",
+      "period_start_on": "2023-01-30"
+    },
+    "next_due": "2024-10-29",
+    "next_made_up_to": "2024-01-29",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "S BIRNIE TRAINING AND DEVELOPMENT LTD",
+  "company_number": "SC413867",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-01-04",
+    "next_due": "2025-01-18",
+    "next_made_up_to": "2025-01-04",
+    "overdue": true
+  },
+  "date_of_creation": "2012-01-04",
+  "etag": "a2bbe83041b32675b0f8248664e8425dec09c1ab",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "last_full_members_list_date": "2016-01-04",
+  "links": {
+    "persons_with_significant_control": "/company/SC413867/persons-with-significant-control",
+    "self": "/company/SC413867",
+    "filing_history": "/company/SC413867/filing-history",
+    "officers": "/company/SC413867/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Unit 4b Gateway Business Park, Beancross Road",
+    "country": "Scotland",
+    "locality": "Grangemouth",
+    "postal_code": "FK3 8WX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

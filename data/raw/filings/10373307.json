@@ -1,0 +1,182 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzMxNDI4MzczMGFkaXF6a2N4",
+      "barcode": "RACNEYWB",
+      "type": "AC92",
+      "date": "2021-09-20",
+      "category": "restoration",
+      "description": "restoration-order-of-court",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10373307/filing-history/MzMxNDI4MzczMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FLkKcM8ep_dtDZA5D5A13ZfX7DwAG4pqN8Mk72yToKs"
+      }
+    },
+    {
+      "transaction_id": "MzI4NjY5MDkxNmFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2020-12-29",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10373307/filing-history/MzI4NjY5MDkxNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/OjqWOIFf7KpRB812h59uZofkhomEoTDuFa1xe8kvr9A"
+      }
+    },
+    {
+      "transaction_id": "MzI3OTM4NTAxOWFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2020-10-13",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10373307/filing-history/MzI3OTM4NTAxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/paWFO7hLqmJ-AwiFeZZ-5GbEzIAvShVD6F87ojhcpjU"
+      }
+    },
+    {
+      "transaction_id": "MzI3OTIxNjA5NWFkaXF6a2N4",
+      "barcode": "A9EKNHMO",
+      "type": "DS01",
+      "date": "2020-10-01",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10373307/filing-history/MzI3OTIxNjA5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Z2IoOASDOYDQ-lghFsSwfMzTgIcBVX4tiLB9tQNBl8g"
+      }
+    },
+    {
+      "transaction_id": "MzI0Njg0NjQ2M2FkaXF6a2N4",
+      "barcode": "X8G4F6W8",
+      "type": "CS01",
+      "date": "2019-10-15",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-09-12"
+      },
+      "pages": 3,
+      "action_date": "2019-09-12",
+      "links": {
+        "self": "/company/10373307/filing-history/MzI0Njg0NjQ2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Z7P8hFhtn8tGnMzcn0mTZtjrx-BD2vHX_EyARkTtDt8"
+      }
+    },
+    {
+      "transaction_id": "MzIzODExNzgwOGFkaXF6a2N4",
+      "barcode": "X88JY4L6",
+      "type": "AA",
+      "date": "2019-06-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2018-09-30"
+      },
+      "pages": 7,
+      "links": {
+        "self": "/company/10373307/filing-history/MzIzODExNzgwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HUuxxHheGbfEoBl4-yVVPnYIYmkLKi9avevzuGyz1fI"
+      }
+    },
+    {
+      "transaction_id": "MzIxNjMyNDkxOGFkaXF6a2N4",
+      "barcode": "X7FWJKL7",
+      "type": "CS01",
+      "date": "2018-10-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-09-12"
+      },
+      "pages": 3,
+      "action_date": "2018-09-12",
+      "links": {
+        "self": "/company/10373307/filing-history/MzIxNjMyNDkxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KlV1qnMuzuu1iAzBNMXXPKA2PIHksIAysSkjBohVE4I"
+      }
+    },
+    {
+      "transaction_id": "MzIwNTI4MDc0NmFkaXF6a2N4",
+      "barcode": "X7678DA3",
+      "type": "AA",
+      "date": "2018-05-18",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2017-09-30"
+      },
+      "pages": 7,
+      "links": {
+        "self": "/company/10373307/filing-history/MzIwNTI4MDc0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/X5n7tFTp6eIdjdorTjKPPP0AuoC_JUbXPBbHrlqLjp8"
+      }
+    },
+    {
+      "transaction_id": "MzE4NTg3Mjc1NmFkaXF6a2N4",
+      "barcode": "X6FG6DAH",
+      "type": "CS01",
+      "date": "2017-09-21",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2017-09-12"
+      },
+      "pages": 3,
+      "action_date": "2017-09-12",
+      "links": {
+        "self": "/company/10373307/filing-history/MzE4NTg3Mjc1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7DZJ9FDz4ZjjKRjfTK-GAuyl0Nyw5PgSFQvCHRYGj98"
+      }
+    },
+    {
+      "transaction_id": "MzE1NzE4Nzg1NGFkaXF6a2N4",
+      "barcode": "X5FD37X7",
+      "type": "NEWINC",
+      "date": "2016-09-13",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2016-09-13",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2016-09-13",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-09-13",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2016-09-13"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 8,
+      "links": {
+        "self": "/company/10373307/filing-history/MzE1NzE4Nzg1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6zxTu94ZzNSzRAbGUJGEIAVGws4hluiI3LMNrhUxIvk"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 10
+}

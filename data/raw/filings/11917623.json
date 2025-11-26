@@ -1,0 +1,384 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQyMTQxMzc5N2FkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2024-05-14",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzQyMTQxMzc5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VDm8iq5OapQBauU20whPtYcwch4OwzyE0vYM0aPG67k"
+      }
+    },
+    {
+      "transaction_id": "MzQxNTYxMzAxN2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2024-04-02",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzQxNTYxMzAxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2mtZLap3KkDvnaFGo9LfkZfC_E0N1qUCQZsFTCdNLM8"
+      }
+    },
+    {
+      "transaction_id": "MzM5Mzc5NDIwNmFkaXF6a2N4",
+      "barcode": "ACBNKXRK",
+      "type": "AD01",
+      "date": "2023-09-20",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-09-20",
+        "old_address": "PO Box 4385 11917623 - Companies House Default Address Cardiff CF14 8LH",
+        "new_address": "20-22 Wenlock Road London England N1 7GU"
+      },
+      "pages": 2,
+      "action_date": "2023-09-20",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzM5Mzc5NDIwNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ua6Wc1cNNOPuUAUEv0LjNXJq2y5aAyBU4oOuhrMFwlo"
+      }
+    },
+    {
+      "transaction_id": "MzM5MDIyNTc1NWFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2023-08-22",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzM5MDIyNTc1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/o3UbYQOFdhc1rYyeXQ2Et0EmTMXVEYdaXGM5feuEqcw"
+      }
+    },
+    {
+      "transaction_id": "MzM5MDIyNjI0NWFkaXF6a2N4",
+      "barcode": "XCAE40KX",
+      "type": "CS01",
+      "date": "2023-08-21",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-03-31"
+      },
+      "pages": 3,
+      "action_date": "2023-03-31",
+      "links": {
+        "self": "/company/11917623/filing-history/MzM5MDIyNjI0NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/1m2OJIPZGTYvJZ3DoljKFGlLde7HfUJqncTtdwhOVV8"
+      }
+    },
+    {
+      "transaction_id": "MzM5MDIyNTY0OGFkaXF6a2N4",
+      "barcode": "XCAE3YJN",
+      "type": "AA",
+      "date": "2023-08-21",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2022-04-30"
+      },
+      "pages": 2,
+      "action_date": "2022-04-30",
+      "links": {
+        "self": "/company/11917623/filing-history/MzM5MDIyNTY0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rGCMFH3qHdUhKw_bo85kMH3Z6apIjIY3AlGMWZhH2PI"
+      }
+    },
+    {
+      "transaction_id": "MzM3OTEzODI5OGFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2023-05-11",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzM3OTEzODI5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hCyhV7t-mkJQg1oFQipFnzOM0DJH7Yzn4cPUP3Awlmw"
+      }
+    },
+    {
+      "transaction_id": "MzM3ODUxNTcwM2FkaXF6a2N4",
+      "barcode": "AC2SOW8H",
+      "type": "RP05",
+      "date": "2023-05-04",
+      "category": "address",
+      "description": "default-companies-house-registered-office-address-applied",
+      "description_values": {
+        "change_date": "2023-05-04",
+        "default_address": "PO Box 4385, 11917623 - Companies House Default Address, Cardiff, CF14 8LH"
+      },
+      "pages": 1,
+      "action_date": "2023-05-04",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzM3ODUxNTcwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tvtJ3NOIXAhwwKbS0EZoV4EwDGTitRotXe_bCIdh2KY"
+      }
+    },
+    {
+      "transaction_id": "MzM3MzU2MDQ5NWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2023-04-04",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzM3MzU2MDQ5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UwxCJ6hkhjFIMhl6Z9gFCJvUQTRwvFX3lS1ef6Uno7c"
+      }
+    },
+    {
+      "transaction_id": "MzMzNjc0MjQ1NWFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2022-04-21",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzMzNjc0MjQ1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/P7QrwWTK0WjXkCJfQgMzJ8UbLvmxWjgYOHk338Cs3ko"
+      }
+    },
+    {
+      "transaction_id": "MzMzNjc0NzAyNmFkaXF6a2N4",
+      "barcode": "XB2BURFP",
+      "type": "AA",
+      "date": "2022-04-20",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2021-04-30"
+      },
+      "pages": 2,
+      "action_date": "2021-04-30",
+      "links": {
+        "self": "/company/11917623/filing-history/MzMzNjc0NzAyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/KESuaIfzDZRjZacMOF8HwSOKT6pvRoKEXdlqSjMrQ7E"
+      }
+    },
+    {
+      "transaction_id": "MzMzNjc0MjM3N2FkaXF6a2N4",
+      "barcode": "XB2BU98H",
+      "type": "CS01",
+      "date": "2022-04-20",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-03-31"
+      },
+      "pages": 3,
+      "action_date": "2022-03-31",
+      "links": {
+        "self": "/company/11917623/filing-history/MzMzNjc0MjM3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FFNFc_69dnGjoBC7nOWuYPolnwBFCX4J3dQRDtmjC1M"
+      }
+    },
+    {
+      "transaction_id": "MzMzNTQzOTI2NmFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2022-04-07",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzMzNTQzOTI2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mDmnjX2SeaIcCsrBzuT5Sh95JT9s_MSGvXVjiswtbEE"
+      }
+    },
+    {
+      "transaction_id": "MzMzMzU2OTU5NGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-03-29",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzMzMzU2OTU5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XI8zbvfmYVm10jb7rsWl0vVvL1ymxeTYsNfc464Vyq0"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjU0MDAzMGFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2021-07-03",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzMwNjU0MDAzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WxtqzST74PklWgZTNHeEDULxMNXt5UAHPFf_qvVYRjs"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjU5ODY2NGFkaXF6a2N4",
+      "barcode": "XA7WCTGY",
+      "type": "AA",
+      "date": "2021-07-02",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2020-04-30"
+      },
+      "pages": 2,
+      "action_date": "2020-04-30",
+      "links": {
+        "self": "/company/11917623/filing-history/MzMwNjU5ODY2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rz5C-BL8g0ojV8w9Et_Ullc17WpMkt2ScYTs-qFzxPw"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjUzOTk2N2FkaXF6a2N4",
+      "barcode": "XA7W8E76",
+      "type": "CS01",
+      "date": "2021-07-02",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-03-31"
+      },
+      "pages": 3,
+      "action_date": "2021-03-31",
+      "links": {
+        "self": "/company/11917623/filing-history/MzMwNjUzOTk2N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5DyzUHifDHvrhCyzh_2NhQUlQ_TmjE2D8fPboBAgIJg"
+      }
+    },
+    {
+      "transaction_id": "MzMwNTM2MjMyMmFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2021-06-24",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzMwNTM2MjMyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/P4wdb63I8sZk-3LvITCS7qG_biao92wDBjujxSducXM"
+      }
+    },
+    {
+      "transaction_id": "MzMwMzA3NTUzNWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2021-06-15",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11917623/filing-history/MzMwMzA3NTUzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8862xmZC8BJAG79gfbFuwr9wjvkR9YDu86aQwliVzzI"
+      }
+    },
+    {
+      "transaction_id": "MzI2Nzc2NTE0M2FkaXF6a2N4",
+      "barcode": "X97K1URN",
+      "type": "CS01",
+      "date": "2020-06-19",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-03-31"
+      },
+      "pages": 4,
+      "action_date": "2020-03-31",
+      "links": {
+        "self": "/company/11917623/filing-history/MzI2Nzc2NTE0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/F9M8Hee03xwZpGn0dOk9qA4-FOXTAlGoUjdNlkKZucg"
+      }
+    },
+    {
+      "transaction_id": "MzI2NzIxNzY2NWFkaXF6a2N4",
+      "barcode": "X971JDH7",
+      "type": "TM01",
+      "date": "2020-06-12",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Gifty Dankwah",
+        "termination_date": "2020-06-01"
+      },
+      "pages": 1,
+      "action_date": "2020-06-01",
+      "links": {
+        "self": "/company/11917623/filing-history/MzI2NzIxNzY2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/o5yMATXGHOkW1yxeJdd3vL5PJEkXe90Dblj_Za-9xxU"
+      }
+    },
+    {
+      "transaction_id": "MzI2NzIwOTA4MWFkaXF6a2N4",
+      "barcode": "X971IIH6",
+      "type": "PSC07",
+      "date": "2020-06-12",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Gifty Dankwah",
+        "cessation_date": "2020-05-01"
+      },
+      "pages": 1,
+      "action_date": "2020-05-01",
+      "links": {
+        "self": "/company/11917623/filing-history/MzI2NzIwOTA4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cf6qzNdq_kGiHoLgY87n0ihZHTBL64YGqqEwzoWCHzU"
+      }
+    },
+    {
+      "transaction_id": "MzIzMDg4OTIyMmFkaXF6a2N4",
+      "barcode": "X82G0JYZ",
+      "type": "NEWINC",
+      "date": "2019-04-01",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-04-01",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-04-01",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-04-01",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1,000"
+              }
+            ]
+          },
+          "action_date": "2019-04-01"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 13,
+      "links": {
+        "self": "/company/11917623/filing-history/MzIzMDg4OTIyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jz_k3OHwMtv03WqCZEdx3BtlJzzraLW-39VQL7j9nxA"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 23
+}

@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2017-06-30",
+      "period_end_on": "2017-06-30",
+      "period_start_on": "2016-05-31",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2019-03-31",
+      "overdue": true,
+      "period_end_on": "2018-06-30",
+      "period_start_on": "2017-07-01"
+    },
+    "next_due": "2019-03-31",
+    "next_made_up_to": "2018-06-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "CALIBRE CONSULTING GROUP LIMITED",
+  "company_number": "10207222",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2018-05-30",
+    "next_due": "2019-06-13",
+    "next_made_up_to": "2019-05-30",
+    "overdue": true
+  },
+  "date_of_cessation": "2019-05-21",
+  "date_of_creation": "2016-05-31",
+  "etag": "9eb749ee2ccf4a995fcb05ec28977d07ee1c2116",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10207222/persons-with-significant-control",
+    "self": "/company/10207222",
+    "filing_history": "/company/10207222/filing-history",
+    "officers": "/company/10207222/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Flat 103 Rossmore Court Park Road",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "NW1 6XZ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false
+}

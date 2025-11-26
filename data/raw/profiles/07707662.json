@@ -1,0 +1,89 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "07"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-07-31",
+      "period_end_on": "2024-07-31",
+      "period_start_on": "2023-08-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-04-30",
+      "overdue": false,
+      "period_end_on": "2025-07-31",
+      "period_start_on": "2024-08-01"
+    },
+    "next_due": "2026-04-30",
+    "next_made_up_to": "2025-07-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "THE FULL HOUSE FOR FAMILIES LTD",
+  "company_number": "07707662",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-02-23",
+    "next_due": "2026-03-09",
+    "next_made_up_to": "2026-02-23",
+    "overdue": false
+  },
+  "date_of_creation": "2011-07-18",
+  "etag": "9822937a9b2dfb6a2c1a64c85f808d127ae3a9db",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-07-18",
+  "links": {
+    "persons_with_significant_control": "/company/07707662/persons-with-significant-control",
+    "self": "/company/07707662",
+    "filing_history": "/company/07707662/filing-history",
+    "officers": "/company/07707662/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2023-12-06",
+      "effective_from": "2023-03-29",
+      "name": "TPHOUSE (UK) LIMITED"
+    },
+    {
+      "ceased_on": "2023-03-29",
+      "effective_from": "2020-01-23",
+      "name": "MYAIRFAM (UK) LIMITED"
+    },
+    {
+      "ceased_on": "2020-01-23",
+      "effective_from": "2017-09-04",
+      "name": "AIRFAM (UK) LIMITED"
+    },
+    {
+      "ceased_on": "2017-09-04",
+      "effective_from": "2012-09-18",
+      "name": "LOW CARBON VALLEY LIMITED"
+    },
+    {
+      "ceased_on": "2012-09-18",
+      "effective_from": "2011-07-18",
+      "name": "RIGREEN LOW CARBON VALLEY LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "Flat 49 Clarewood Court",
+    "address_line_2": "Seymour Place",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W1H 2NN"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62090",
+    "70229",
+    "73200"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

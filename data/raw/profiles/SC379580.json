@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-03-31",
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-31",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-04-01"
+    },
+    "next_due": "2026-12-31",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "121 HR SOLUTIONS LIMITED",
+  "company_number": "SC379580",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-06-02",
+    "next_due": "2026-06-16",
+    "next_made_up_to": "2026-06-02",
+    "overdue": false
+  },
+  "date_of_creation": "2010-06-02",
+  "etag": "560d16e21c2e71291befbd03adb949aa0a78c524",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "last_full_members_list_date": "2016-06-02",
+  "links": {
+    "persons_with_significant_control": "/company/SC379580/persons-with-significant-control",
+    "self": "/company/SC379580",
+    "filing_history": "/company/SC379580/filing-history",
+    "officers": "/company/SC379580/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "22 Montrose Street",
+    "country": "Scotland",
+    "locality": "Glasgow",
+    "postal_code": "G1 1RE"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

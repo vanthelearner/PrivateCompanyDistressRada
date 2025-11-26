@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2015-09-30",
+      "period_end_on": "2015-09-30",
+      "period_start_on": "2014-10-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2017-06-30",
+      "overdue": true,
+      "period_end_on": "2016-09-30",
+      "period_start_on": "2015-10-01"
+    },
+    "next_due": "2017-06-30",
+    "next_made_up_to": "2016-09-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "KUNDI CONSULTING LIMITED",
+  "company_number": "06708383",
+  "company_status": "active",
+  "status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2016-09-25",
+    "next_due": "2017-10-09",
+    "next_made_up_to": "2017-09-25",
+    "overdue": true
+  },
+  "date_of_cessation": "2017-04-18",
+  "date_of_creation": "2008-09-25",
+  "etag": "7d54045ff6ef47db98906672f385a400f875d18f",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-09-25",
+  "links": {
+    "persons_with_significant_control": "/company/06708383/persons-with-significant-control",
+    "self": "/company/06708383",
+    "filing_history": "/company/06708383/filing-history",
+    "officers": "/company/06708383/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "28 Rydal Drive",
+    "locality": "Bexleyheath",
+    "postal_code": "DA7 5EE"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false
+}

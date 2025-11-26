@@ -1,0 +1,166 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzM3NzExMDY5OWFkaXF6a2N4",
+      "barcode": "RC1LW1JS",
+      "type": "AC92",
+      "date": "2023-04-21",
+      "category": "restoration",
+      "description": "restoration-order-of-court",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12578630/filing-history/MzM3NzExMDY5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-t8N9aDWFNbJjV4n_LUtDn2LGIESAVBWX9NssXXELT8"
+      }
+    },
+    {
+      "transaction_id": "MzM0NjgzNDkxNWFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2022-08-02",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12578630/filing-history/MzM0NjgzNDkxNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/G6T5lIGag-o8QxuLH26vC-jZb6kXj5psknB_7Fpbwh4"
+      }
+    },
+    {
+      "transaction_id": "MzM0MTMwNzgyOWFkaXF6a2N4",
+      "barcode": "XB58U5UB",
+      "type": "CH01",
+      "date": "2022-06-01",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2022-06-01",
+        "officer_name": "Mr David Moody"
+      },
+      "pages": 2,
+      "action_date": "2022-06-01",
+      "links": {
+        "self": "/company/12578630/filing-history/MzM0MTMwNzgyOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QJuMiCk6wpjInuksN2zXyxTPCI-qa7yTCsXh9QUDf1k"
+      }
+    },
+    {
+      "transaction_id": "MzM0MTMwNzgzMGFkaXF6a2N4",
+      "barcode": "XB58U5VN",
+      "type": "PSC04",
+      "date": "2022-06-01",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2022-06-01",
+        "psc_name": "Mr David Moody"
+      },
+      "pages": 2,
+      "action_date": "2022-06-01",
+      "links": {
+        "self": "/company/12578630/filing-history/MzM0MTMwNzgzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hWkZ65cbjrcp7Hx_Q6oqZiK3EhlkLnzKS9dYlZgp2g0"
+      }
+    },
+    {
+      "transaction_id": "MzM0MTMwNzU0NmFkaXF6a2N4",
+      "barcode": "XB58U4HC",
+      "type": "AD01",
+      "date": "2022-06-01",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-06-01",
+        "old_address": "71-75 Shelton Street London Greater London WC2H 9JQ United Kingdom",
+        "new_address": "289a Burntwood Lane Wandsworth Common London SW17 0AP"
+      },
+      "pages": 1,
+      "action_date": "2022-06-01",
+      "links": {
+        "self": "/company/12578630/filing-history/MzM0MTMwNzU0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_GDHcQO-AQTVMqrobykCAuQ5tDBhyb9nB2O7yTivRRg"
+      }
+    },
+    {
+      "transaction_id": "MzMzODI0MjM5MWFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2022-05-17",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12578630/filing-history/MzMzODI0MjM5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hju-TXTdCKYUlHuXwVJsD8VJpDi6c9ulg4jfKu2RjNw"
+      }
+    },
+    {
+      "transaction_id": "MzMzODI0MTYxN2FkaXF6a2N4",
+      "barcode": "XB2EJLC9",
+      "type": "DS01",
+      "date": "2022-05-04",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/12578630/filing-history/MzMzODI0MTYxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Nj6lx3Lqe44ZTP4N2-cHHEgT35GURp7pzicSqSIgPqQ"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjI3NDQ1M2FkaXF6a2N4",
+      "barcode": "XA7QQ4BK",
+      "type": "CS01",
+      "date": "2021-06-30",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2021-04-28"
+      },
+      "pages": 4,
+      "action_date": "2021-04-28",
+      "links": {
+        "self": "/company/12578630/filing-history/MzMwNjI3NDQ1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vqe8zIBQ304RIgW_2DEsb9Yd2swU5VZqaq5n1Ra_cB4"
+      }
+    },
+    {
+      "transaction_id": "MzI2MzUxODE0OGFkaXF6a2N4",
+      "barcode": "X940HUXM",
+      "type": "NEWINC",
+      "date": "2020-04-29",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2020-04-29",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-04-29",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2020-04-29"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 29,
+      "links": {
+        "self": "/company/12578630/filing-history/MzI2MzUxODE0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/E8H6ii-QZhoziz3nHSiG6OWaBKJe_iDOT2XDmKu3W_k"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 9
+}

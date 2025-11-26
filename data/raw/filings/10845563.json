@@ -1,0 +1,671 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzM3OTUwOTI4NmFkaXF6a2N4",
+      "type": "SOAS(A)",
+      "date": "2023-05-16",
+      "category": "dissolution",
+      "description": "dissolution-voluntary-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10845563/filing-history/MzM3OTUwOTI4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DAqldPspACq7jvkPb57-kpQuW8JxgBFJQZirPPWzDLQ"
+      }
+    },
+    {
+      "transaction_id": "MzM3Mzc1NDg0MWFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2023-04-04",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10845563/filing-history/MzM3Mzc1NDg0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tl9OthLQLvHw2zT5u_TPm50TS0ebt69L9RcxX3eBi4U"
+      }
+    },
+    {
+      "transaction_id": "MzM3Mzc1NDAwNWFkaXF6a2N4",
+      "barcode": "XBYYWYVN",
+      "type": "DS01",
+      "date": "2023-03-23",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/10845563/filing-history/MzM3Mzc1NDAwNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LNHVaqnlD2wKKdK6Twj6CiyDTT42dLO8lSrQwJGh8j0"
+      }
+    },
+    {
+      "transaction_id": "MzM1NzQ0NTEyN2FkaXF6a2N4",
+      "barcode": "XBFYWYEX",
+      "type": "AA",
+      "date": "2022-11-04",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-02-28"
+      },
+      "pages": 9,
+      "action_date": "2022-02-28",
+      "links": {
+        "self": "/company/10845563/filing-history/MzM1NzQ0NTEyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/j57n1Vxuph9XmNdN3ARHDRyr9ZncLFVHM6xEz53dVNg"
+      }
+    },
+    {
+      "transaction_id": "MzM1NzQ2MDIwMWFkaXF6a2N4",
+      "barcode": "XBFYYS54",
+      "type": "AA01",
+      "date": "2022-11-03",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-shortened",
+      "description_values": {
+        "made_up_date": "2022-06-30",
+        "new_date": "2022-02-28"
+      },
+      "pages": 1,
+      "action_date": "2022-02-28",
+      "links": {
+        "self": "/company/10845563/filing-history/MzM1NzQ2MDIwMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CXYyo7di8KYvOPiwOrfTkeMBQ8YImLK3GKbkYlTfqW4"
+      }
+    },
+    {
+      "transaction_id": "MzM0ODE4MjA1NWFkaXF6a2N4",
+      "barcode": "XBA0B95T",
+      "type": "CS01",
+      "date": "2022-08-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-06-28"
+      },
+      "pages": 3,
+      "action_date": "2022-06-28",
+      "links": {
+        "self": "/company/10845563/filing-history/MzM0ODE4MjA1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0wZwsn8p7u4cN9lTq8hHBZg8O6RdOwY6gYSyju1YLBc"
+      }
+    },
+    {
+      "transaction_id": "MzMzNDc5ODYwOGFkaXF6a2N4",
+      "barcode": "XB0X5HKX",
+      "type": "AA",
+      "date": "2022-03-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-06-30"
+      },
+      "pages": 10,
+      "action_date": "2021-06-30",
+      "links": {
+        "self": "/company/10845563/filing-history/MzMzNDc5ODYwOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ILp6Sb5I0gBBPsN73SivHNCQagD2mboXz49f0UGHe5Y"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjIxNzQwMWFkaXF6a2N4",
+      "barcode": "XA7QIUH0",
+      "type": "AA",
+      "date": "2021-06-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-06-30"
+      },
+      "pages": 10,
+      "action_date": "2020-06-30",
+      "links": {
+        "self": "/company/10845563/filing-history/MzMwNjIxNzQwMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-Fht7kaANGkdqmDlJ_6rDmJL2xEukHTJw68L6sIUKTQ"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjIxNTA5OGFkaXF6a2N4",
+      "barcode": "XA7QIL1D",
+      "type": "CS01",
+      "date": "2021-06-30",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2021-06-28"
+      },
+      "pages": 4,
+      "action_date": "2021-06-28",
+      "links": {
+        "self": "/company/10845563/filing-history/MzMwNjIxNTA5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ukdQlIyZZfuTWNjDwQoxOnEQOllu7VEvE5g2Wzdwg8U"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjA4MjA5OWFkaXF6a2N4",
+      "barcode": "XA7NXLQ1",
+      "type": "PSC07",
+      "date": "2021-06-29",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Anita Vetharajah",
+        "cessation_date": "2021-06-29"
+      },
+      "pages": 1,
+      "action_date": "2021-06-29",
+      "links": {
+        "self": "/company/10845563/filing-history/MzMwNjA4MjA5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zLaQ4uN2UV49ImpfqJRz51qb9YdYu_GNx_lqaDe4OXs"
+      }
+    },
+    {
+      "transaction_id": "MzI4MjI1MDE1M2FkaXF6a2N4",
+      "barcode": "X9GZKIC1",
+      "type": "TM01",
+      "date": "2020-11-02",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Nicholas Ian Maudsley",
+        "termination_date": "2020-11-02"
+      },
+      "pages": 1,
+      "action_date": "2020-11-02",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI4MjI1MDE1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2z7xGgjEIC17BAwPgJ7AP2dXby2X_eqhgDdULsUJQqA"
+      }
+    },
+    {
+      "transaction_id": "MzI4MjI1MDEzM2FkaXF6a2N4",
+      "barcode": "X9GZKIFC",
+      "type": "PSC07",
+      "date": "2020-11-02",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Nicholas Ian Maudsley",
+        "cessation_date": "2020-11-02"
+      },
+      "pages": 1,
+      "action_date": "2020-11-02",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI4MjI1MDEzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/prVMjKWc1q1dZHSqDxmfV8EJtxugSshd26q9s40ATlg"
+      }
+    },
+    {
+      "transaction_id": "MzI3MTkwNzE0MmFkaXF6a2N4",
+      "barcode": "X9880ZQJ",
+      "type": "CS01",
+      "date": "2020-06-29",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-06-28"
+      },
+      "pages": 3,
+      "action_date": "2020-06-28",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI3MTkwNzE0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ou2aNsd19kdekKqaS_Mf7jMMW96RM5flh1LWZFIn0RA"
+      }
+    },
+    {
+      "transaction_id": "MzI1NzY2NTUyOWFkaXF6a2N4",
+      "barcode": "X8Z60O8B",
+      "type": "PSC04",
+      "date": "2020-02-20",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-02-19",
+        "psc_name": "Miss Anita Vetharajah"
+      },
+      "pages": 2,
+      "action_date": "2020-02-19",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NzY2NTUyOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CAmYIDwamu4Ie5txZHwM6Ff0LxiX7dS8NJx4IvB8nhg"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTc1NDM3MWFkaXF6a2N4",
+      "barcode": "X8XM77PN",
+      "type": "PSC04",
+      "date": "2020-01-30",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-01-28",
+        "psc_name": "Miss Anita Vetharajah"
+      },
+      "pages": 2,
+      "action_date": "2020-01-28",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NTc1NDM3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zCuTK9QQ_uOQGLVc74ls0-mXtiz_ctgXdOq6336_M1k"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTM0MzU5MmFkaXF6a2N4",
+      "barcode": "X8X8ZALK",
+      "type": "PSC04",
+      "date": "2020-01-24",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-01-23",
+        "psc_name": "Nicholas Maudsley"
+      },
+      "pages": 2,
+      "action_date": "2020-01-23",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NTM0MzU5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2J0y3BQRx9LcdxRN7hSQPSc41xlgMtlD0AWuv855rQw"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTMyNjg3MWFkaXF6a2N4",
+      "barcode": "X8X8XSLU",
+      "type": "PSC04",
+      "date": "2020-01-24",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-01-23",
+        "psc_name": "Miss Anita Vetharajah"
+      },
+      "pages": 2,
+      "action_date": "2020-01-23",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NTMyNjg3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/M7y1iIa3SmBuMiIerkgVFno-8MjhJAcJ5DDVSca8XXM"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTMyNjY1MmFkaXF6a2N4",
+      "barcode": "X8X8XRYY",
+      "type": "PSC04",
+      "date": "2020-01-24",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-01-23",
+        "psc_name": "Nicholas Maudsley"
+      },
+      "pages": 2,
+      "action_date": "2020-01-23",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NTMyNjY1MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hWgj3KaUxoBd932v-IbHlKGIn4ksoKcy1goewUc605w"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTMyNjY5M2FkaXF6a2N4",
+      "barcode": "X8X8XS5D",
+      "type": "PSC04",
+      "date": "2020-01-24",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-01-23",
+        "psc_name": "Miss Anita Vetharajah"
+      },
+      "pages": 2,
+      "action_date": "2020-01-23",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NTMyNjY5M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/u49sSWqp5ug0BjCDOSSIb9svD2UNRoaenDaWtz5g2u8"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTMyNjc1N2FkaXF6a2N4",
+      "barcode": "X8X8XS80",
+      "type": "PSC04",
+      "date": "2020-01-24",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-01-23",
+        "psc_name": "Miss Anita Vetharajah"
+      },
+      "pages": 2,
+      "action_date": "2020-01-23",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NTMyNjc1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/sk7kXAWRICXbkY_cQtoPnuHmTTbrohDkTsf7_p8kHcQ"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTMyNjE2M2FkaXF6a2N4",
+      "barcode": "X8X8XQJD",
+      "type": "PSC04",
+      "date": "2020-01-24",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-01-23",
+        "psc_name": "Nicholas Maudsley"
+      },
+      "pages": 2,
+      "action_date": "2020-01-23",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NTMyNjE2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QErup87G9Dm92tkRTEJoR3u7aSLxn_s2joTSMxLz3EI"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTMyNzAxM2FkaXF6a2N4",
+      "barcode": "X8X8XSYH",
+      "type": "CH01",
+      "date": "2020-01-23",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-01-23",
+        "officer_name": "Miss Anita Vetharajah"
+      },
+      "pages": 2,
+      "action_date": "2020-01-23",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NTMyNzAxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/z7jTR6BqxrqUvbT-aqqAFhCGeVzf4yj3wKHRl-U6xwc"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTMyNjk5MGFkaXF6a2N4",
+      "barcode": "X8X8XSXT",
+      "type": "CH01",
+      "date": "2020-01-23",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-01-23",
+        "officer_name": "Nicholas Maudsley"
+      },
+      "pages": 2,
+      "action_date": "2020-01-23",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NTMyNjk5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ffBrDcBnscSDKIYyo1wgZ9iNlTCitTxQ_CA7im-hyeM"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTMyNjE0NmFkaXF6a2N4",
+      "barcode": "X8X8XQGP",
+      "type": "PSC04",
+      "date": "2020-01-23",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-01-23",
+        "psc_name": "Nicholas Maudsley"
+      },
+      "pages": 2,
+      "action_date": "2020-01-23",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NTMyNjE0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/F5LffRXYQRdiVAWLmIZMK5eXx5uyNu_QvwT1O8ZggVY"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTMyNTkyMmFkaXF6a2N4",
+      "barcode": "X8X8XPO9",
+      "type": "AD01",
+      "date": "2020-01-23",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2020-01-23",
+        "old_address": "19 Lower South View Farnham GU9 7LB England",
+        "new_address": "44 Hazell Road Farnham GU9 7BP"
+      },
+      "pages": 1,
+      "action_date": "2020-01-23",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI1NTMyNTkyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/E3JxRxyhN5C1pSMsLUF8x6zsTvK9qIzKm-v9c5pzJIw"
+      }
+    },
+    {
+      "transaction_id": "MzI0ODY4NjI4MWFkaXF6a2N4",
+      "barcode": "X8HO1K03",
+      "type": "AA",
+      "date": "2019-11-06",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2019-06-30"
+      },
+      "pages": 8,
+      "action_date": "2019-06-30",
+      "links": {
+        "self": "/company/10845563/filing-history/MzI0ODY4NjI4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4ypIHD1Syo7kS5SfbkS88vcfI97c4--S7Lgt9H-Tlog"
+      }
+    },
+    {
+      "transaction_id": "MzIzODY1ODE2MmFkaXF6a2N4",
+      "barcode": "X892DPIJ",
+      "type": "CS01",
+      "date": "2019-07-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-06-28"
+      },
+      "pages": 3,
+      "action_date": "2019-06-28",
+      "links": {
+        "self": "/company/10845563/filing-history/MzIzODY1ODE2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wxqe1oVh-jplBS8F7QFITiGTUaq6mDOgS_cyw4uwSjo"
+      }
+    },
+    {
+      "transaction_id": "MzIzMDUxNzc1NmFkaXF6a2N4",
+      "barcode": "X825A1S8",
+      "type": "AA",
+      "date": "2019-03-27",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2018-06-30"
+      },
+      "pages": 7,
+      "action_date": "2018-06-30",
+      "links": {
+        "self": "/company/10845563/filing-history/MzIzMDUxNzc1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5RWQuIEOqCslCIBS7eYEMbxSriwV8GAQO78hNlxCZuk"
+      }
+    },
+    {
+      "transaction_id": "MzIwODUyNDYxMmFkaXF6a2N4",
+      "barcode": "X7920INV",
+      "type": "CS01",
+      "date": "2018-06-28",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2018-06-28"
+      },
+      "pages": 5,
+      "action_date": "2018-06-28",
+      "links": {
+        "self": "/company/10845563/filing-history/MzIwODUyNDYxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mNq5sB_j8_iTY5Ne5deBU_ZaVMYGKdKyMujzPEKoXes"
+      }
+    },
+    {
+      "transaction_id": "MzIwODUyNDQ5OWFkaXF6a2N4",
+      "barcode": "X7920EU2",
+      "type": "PSC01",
+      "date": "2018-06-28",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Nicholas Maudsley",
+        "notification_date": "2018-04-06"
+      },
+      "pages": 2,
+      "action_date": "2018-04-06",
+      "links": {
+        "self": "/company/10845563/filing-history/MzIwODUyNDQ5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9DWOuMT5bHFxuRoNyml5uq5mYLli36xLpOWiU69N-vc"
+      }
+    },
+    {
+      "transaction_id": "MzIwODUyNDA2MGFkaXF6a2N4",
+      "barcode": "X791ZXQH",
+      "type": "PSC01",
+      "date": "2018-06-28",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Anita Vetharajah",
+        "notification_date": "2018-04-06"
+      },
+      "pages": 2,
+      "action_date": "2018-04-06",
+      "links": {
+        "self": "/company/10845563/filing-history/MzIwODUyNDA2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uPOg_DfAtT8prnVOzE-HxpyhpF5iaG1xhEtI5OJVHZ4"
+      }
+    },
+    {
+      "transaction_id": "MzIwNTQwMDgwOWFkaXF6a2N4",
+      "barcode": "X76EGS0B",
+      "type": "CH01",
+      "date": "2018-05-21",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2018-05-21",
+        "officer_name": "Nicholas Maudsley"
+      },
+      "pages": 2,
+      "action_date": "2018-05-21",
+      "links": {
+        "self": "/company/10845563/filing-history/MzIwNTQwMDgwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MheioSJT34G1_WqpA7oOAvg179PBc8hOCdSNJX0gyxI"
+      }
+    },
+    {
+      "transaction_id": "MzIwNTQwMDU1M2FkaXF6a2N4",
+      "barcode": "X76EGLIX",
+      "type": "PSC04",
+      "date": "2018-05-21",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2018-04-06",
+        "psc_name": "Miss Anita Vetharajah"
+      },
+      "pages": 2,
+      "action_date": "2018-04-06",
+      "links": {
+        "self": "/company/10845563/filing-history/MzIwNTQwMDU1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/C6LuO_dmQ8BmGW47Pa2kRynKn5j4lMT5nGzs0gEyFDQ"
+      }
+    },
+    {
+      "transaction_id": "MzIwNTQwMDE2N2FkaXF6a2N4",
+      "barcode": "X76EG4M2",
+      "type": "AD01",
+      "date": "2018-05-21",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2018-05-21",
+        "old_address": "Flat 15, the Old Warehouse 51 Woodgreen Witney Oxfordshire OX28 1DD United Kingdom",
+        "new_address": "19 Lower South View Farnham GU9 7LB"
+      },
+      "pages": 1,
+      "action_date": "2018-05-21",
+      "links": {
+        "self": "/company/10845563/filing-history/MzIwNTQwMDE2N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lK1IL1nUV0TThBvxd-c021EG1eD2TFY1ZsSDBGI1BD4"
+      }
+    },
+    {
+      "transaction_id": "MzIwMTkwNjI2MGFkaXF6a2N4",
+      "barcode": "X738QX08",
+      "type": "AP01",
+      "date": "2018-04-05",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Nicholas Maudsley",
+        "appointment_date": "2018-04-05"
+      },
+      "pages": 2,
+      "action_date": "2018-04-05",
+      "links": {
+        "self": "/company/10845563/filing-history/MzIwMTkwNjI2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4ToSlEVlITlU0phfsR526HDTCaio5bJC3Y8s2aCZtrE"
+      }
+    },
+    {
+      "transaction_id": "MzE3OTMzNTA3MWFkaXF6a2N4",
+      "barcode": "X69MDLP4",
+      "type": "NEWINC",
+      "date": "2017-06-30",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2017-06-30",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2017-06-30",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2017-06-30",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2017-06-30"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/10845563/filing-history/MzE3OTMzNTA3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/i6z9KC4Z34lFbIqqMEQqzTGq8ZjTNxD15b9skCCCFoA"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 36
+}

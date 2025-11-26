@@ -1,0 +1,72 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-06-30",
+      "period_end_on": "2025-06-30",
+      "period_start_on": "2024-07-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2027-03-31",
+      "overdue": false,
+      "period_end_on": "2026-06-30",
+      "period_start_on": "2025-07-01"
+    },
+    "next_due": "2027-03-31",
+    "next_made_up_to": "2026-06-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "MOBIUS SERVICES LIMITED",
+  "company_number": "05820532",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-06-24",
+    "next_due": "2026-07-08",
+    "next_made_up_to": "2026-06-24",
+    "overdue": false
+  },
+  "date_of_creation": "2006-05-17",
+  "etag": "c99ad43c09ebfc2a9901f2f57f7ec063c4aa1a35",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-05-17",
+  "links": {
+    "persons_with_significant_control": "/company/05820532/persons-with-significant-control",
+    "self": "/company/05820532",
+    "filing_history": "/company/05820532/filing-history",
+    "officers": "/company/05820532/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2007-10-03",
+      "effective_from": "2006-11-21",
+      "name": "SPENCER STREET LIMITED"
+    },
+    {
+      "ceased_on": "2006-11-21",
+      "effective_from": "2006-05-17",
+      "name": "TWO OLD BOYS LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "3 Mountbatten Drive",
+    "address_line_2": "Ringstead",
+    "country": "England",
+    "locality": "Kettering",
+    "postal_code": "NN14 4TX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

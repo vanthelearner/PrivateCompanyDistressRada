@@ -1,0 +1,75 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2019-03-31",
+      "period_end_on": "2019-03-31",
+      "period_start_on": "2018-04-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2021-03-31",
+      "overdue": true,
+      "period_end_on": "2020-03-31",
+      "period_start_on": "2019-04-01"
+    },
+    "next_due": "2021-03-31",
+    "next_made_up_to": "2020-03-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "NIGHTINGALE CONSULTING LIMITED",
+  "company_number": "07183006",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2022-07-14",
+    "next_due": "2023-07-28",
+    "next_made_up_to": "2023-07-14",
+    "overdue": true
+  },
+  "date_of_creation": "2010-03-09",
+  "etag": "b70f791ad6d2adb14345336bf648ed72ae3a07c6",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-03-09",
+  "links": {
+    "persons_with_significant_control": "/company/07183006/persons-with-significant-control",
+    "self": "/company/07183006",
+    "filing_history": "/company/07183006/filing-history",
+    "officers": "/company/07183006/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2015-06-15",
+      "effective_from": "2010-03-30",
+      "name": "NIGHTINGALE DRESSINGS LIMITED"
+    },
+    {
+      "ceased_on": "2010-03-30",
+      "effective_from": "2010-03-09",
+      "name": "NIGHTINGALES DRESSINGS LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "St Mary's House Crewe Road",
+    "address_line_2": "Alsager",
+    "country": "England",
+    "locality": "Stoke-On-Trent",
+    "postal_code": "ST7 2EW"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229",
+    "80100",
+    "80300"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

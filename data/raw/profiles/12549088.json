@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-06-30",
+      "period_end_on": "2022-06-30",
+      "period_start_on": "2021-07-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2024-03-31",
+      "overdue": true,
+      "period_end_on": "2023-06-30",
+      "period_start_on": "2022-07-01"
+    },
+    "next_due": "2024-03-31",
+    "next_made_up_to": "2023-06-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "HH SPORTS CONSULTANCY LIMITED",
+  "company_number": "12549088",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-04-05",
+    "next_due": "2024-04-19",
+    "next_made_up_to": "2024-04-05",
+    "overdue": true
+  },
+  "date_of_creation": "2020-04-06",
+  "etag": "1430c7db132d3032b7881ea7e3a2c1ff16301f66",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12549088/persons-with-significant-control",
+    "self": "/company/12549088",
+    "filing_history": "/company/12549088/filing-history",
+    "officers": "/company/12549088/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Milburn House Hexham Business Park",
+    "address_line_2": "Burn Lane",
+    "country": "England",
+    "locality": "Hexham",
+    "postal_code": "NE46 3RU",
+    "region": "Northumberland"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

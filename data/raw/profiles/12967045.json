@@ -1,0 +1,54 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "10"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2022-07-22",
+      "overdue": true,
+      "period_end_on": "2021-10-31",
+      "period_start_on": "2020-10-22"
+    },
+    "next_due": "2022-07-22",
+    "next_made_up_to": "2021-10-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "ODIN FINANCE LIMITED",
+  "company_number": "12967045",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2021-11-04",
+    "next_made_up_to": "2021-10-21",
+    "overdue": true
+  },
+  "date_of_cessation": "2022-01-04",
+  "date_of_creation": "2020-10-22",
+  "etag": "cb6b591ef5cf0a91b0916f6ba1f2ad93b55ec5a9",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12967045/persons-with-significant-control",
+    "self": "/company/12967045",
+    "filing_history": "/company/12967045/filing-history",
+    "officers": "/company/12967045/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "29 Barnard Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "SW11 1QT"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-08-31",
+      "period_end_on": "2024-08-31",
+      "period_start_on": "2023-09-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-05-31",
+      "overdue": false,
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-09-01"
+    },
+    "next_due": "2026-05-31",
+    "next_made_up_to": "2025-08-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "SENSEI TRAINING & DEVELOPMENT LTD",
+  "company_number": "09188868",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-08-11",
+    "next_due": "2026-08-25",
+    "next_made_up_to": "2026-08-11",
+    "overdue": false
+  },
+  "date_of_creation": "2014-08-28",
+  "etag": "081486773fa012838bda755173b43185a8864474",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-08-28",
+  "links": {
+    "persons_with_significant_control": "/company/09188868/persons-with-significant-control",
+    "self": "/company/09188868",
+    "filing_history": "/company/09188868/filing-history",
+    "officers": "/company/09188868/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "14 Fernway",
+    "locality": "Morpeth",
+    "postal_code": "NE61 1XJ",
+    "region": "Northumberland"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-03-31",
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-12-31",
+      "overdue": false,
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01"
+    },
+    "next_due": "2025-12-31",
+    "next_made_up_to": "2025-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "NOTTINGHAM CONSULTING LIMITED",
+  "company_number": "14087296",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-05-05",
+    "next_due": "2026-05-19",
+    "next_made_up_to": "2026-05-05",
+    "overdue": false
+  },
+  "date_of_creation": "2022-05-05",
+  "etag": "795ebb629c03befcacd1642250e1e9a346891c86",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14087296/persons-with-significant-control",
+    "self": "/company/14087296",
+    "filing_history": "/company/14087296/filing-history",
+    "officers": "/company/14087296/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Newstead House",
+    "address_line_2": "Pelham Road",
+    "country": "United Kingdom",
+    "locality": "Nottingham",
+    "postal_code": "NG5 1AP"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70221"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

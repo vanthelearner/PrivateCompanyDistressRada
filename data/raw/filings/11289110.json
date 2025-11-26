@@ -1,0 +1,531 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQ3MTk2NTQ0M2FkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2025-07-02",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11289110/filing-history/MzQ3MTk2NTQ0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/U7AGToQPWNbn6bcqz0XbOkB5FUNTX2mQrPr5afrLDIY"
+      }
+    },
+    {
+      "transaction_id": "MzQ3MDg2MDU2NGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2025-07-01",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11289110/filing-history/MzQ3MDg2MDU2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xfwUSbyUqXFCYVgMB52Kz-uE_321J8cd57ECpPHI6C4"
+      }
+    },
+    {
+      "transaction_id": "MzQ3MTk2NTM1N2FkaXF6a2N4",
+      "barcode": "XE5S7M81",
+      "type": "CS01",
+      "date": "2025-06-30",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2025-04-09"
+      },
+      "pages": 3,
+      "action_date": "2025-04-09",
+      "links": {
+        "self": "/company/11289110/filing-history/MzQ3MTk2NTM1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vGLrr-oMveJN8EdG8szOWwmbPeafXoFN9dF_fuyEiJE"
+      }
+    },
+    {
+      "transaction_id": "MzQ2NDkyNDAwN2FkaXF6a2N4",
+      "barcode": "XE1QDDRS",
+      "type": "AA",
+      "date": "2025-05-02",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2024-04-30"
+      },
+      "pages": 8,
+      "action_date": "2024-04-30",
+      "links": {
+        "self": "/company/11289110/filing-history/MzQ2NDkyNDAwN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bo-KBKiR4PJJ-HxVfMJJfZpCY41MJ9B-62Ku3tHnLVs"
+      }
+    },
+    {
+      "transaction_id": "MzQ2Mzg1Njg2NmFkaXF6a2N4",
+      "barcode": "XE14LUA8",
+      "type": "TM01",
+      "date": "2025-04-24",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Shaun Keefe",
+        "termination_date": "2025-04-21"
+      },
+      "pages": 1,
+      "action_date": "2025-04-21",
+      "links": {
+        "self": "/company/11289110/filing-history/MzQ2Mzg1Njg2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/C12MeZ_e7Q3rAp7gUu7x2-JnJeG7KcpndDDt6Xbae_4"
+      }
+    },
+    {
+      "transaction_id": "MzQyMTgyNjIxN2FkaXF6a2N4",
+      "barcode": "XD340SVV",
+      "type": "CS01",
+      "date": "2024-05-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-04-09"
+      },
+      "pages": 3,
+      "action_date": "2024-04-09",
+      "links": {
+        "self": "/company/11289110/filing-history/MzQyMTgyNjIxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cRJx_SAUo8tVmreW-ROmiJ2uzqYBAKqLry6sekqM0vg"
+      }
+    },
+    {
+      "transaction_id": "MzQyMDIyNDUwOWFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2024-05-01",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11289110/filing-history/MzQyMDIyNDUwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/OpU1_PwoAIkdF_Sou-_Ur4X5alwpYxD_40Ej6I7_cuI"
+      }
+    },
+    {
+      "transaction_id": "MzQyMDIyNDQ2MGFkaXF6a2N4",
+      "barcode": "XD254HUG",
+      "type": "AA",
+      "date": "2024-04-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2023-04-30"
+      },
+      "pages": 7,
+      "action_date": "2023-04-30",
+      "links": {
+        "self": "/company/11289110/filing-history/MzQyMDIyNDQ2MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LJrrZdey9oroPgTd8M_bgmgRygpul4emWIm9jEngQHc"
+      }
+    },
+    {
+      "transaction_id": "MzQxNTYwNjI3MmFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2024-04-02",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11289110/filing-history/MzQxNTYwNjI3MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9q_r1v_aaC9CyslbbAKPUgZ7v0LVcDk59PsW-Tvq3bQ"
+      }
+    },
+    {
+      "transaction_id": "MzM3OTU2NTU3NmFkaXF6a2N4",
+      "barcode": "XC3LS9FM",
+      "type": "CS01",
+      "date": "2023-05-15",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-04-09"
+      },
+      "pages": 3,
+      "action_date": "2023-04-09",
+      "links": {
+        "self": "/company/11289110/filing-history/MzM3OTU2NTU3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Xmmff12uVkRRNyYk7Vq6lSJJBtYuDcXMkkkTB3HZhhM"
+      }
+    },
+    {
+      "transaction_id": "MzM3OTU2NTU0NGFkaXF6a2N4",
+      "barcode": "XC3LS9I8",
+      "type": "AP01",
+      "date": "2023-05-15",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Shaun Keefe",
+        "appointment_date": "2023-05-10"
+      },
+      "pages": 2,
+      "action_date": "2023-05-10",
+      "links": {
+        "self": "/company/11289110/filing-history/MzM3OTU2NTU0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uecgeQ7kxJkn4zAt6RA-91VcbZ7Qa6V59-esuIOnpQg"
+      }
+    },
+    {
+      "transaction_id": "MzM3NzQ2NjE4OWFkaXF6a2N4",
+      "barcode": "XC26TVCA",
+      "type": "AA",
+      "date": "2023-04-25",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2022-04-30"
+      },
+      "pages": 7,
+      "action_date": "2022-04-30",
+      "links": {
+        "self": "/company/11289110/filing-history/MzM3NzQ2NjE4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/y-xlaR0NNqMxHtG0njqJYOgqMa9Fays2L8f_qK6YnxE"
+      }
+    },
+    {
+      "transaction_id": "MzM0NDM1MTAyNmFkaXF6a2N4",
+      "barcode": "XB79GYPM",
+      "type": "AD01",
+      "date": "2022-06-30",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-06-30",
+        "old_address": "102 the Plaza Building Lee High Road Lewisham London SE13 5PT England",
+        "new_address": "6 Green Lane Business Park 238 Green Lane New Eltham London SE9 3TL"
+      },
+      "pages": 1,
+      "action_date": "2022-06-30",
+      "links": {
+        "self": "/company/11289110/filing-history/MzM0NDM1MTAyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/scOIJHkoftqwFOsZWTgm11XLMAPI94irKBME4Tls2H4"
+      }
+    },
+    {
+      "transaction_id": "MzM0MzM1MzIyOWFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2022-06-29",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11289110/filing-history/MzM0MzM1MzIyOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/a8oDTjeWvb6qKDqG0L81e8aHDFG9JsQotFKUIeBlAM8"
+      }
+    },
+    {
+      "transaction_id": "MzM0MzExODMxNWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-06-28",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11289110/filing-history/MzM0MzExODMxNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eVQDIQGQb73dzWNf-2OyiJpxn88NPb8MoRe6ki255PA"
+      }
+    },
+    {
+      "transaction_id": "MzM0MzM1MzE2NmFkaXF6a2N4",
+      "barcode": "XB6Q8TB4",
+      "type": "CS01",
+      "date": "2022-06-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-04-09"
+      },
+      "pages": 3,
+      "action_date": "2022-04-09",
+      "links": {
+        "self": "/company/11289110/filing-history/MzM0MzM1MzE2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HFsZkmJQGXxS37ykQd2g06lZvkTHi9Fs8QP5RlUIOes"
+      }
+    },
+    {
+      "transaction_id": "MzMyNzg5ODQzN2FkaXF6a2N4",
+      "barcode": "XAWI7EPU",
+      "type": "AA",
+      "date": "2022-01-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2021-04-30"
+      },
+      "pages": 7,
+      "action_date": "2021-04-30",
+      "links": {
+        "self": "/company/11289110/filing-history/MzMyNzg5ODQzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tRJh7a8wVmGIa1rEF1-04j0TP5x_hPxAkAwx9uxfgMw"
+      }
+    },
+    {
+      "transaction_id": "MzMwMjQxMDM2OGFkaXF6a2N4",
+      "barcode": "XA5CJYGX",
+      "type": "CS01",
+      "date": "2021-05-26",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-04-09"
+      },
+      "pages": 3,
+      "action_date": "2021-04-09",
+      "links": {
+        "self": "/company/11289110/filing-history/MzMwMjQxMDM2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kDqhF330OwPu-LHdibQyNDenMQQFE2nyugtdfvHsulM"
+      }
+    },
+    {
+      "transaction_id": "MzI5MDI3OTk4MmFkaXF6a2N4",
+      "barcode": "X9XHLKTL",
+      "type": "AA",
+      "date": "2021-02-02",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2020-04-30"
+      },
+      "pages": 7,
+      "action_date": "2020-04-30",
+      "links": {
+        "self": "/company/11289110/filing-history/MzI5MDI3OTk4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/NgIB5IRY0eTkMH__UoU1cVnuVstfcTSRIj5kVRXd2mE"
+      }
+    },
+    {
+      "transaction_id": "MzI2Njc5NzYxNGFkaXF6a2N4",
+      "barcode": "X96QPHWZ",
+      "type": "AP03",
+      "date": "2020-06-08",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-secretary-company-with-name-date",
+      "description_values": {
+        "officer_name": "Miss Chloe Elizabeth Nightingale",
+        "appointment_date": "2020-06-01"
+      },
+      "pages": 2,
+      "action_date": "2020-06-01",
+      "links": {
+        "self": "/company/11289110/filing-history/MzI2Njc5NzYxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/PmM5t2I6mQH0YernFO11iDnUJMxGEZpjUYyIUUc0rW0"
+      }
+    },
+    {
+      "transaction_id": "MzI2Njc5NzM5MWFkaXF6a2N4",
+      "barcode": "X96QPH8I",
+      "type": "CS01",
+      "date": "2020-06-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-04-09"
+      },
+      "pages": 3,
+      "action_date": "2020-04-09",
+      "links": {
+        "self": "/company/11289110/filing-history/MzI2Njc5NzM5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RWUKEJqVvEgWLXaP-3HxYFLrGcZATpzhKEukG3-tYZs"
+      }
+    },
+    {
+      "transaction_id": "MzI1MzcxMDUzOGFkaXF6a2N4",
+      "barcode": "X8VUTO81",
+      "type": "AA",
+      "date": "2020-01-03",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2019-04-30"
+      },
+      "pages": 7,
+      "action_date": "2019-04-30",
+      "links": {
+        "self": "/company/11289110/filing-history/MzI1MzcxMDUzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dC-cfhuffLxa-vp5NRp1UmrbuxOEuv9LJZ9hXAyU1zw"
+      }
+    },
+    {
+      "transaction_id": "MzI0ODQ2MTMxMmFkaXF6a2N4",
+      "barcode": "X8HINUE1",
+      "type": "AD01",
+      "date": "2019-11-04",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2019-11-04",
+        "old_address": "47 Park Road Park Road Chislehurst BR7 5AY United Kingdom",
+        "new_address": "102 the Plaza Building Lee High Road Lewisham London SE13 5PT"
+      },
+      "pages": 1,
+      "action_date": "2019-11-04",
+      "links": {
+        "self": "/company/11289110/filing-history/MzI0ODQ2MTMxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nJeJDJfs-W5m7m01wkXQq6IkhoTB0fMtRDeUhSi4ZQY"
+      }
+    },
+    {
+      "transaction_id": "MzIzMzMwNTkzNWFkaXF6a2N4",
+      "barcode": "X84IA7F7",
+      "type": "CS01",
+      "date": "2019-04-30",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-04-09"
+      },
+      "pages": 3,
+      "action_date": "2019-04-09",
+      "links": {
+        "self": "/company/11289110/filing-history/MzIzMzMwNTkzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/da6BCUl8Q0_GX2nSU_HNH5D2M8xyNFIvIS3EuazbxUg"
+      }
+    },
+    {
+      "transaction_id": "MzIwNjA1NDc0M2FkaXF6a2N4",
+      "barcode": "X76YCXI1",
+      "type": "AD01",
+      "date": "2018-05-29",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2018-05-29",
+        "old_address": "47 Park Road Park Road Chislehurst United Kingdom",
+        "new_address": "47 Park Road Park Road Chislehurst BR7 5AY"
+      },
+      "pages": 1,
+      "action_date": "2018-05-29",
+      "links": {
+        "self": "/company/11289110/filing-history/MzIwNjA1NDc0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zYHB92wmP4H2d3E7hi0UR59lIQXBH8MCO_Q49z3s_gc"
+      }
+    },
+    {
+      "transaction_id": "MzIwNjA1NDY5N2FkaXF6a2N4",
+      "barcode": "X76YCYJS",
+      "type": "PSC04",
+      "date": "2018-05-29",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2018-05-29",
+        "psc_name": "Miss Chloe Elizabeth Nightingale"
+      },
+      "pages": 2,
+      "action_date": "2018-05-29",
+      "links": {
+        "self": "/company/11289110/filing-history/MzIwNjA1NDY5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ySysWsjX1wss4ELtOOWXUbAZ0BMe3WLFZ2gTRUOeops"
+      }
+    },
+    {
+      "transaction_id": "MzIwMjE1MDg0OWFkaXF6a2N4",
+      "barcode": "X73IDE09",
+      "type": "PSC01",
+      "date": "2018-04-09",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Chloe Elizabeth Nightingale",
+        "notification_date": "2018-04-09"
+      },
+      "pages": 2,
+      "action_date": "2018-04-09",
+      "links": {
+        "self": "/company/11289110/filing-history/MzIwMjE1MDg0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ggiJ4dnGf5w5nXGMeeYmU2jOz6FqqoAjDr_rIGfJ06o"
+      }
+    },
+    {
+      "transaction_id": "MzIwMjE1MDc5MWFkaXF6a2N4",
+      "barcode": "X73IDBAJ",
+      "type": "CS01",
+      "date": "2018-04-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2018-04-09"
+      },
+      "pages": 3,
+      "action_date": "2018-04-09",
+      "links": {
+        "self": "/company/11289110/filing-history/MzIwMjE1MDc5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3RWYz5SeOJ58CPl769QzEYLEbZT9fVdLyMlpsm0ZtuM"
+      }
+    },
+    {
+      "transaction_id": "MzIwMjE1MDcyMmFkaXF6a2N4",
+      "barcode": "X73ID7RT",
+      "type": "PSC09",
+      "date": "2018-04-09",
+      "category": "persons-with-significant-control",
+      "subcategory": "statements",
+      "description": "withdrawal-of-a-person-with-significant-control-statement",
+      "description_values": {
+        "withdrawal_date": "2018-04-09"
+      },
+      "pages": 2,
+      "action_date": "2018-04-09",
+      "links": {
+        "self": "/company/11289110/filing-history/MzIwMjE1MDcyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vq76gIS7qWUoX426e_1GBlWVeshfITvr3sTuo5P8esU"
+      }
+    },
+    {
+      "transaction_id": "MzIwMTU4MDY3NmFkaXF6a2N4",
+      "barcode": "X730BNJU",
+      "type": "NEWINC",
+      "date": "2018-04-04",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2018-04-04",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2018-04-04",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2018-04-04",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2018-04-04"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 8,
+      "links": {
+        "self": "/company/11289110/filing-history/MzIwMTU4MDY3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VLh7DNNEQtHCMfw_6u8hG160dNBJsnJQcmtFUwlymWE"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 30
+}

@@ -1,0 +1,67 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2020-01-31",
+      "period_end_on": "2020-01-31",
+      "period_start_on": "2019-01-17",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2021-10-31",
+      "overdue": true,
+      "period_end_on": "2021-01-31",
+      "period_start_on": "2020-02-01"
+    },
+    "next_due": "2021-10-31",
+    "next_made_up_to": "2021-01-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "8BRIDGES CONSULTING LTD.",
+  "company_number": "11772504",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2021-01-24",
+    "next_due": "2022-02-07",
+    "next_made_up_to": "2022-01-24",
+    "overdue": true
+  },
+  "date_of_cessation": "2021-11-30",
+  "date_of_creation": "2019-01-17",
+  "etag": "81b098c651ef9d4562c17f6655aae15d585f07c8",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11772504/persons-with-significant-control",
+    "self": "/company/11772504",
+    "filing_history": "/company/11772504/filing-history",
+    "officers": "/company/11772504/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2020-07-03",
+      "effective_from": "2019-01-17",
+      "name": "MADAN LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "15 Cavalli Apartments",
+    "address_line_2": "Modena Mews",
+    "country": "United Kingdom",
+    "locality": "Watford",
+    "postal_code": "WD18 7BJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229",
+    "78300"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

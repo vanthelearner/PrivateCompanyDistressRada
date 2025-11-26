@@ -1,0 +1,439 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQyMTQwNzE3OGFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2024-05-14",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11923073/filing-history/MzQyMTQwNzE3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MfwnZP8nfhRXFoaQsnIwjU1sU6inAbliKbutCKrE5lE"
+      }
+    },
+    {
+      "transaction_id": "MzQxNTYwMTA2OWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2024-04-02",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11923073/filing-history/MzQxNTYwMTA2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4rM8Ijm0BDYN-F2iZ4xGfFLUXJEBlcFOSVlc9dDW19I"
+      }
+    },
+    {
+      "transaction_id": "MzM3MjA5NDEyNWFkaXF6a2N4",
+      "barcode": "XBYWIEJD",
+      "type": "CS01",
+      "date": "2023-03-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2023-03-09"
+      },
+      "pages": 3,
+      "action_date": "2023-03-09",
+      "links": {
+        "self": "/company/11923073/filing-history/MzM3MjA5NDEyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZjRqXy3HLaPN2-sJAtc2e99NLkPCZVcpxzDolWxYXbU"
+      }
+    },
+    {
+      "transaction_id": "MzM3MTIxOTI4MGFkaXF6a2N4",
+      "barcode": "XBYDLSZ7",
+      "type": "AD01",
+      "date": "2023-03-01",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-03-01",
+        "old_address": "23a London Road Office 10 Ideal Offices Peterborough PE2 8AN England",
+        "new_address": "Office 15 Ideal Offices 23a London Road Peterborough PE2 8AN"
+      },
+      "pages": 1,
+      "action_date": "2023-03-01",
+      "links": {
+        "self": "/company/11923073/filing-history/MzM3MTIxOTI4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/x_VnuIqU2AI1uMz_N1L0v39P6xCcL0U9lB-wJ-tPREw"
+      }
+    },
+    {
+      "transaction_id": "MzM3MDMwNzI4NWFkaXF6a2N4",
+      "barcode": "XBXX6SBT",
+      "type": "CH01",
+      "date": "2023-02-22",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2023-02-14",
+        "officer_name": "Mr Daniel Dumitru"
+      },
+      "pages": 2,
+      "action_date": "2023-02-14",
+      "links": {
+        "self": "/company/11923073/filing-history/MzM3MDMwNzI4NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Qe17ipuu2m0lqGzYqNrYpI01916l6cC7GmeJ2wrhm9c"
+      }
+    },
+    {
+      "transaction_id": "MzM3MDMwNzIzM2FkaXF6a2N4",
+      "barcode": "XBXX6S1K",
+      "type": "PSC04",
+      "date": "2023-02-22",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2023-02-01",
+        "psc_name": "Mr Daniel Dumitru"
+      },
+      "pages": 2,
+      "action_date": "2023-02-01",
+      "links": {
+        "self": "/company/11923073/filing-history/MzM3MDMwNzIzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HZULkoQaejpzTdnrBJKJTb3KONJydjWwqxuEEycSLhs"
+      }
+    },
+    {
+      "transaction_id": "MzM3MDMwNzEzMWFkaXF6a2N4",
+      "barcode": "XBXX6RGH",
+      "type": "AD01",
+      "date": "2023-02-22",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-02-22",
+        "old_address": "7 Violet Way Yaxley Peterborough PE7 3WE England",
+        "new_address": "23a London Road Office 10 Ideal Offices Peterborough PE2 8AN"
+      },
+      "pages": 1,
+      "action_date": "2023-02-22",
+      "links": {
+        "self": "/company/11923073/filing-history/MzM3MDMwNzEzMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LQ_QuBnGcSlQhLCWjItbvSFBh4E23H2fNWpGviuvx6A"
+      }
+    },
+    {
+      "transaction_id": "MzM2OTM0NDQwNGFkaXF6a2N4",
+      "barcode": "XBXBRUHL",
+      "type": "AA",
+      "date": "2023-02-14",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-04-30"
+      },
+      "pages": 3,
+      "action_date": "2022-04-30",
+      "links": {
+        "self": "/company/11923073/filing-history/MzM2OTM0NDQwNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FT3gFk8Ln1a31u0iUzJU_ZJFwc0Bh6NSXDz2evdjuT8"
+      }
+    },
+    {
+      "transaction_id": "MzMzNzk3NTUxNWFkaXF6a2N4",
+      "barcode": "XB30DJFN",
+      "type": "AA",
+      "date": "2022-04-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-04-30"
+      },
+      "pages": 2,
+      "action_date": "2021-04-30",
+      "links": {
+        "self": "/company/11923073/filing-history/MzMzNzk3NTUxNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mlXMtsmE0g2CEuepSXbpNOSow6TeDkcbjXi1-JjaLdA"
+      }
+    },
+    {
+      "transaction_id": "MzMzNTY5NTM5MGFkaXF6a2N4",
+      "barcode": "XB1ITDBT",
+      "type": "CH01",
+      "date": "2022-04-11",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company",
+      "pages": 2,
+      "links": {
+        "self": "/company/11923073/filing-history/MzMzNTY5NTM5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nmcp7-GIe8Nrs-k5l0UMMBkfHiMAmorZBadcC8_tYMA"
+      }
+    },
+    {
+      "transaction_id": "MzMzNTY5NTM3OWFkaXF6a2N4",
+      "barcode": "XB1ITD89",
+      "type": "CH01",
+      "date": "2022-04-11",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-05-15",
+        "officer_name": "Mr Daniel Dumitru"
+      },
+      "pages": 2,
+      "action_date": "2020-05-15",
+      "links": {
+        "self": "/company/11923073/filing-history/MzMzNTY5NTM3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mxxkLn3PZkRCmoWCIz5Q1_4AD35LMRGAc_QnY_nbNp0"
+      }
+    },
+    {
+      "transaction_id": "MzMzNTY5NTg5OGFkaXF6a2N4",
+      "barcode": "XB1ITEF7",
+      "type": "CS01",
+      "date": "2022-04-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2022-04-02"
+      },
+      "pages": 5,
+      "action_date": "2022-04-02",
+      "links": {
+        "self": "/company/11923073/filing-history/MzMzNTY5NTg5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wvbSXnybNk8z4-kSAo65IYtXUWzPiKY2DJF3-WBcK_I"
+      }
+    },
+    {
+      "transaction_id": "MzMwNjI1NDg4MmFkaXF6a2N4",
+      "barcode": "XA7QMH2Y",
+      "type": "AA",
+      "date": "2021-06-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-04-30"
+      },
+      "pages": 2,
+      "action_date": "2020-04-30",
+      "links": {
+        "self": "/company/11923073/filing-history/MzMwNjI1NDg4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Zz2XRUBBr4eSx1pCW4rqCgncocpR-NQXb2B1UFn1O70"
+      }
+    },
+    {
+      "transaction_id": "MzMwNDQxMjQ3N2FkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2021-06-16",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11923073/filing-history/MzMwNDQxMjQ3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/38vIs5Se7GZNmEJhrEZH0cQAiRUmJRNj_6Gxwpqe39A"
+      }
+    },
+    {
+      "transaction_id": "MzMwNDQxMjQzOGFkaXF6a2N4",
+      "barcode": "XA6ORL42",
+      "type": "CS01",
+      "date": "2021-06-15",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-04-02"
+      },
+      "pages": 3,
+      "action_date": "2021-04-02",
+      "links": {
+        "self": "/company/11923073/filing-history/MzMwNDQxMjQzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tq0KCfXxl8zNBFrl-cJeh8l55Cd1ghFE5irq3hdmjn0"
+      }
+    },
+    {
+      "transaction_id": "MzMwMzA4MTYxMWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2021-06-15",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11923073/filing-history/MzMwMzA4MTYxMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FsgNHRR9IIjXWXGRqvGe3shZMgkcED_wczfODuFLulw"
+      }
+    },
+    {
+      "transaction_id": "MzI2NTczNDY5NGFkaXF6a2N4",
+      "barcode": "X95USSEI",
+      "type": "PSC04",
+      "date": "2020-05-26",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-05-15",
+        "psc_name": "Mr Daniel Dumitru"
+      },
+      "pages": 2,
+      "action_date": "2020-05-15",
+      "links": {
+        "self": "/company/11923073/filing-history/MzI2NTczNDY5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/3dYwbeoTLbtHv_AEFiuz_1RJIiweeUxXKfjMX5ukV8k"
+      }
+    },
+    {
+      "transaction_id": "MzI2NTczMzc5NWFkaXF6a2N4",
+      "barcode": "X95USO6P",
+      "type": "AD01",
+      "date": "2020-05-26",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2020-05-26",
+        "old_address": "7 7 Violet Way Yaxley Peterborough PE7 3WE England",
+        "new_address": "7 Violet Way Yaxley Peterborough PE7 3WE"
+      },
+      "pages": 1,
+      "action_date": "2020-05-26",
+      "links": {
+        "self": "/company/11923073/filing-history/MzI2NTczMzc5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tXszj0KhvOGUNgk2O4iqsFB7umOjwhJF794WHdsYlAo"
+      }
+    },
+    {
+      "transaction_id": "MzI2NTczMjUxOWFkaXF6a2N4",
+      "barcode": "X95USINU",
+      "type": "AD01",
+      "date": "2020-05-26",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2020-05-26",
+        "old_address": "1050B Bourges Boulevard Peterborough PE1 2AW England",
+        "new_address": "7 7 Violet Way Yaxley Peterborough PE7 3WE"
+      },
+      "pages": 1,
+      "action_date": "2020-05-26",
+      "links": {
+        "self": "/company/11923073/filing-history/MzI2NTczMjUxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WcZ-D6D8Q8Vhzfr91j2CbXlnOQMdvaNQN_bUJU_FdYE"
+      }
+    },
+    {
+      "transaction_id": "MzI2MTcxMDY4NGFkaXF6a2N4",
+      "barcode": "X9270S3M",
+      "type": "CS01",
+      "date": "2020-04-03",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-04-02"
+      },
+      "pages": 3,
+      "action_date": "2020-04-02",
+      "links": {
+        "self": "/company/11923073/filing-history/MzI2MTcxMDY4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SYB38aIkUk65o7zqFk7Bj9JLY-30tBS-7JdNwzX-lqc"
+      }
+    },
+    {
+      "transaction_id": "MzI1ODgwNDA3N2FkaXF6a2N4",
+      "barcode": "X901XKG8",
+      "type": "PSC04",
+      "date": "2020-03-03",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2020-03-03",
+        "psc_name": "Mr Daniel Dumitru"
+      },
+      "pages": 2,
+      "action_date": "2020-03-03",
+      "links": {
+        "self": "/company/11923073/filing-history/MzI1ODgwNDA3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2YIUo3FEDomy1tk_8VvsLpWhDjv5gVjQGKDpu86vtmc"
+      }
+    },
+    {
+      "transaction_id": "MzI1ODgwMzIwNmFkaXF6a2N4",
+      "barcode": "X901XH8G",
+      "type": "CH01",
+      "date": "2020-03-03",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-03-03",
+        "officer_name": "Mr Daniel Dumitru"
+      },
+      "pages": 2,
+      "action_date": "2020-03-03",
+      "links": {
+        "self": "/company/11923073/filing-history/MzI1ODgwMzIwNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xBvzZzBmpQlXz1iDzV027nzf_qaif7OhlWtF7DlAtOw"
+      }
+    },
+    {
+      "transaction_id": "MzI1ODgwMjEzM2FkaXF6a2N4",
+      "barcode": "X901XDEG",
+      "type": "AD01",
+      "date": "2020-03-03",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2020-03-03",
+        "old_address": "223 Redmile Walk Peterborough PE1 4UR England",
+        "new_address": "1050B Bourges Boulevard Peterborough PE1 2AW"
+      },
+      "pages": 1,
+      "action_date": "2020-03-03",
+      "links": {
+        "self": "/company/11923073/filing-history/MzI1ODgwMjEzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/g3BZL8WmvJSNRMCmMYSNZT0j-fykMc-Wgz9l7fosL_A"
+      }
+    },
+    {
+      "transaction_id": "MzIzMTAzOTY1MGFkaXF6a2N4",
+      "barcode": "X82ITRU7",
+      "type": "NEWINC",
+      "date": "2019-04-03",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-04-03",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-04-03",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-04-03",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "10"
+              }
+            ]
+          },
+          "action_date": "2019-04-03"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/11923073/filing-history/MzIzMTAzOTY1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GbYaV2-Bacr1Qgo4ZTt1n7KaZr5i_6Gfk4DN6Ewmmcs"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 24
+}

@@ -1,0 +1,1440 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQ0ODg5MDI1NWFkaXF6a2N4",
+      "barcode": "XDINDW57",
+      "type": "RP09",
+      "date": "2024-12-24",
+      "category": "address",
+      "description": "default-companies-house-service-address-applied-officer",
+      "description_values": {
+        "change_date": "2024-12-24",
+        "officer_name": "Ian Wilson",
+        "default_address": "Companies House Default Address, PO Box 24238, Edinburgh, EH7 9HR",
+        "company_number": "SC119502"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzQ0ODg5MDI1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4pSv7YNq2WIol0LyIo4LrYr-0_d0mMWuaXFMs5LYYg4"
+      }
+    },
+    {
+      "transaction_id": "MzQxNTgxNTYzMGFkaXF6a2N4",
+      "barcode": "XCZFMHZ4",
+      "type": "AA",
+      "date": "2024-03-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-06-30"
+      },
+      "pages": 3,
+      "action_date": "2023-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzQxNTgxNTYzMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/AbFz2SQuN-14fnrf-x6g1fsJ7vZYnDeH-5pSlBpVMlE"
+      }
+    },
+    {
+      "transaction_id": "MzM5MzQ5NjcxMmFkaXF6a2N4",
+      "barcode": "XCCBQC9D",
+      "type": "CS01",
+      "date": "2023-09-18",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2023-08-15"
+      },
+      "pages": 4,
+      "action_date": "2023-08-15",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzM5MzQ5NjcxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hW36ObLwWWO46yNrRtxD0bMyy_V3sSORk37fdnJ2sLI"
+      }
+    },
+    {
+      "transaction_id": "MzM5MzQ5NDg1MWFkaXF6a2N4",
+      "barcode": "XCCBQ36A",
+      "type": "PSC07",
+      "date": "2023-09-18",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Dorothy Black Duguid",
+        "cessation_date": "2023-06-25"
+      },
+      "pages": 1,
+      "action_date": "2023-06-25",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzM5MzQ5NDg1MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wVms7Dv_wWmZhn2bmCAzTwhqAihZNIxBc0Y43YVRj68"
+      }
+    },
+    {
+      "transaction_id": "MzM5MzQ5NDc1OWFkaXF6a2N4",
+      "barcode": "XCCBQ37M",
+      "type": "PSC01",
+      "date": "2023-09-18",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Alistair Robert Duguid",
+        "notification_date": "2023-06-24"
+      },
+      "pages": 2,
+      "action_date": "2023-06-24",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzM5MzQ5NDc1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YckmSSbJMtP33l1HSLwGkj3ekOdlnIQwLE0-PJv8uU4"
+      }
+    },
+    {
+      "transaction_id": "MzM5MzQ5MDkxOWFkaXF6a2N4",
+      "barcode": "XCCBPLZ9",
+      "type": "TM01",
+      "date": "2023-09-18",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-director-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Dorothy Black Duguid",
+        "termination_date": "2023-06-25"
+      },
+      "pages": 1,
+      "action_date": "2023-06-25",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzM5MzQ5MDkxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YgElf8m7it7Ijcs3sSBB2GkVmlLKScZgOgn0honK6xs"
+      }
+    },
+    {
+      "transaction_id": "MzM5MzQ5MDU0OWFkaXF6a2N4",
+      "barcode": "XCCBPK7U",
+      "type": "AP01",
+      "date": "2023-09-18",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Alistair Robert Duguid",
+        "appointment_date": "2023-06-24"
+      },
+      "pages": 2,
+      "action_date": "2023-06-24",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzM5MzQ5MDU0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/o7Suq2j1NF7Ia7FXNKSba1LymMCnWq71ET82XG6BZLo"
+      }
+    },
+    {
+      "transaction_id": "MzM3NDMzMDU1M2FkaXF6a2N4",
+      "barcode": "XC090DCW",
+      "type": "AA",
+      "date": "2023-03-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-06-30"
+      },
+      "pages": 3,
+      "action_date": "2022-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzM3NDMzMDU1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/AiNOikM9Zi516914rN8Q5zF6zklcYIG2ruy71sixMtw"
+      }
+    },
+    {
+      "transaction_id": "MzM1MTg4NjUxMWFkaXF6a2N4",
+      "barcode": "XBCJ1OHT",
+      "type": "CS01",
+      "date": "2022-09-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-08-15"
+      },
+      "pages": 3,
+      "action_date": "2022-08-15",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzM1MTg4NjUxMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/va2oM3GJdgsO_sl4JMjzzdgeDylQRl8cpDsrMsYxgLE"
+      }
+    },
+    {
+      "transaction_id": "MzMzNDYzNDY1MmFkaXF6a2N4",
+      "barcode": "XB0WTASQ",
+      "type": "AA",
+      "date": "2022-03-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-06-30"
+      },
+      "pages": 3,
+      "action_date": "2021-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzMzNDYzNDY1MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cJE5WNL3N2yfp5uyZFHPmNd64dHdYb6yDIWM2huI3iI"
+      }
+    },
+    {
+      "transaction_id": "MzMxOTkyODI5NGFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2021-11-12",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzMxOTkyODI5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kowmQwyjiY5HwYXR5g6mX3RpZSdD-4bqFoj1eZnDtOo"
+      }
+    },
+    {
+      "transaction_id": "MzMxOTkyODI1NGFkaXF6a2N4",
+      "barcode": "XAH12AR6",
+      "type": "CS01",
+      "date": "2021-11-11",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-08-15"
+      },
+      "pages": 3,
+      "action_date": "2021-08-15",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzMxOTkyODI1NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/n3HwdAPFbETp64K-biWkfFYtxQky-w81kt7ayyTbWGo"
+      }
+    },
+    {
+      "transaction_id": "MzMxODEyMTE3N2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2021-11-02",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzMxODEyMTE3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DspHVITbTCSCLa7eVC4PC_B9jZjuHSMzdJ1jwl56wZo"
+      }
+    },
+    {
+      "transaction_id": "MzMwNTE0MTU1MWFkaXF6a2N4",
+      "barcode": "XA77EMM9",
+      "type": "AA",
+      "date": "2021-06-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2020-06-30"
+      },
+      "pages": 3,
+      "action_date": "2020-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzMwNTE0MTU1MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/E-lUoLg3U1X9__JXkXT-8pFy7bCZYApP7DO_lZGPkAQ"
+      }
+    },
+    {
+      "transaction_id": "MzI4MjYwMjUwM2FkaXF6a2N4",
+      "barcode": "X9H561M3",
+      "type": "CS01",
+      "date": "2020-11-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-08-15"
+      },
+      "pages": 3,
+      "action_date": "2020-08-15",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzI4MjYwMjUwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZtzDGn8V6NAb-Xcb17Yc-Do5gDEYxAok9rc3-SHMnCw"
+      }
+    },
+    {
+      "transaction_id": "MzI2MTM3OTE1NWFkaXF6a2N4",
+      "barcode": "X91Z0U4A",
+      "type": "AA",
+      "date": "2020-03-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2019-06-30"
+      },
+      "pages": 2,
+      "action_date": "2019-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzI2MTM3OTE1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/O_OqFy2jJiVrmI_xlDLrcK2C6oNz8yWNB_6OaigomNM"
+      }
+    },
+    {
+      "transaction_id": "MzI0MzE1NTI5NGFkaXF6a2N4",
+      "barcode": "X8D5YRBL",
+      "type": "CS01",
+      "date": "2019-09-02",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-08-15"
+      },
+      "pages": 3,
+      "action_date": "2019-08-15",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzI0MzE1NTI5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xp1MsgMs3U8s2D4Fjg2gsBB_sn5s8ZVHcGPiJ9-DBj0"
+      }
+    },
+    {
+      "transaction_id": "MzIzMDg1MTkyM2FkaXF6a2N4",
+      "barcode": "X82AWNGZ",
+      "type": "AA",
+      "date": "2019-03-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2018-06-30"
+      },
+      "pages": 2,
+      "action_date": "2018-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzIzMDg1MTkyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/O1HF0-1Rs-vHF1Lo93oQmn1uRXrPAuxnrlDo7NEuK-c"
+      }
+    },
+    {
+      "transaction_id": "MzIxNzIwOTE0MWFkaXF6a2N4",
+      "barcode": "X7GRACYJ",
+      "type": "CS01",
+      "date": "2018-10-17",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-08-15"
+      },
+      "pages": 3,
+      "action_date": "2018-08-15",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzIxNzIwOTE0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/poKE-mfRLNmiv-p5faQcAhCPdgQwV8ggFETw4RLiieM"
+      }
+    },
+    {
+      "transaction_id": "MzIwMDY5OTM1OWFkaXF6a2N4",
+      "barcode": "X72868L7",
+      "type": "AA",
+      "date": "2018-03-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2017-06-30"
+      },
+      "pages": 2,
+      "action_date": "2017-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzIwMDY5OTM1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4HBTrs-0MlOlBFj-IMkeeKidc6WXkH-UTv7ENlW47H8"
+      }
+    },
+    {
+      "transaction_id": "MzE4MzI2MDgyMGFkaXF6a2N4",
+      "barcode": "X6D3TXL6",
+      "type": "CS01",
+      "date": "2017-08-18",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2017-08-15"
+      },
+      "pages": 3,
+      "action_date": "2017-08-15",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzE4MzI2MDgyMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/TNfamafEpfPOM09DMyXGpxbTUus4F9wrJKF7jVcmYzc"
+      }
+    },
+    {
+      "transaction_id": "MzE3MjMwMzYyM2FkaXF6a2N4",
+      "barcode": "X637FJ4O",
+      "type": "AA",
+      "date": "2017-03-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2016-06-30"
+      },
+      "pages": 3,
+      "action_date": "2016-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzE3MjMwMzYyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Hx7u2Rq_re6be2pS2g-Ahk3a1idqzFhSObiSxMGanuQ"
+      }
+    },
+    {
+      "transaction_id": "MzE1ODM1MDgwMGFkaXF6a2N4",
+      "barcode": "X5GDXAZ5",
+      "type": "CS01",
+      "date": "2016-09-27",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2016-08-15"
+      },
+      "pages": 6,
+      "action_date": "2016-08-15",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzE1ODM1MDgwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cf6vcJlTC_bbAnr-P4W98hmwWIs11RGsjtt_7mfIXWA"
+      }
+    },
+    {
+      "transaction_id": "MzE0NDYwMjE0MWFkaXF6a2N4",
+      "barcode": "S53C0875",
+      "type": "AA",
+      "date": "2016-03-24",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2015-06-30"
+      },
+      "pages": 5,
+      "action_date": "2015-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzE0NDYwMjE0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9dH9mbn_ZfQPeccmC80MsEpO_EbMxPd-Ol7MNPLAr60"
+      }
+    },
+    {
+      "transaction_id": "MzEyOTk4MzUzNmFkaXF6a2N4",
+      "barcode": "X4EPXIS1",
+      "type": "AR01",
+      "date": "2015-08-28",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-08-28",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-08-28",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2015-08-28"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2015-08-15"
+      },
+      "pages": 4,
+      "action_date": "2015-08-15",
+      "links": {
+        "self": "/company/SC119502/filing-history/MzEyOTk4MzUzNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8IdpOGwZywggcvZpHw1Bj90NJrxUMyodBV2veyKf-Gc"
+      }
+    },
+    {
+      "transaction_id": "MzEyMDA5NjgyN2FkaXF6a2N4",
+      "barcode": "S441U0JD",
+      "type": "AA",
+      "date": "2015-03-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2014-06-30"
+      },
+      "pages": 5,
+      "action_date": "2014-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzEyMDA5NjgyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xdTEXDEwLbofHcFIf8ySecuJS7BA9lLBv4QVPWcv-fA"
+      }
+    },
+    {
+      "transaction_id": "MzEwOTEzMTQzNWFkaXF6a2N4",
+      "barcode": "S3HOZTRF",
+      "type": "AR01",
+      "date": "2014-10-09",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2014-10-09",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2014-10-09",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2014-10-09"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date",
+      "description_values": {
+        "made_up_date": "2014-08-15"
+      },
+      "pages": 14,
+      "action_date": "2014-08-15",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzEwOTEzMTQzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/D9eUF3wQ6_W1ZG7ErSo7IZU1ljuc7cc2n1oBWdcObyA"
+      }
+    },
+    {
+      "transaction_id": "MzA5NTk3NzQ0OGFkaXF6a2N4",
+      "barcode": "S338O1OW",
+      "type": "AA",
+      "date": "2014-03-10",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2013-06-30"
+      },
+      "pages": 5,
+      "action_date": "2013-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzA5NTk3NzQ0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MsbYkps8QWzTXQY40tyjmBLO_pAQfGxtE8dr-Y5fO_w"
+      }
+    },
+    {
+      "transaction_id": "MzA4NTY4NzcxM2FkaXF6a2N4",
+      "barcode": "S2HD5P6G",
+      "type": "AR01",
+      "date": "2013-09-24",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2013-09-24",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2013-09-24",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "2"
+              }
+            ]
+          },
+          "action_date": "2013-09-24"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date",
+      "description_values": {
+        "made_up_date": "2013-08-15"
+      },
+      "pages": 14,
+      "action_date": "2013-08-15",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzA4NTY4NzcxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RwON-5Q_auKThUuKbwRbBnwKs8wobuZHqdE2lnWSGJw"
+      }
+    },
+    {
+      "transaction_id": "MzA3NTM2Nzk5MmFkaXF6a2N4",
+      "barcode": "S252DC68",
+      "type": "AA",
+      "date": "2013-03-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2012-06-30"
+      },
+      "pages": 5,
+      "action_date": "2012-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzA3NTM2Nzk5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/c-X8WGhS9zCq-A2ZHnp_u2-NSpcfxk750j8t-xfLbEo"
+      }
+    },
+    {
+      "transaction_id": "MzA2NDA2NDEzOGFkaXF6a2N4",
+      "barcode": "S1HB9B3N",
+      "type": "AR01",
+      "date": "2012-09-13",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2012-08-15"
+      },
+      "pages": 14,
+      "action_date": "2012-08-15",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzA2NDA2NDEzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6-ir5jUMBVxi2Y650iRAHSiEdRrZqozl5qxfQfL8ftM"
+      }
+    },
+    {
+      "transaction_id": "MzA1NDIyMzQxMWFkaXF6a2N4",
+      "barcode": "S14QCTM9",
+      "type": "AA",
+      "date": "2012-03-16",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2011-06-30"
+      },
+      "pages": 5,
+      "action_date": "2011-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzA1NDIyMzQxMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uWmawrSw9iKKPD2xQiEW6Y4Hm5xvfRp7ahtsgoXUQ0c"
+      }
+    },
+    {
+      "transaction_id": "MzA0MzYzODI1N2FkaXF6a2N4",
+      "barcode": "SRMWEXBN",
+      "type": "AR01",
+      "date": "2011-09-12",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date",
+      "description_values": {
+        "made_up_date": "2011-08-15"
+      },
+      "pages": 14,
+      "action_date": "2011-08-15",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzA0MzYzODI1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cV25gUuDDots-FMowcL52zEhlEX1U2rPVfrQu238W5o"
+      }
+    },
+    {
+      "transaction_id": "MzAyODQ2OTIyN2FkaXF6a2N4",
+      "barcode": "SYSW6PR0",
+      "type": "AA",
+      "date": "2010-12-08",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2010-06-30"
+      },
+      "pages": 5,
+      "action_date": "2010-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzAyODQ2OTIyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7c31erMldwlxroQWj48tM3x_f7Tp1kiwoDMDu8aJpQE"
+      }
+    },
+    {
+      "transaction_id": "MzAyNTU3NDQ0MWFkaXF6a2N4",
+      "barcode": "S0VBIOCG",
+      "type": "AR01",
+      "date": "2010-10-20",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date",
+      "description_values": {
+        "made_up_date": "2010-08-15"
+      },
+      "pages": 14,
+      "action_date": "2010-08-15",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzAyNTU3NDQ0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/zU-tHLOv9oXoqWWTzfy8EDeDbJSXaZ6piX2PiaXcTp4"
+      }
+    },
+    {
+      "transaction_id": "MzAxMDk0NjQwOWFkaXF6a2N4",
+      "barcode": "S8RPYI2Y",
+      "type": "AA",
+      "date": "2010-03-08",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2009-06-30"
+      },
+      "pages": 5,
+      "action_date": "2009-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzAxMDk0NjQwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/1R_TRj7B6K7wexBDTi3WylBFvpI8LyYTvxJ_QpmB0jY"
+      }
+    },
+    {
+      "transaction_id": "MzAwNzkyNzg2NWFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2010-01-27",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzAwNzkyNzg2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DAZmMKbZKu6Egu-zLvgPoPc5f8olggVISLHodkGz0M0"
+      }
+    },
+    {
+      "transaction_id": "MzAwNzkyNzU5OGFkaXF6a2N4",
+      "barcode": "SAAM7GYJ",
+      "type": "AR01",
+      "date": "2010-01-26",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2009-08-15"
+      },
+      "pages": 5,
+      "action_date": "2009-08-15",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzAwNzkyNzU5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iEvj-TgsSmIRIuzXzDIagp2WzmbGMK8tFXAJOL803RA"
+      }
+    },
+    {
+      "transaction_id": "MzAwNDQzOTAxM2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2009-12-18",
+      "category": "gazette",
+      "description": "gazette-notice-compulsary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzAwNDQzOTAxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rNJjMrOS1M_kmnlrWGaFxCxqo2Afe-Wb84IKd5jAWvQ"
+      }
+    },
+    {
+      "transaction_id": "MjAzMTk4OTQ4MGFkaXF6a2N4",
+      "barcode": "SKQP89GO",
+      "type": "AA",
+      "date": "2009-05-01",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2008-06-30"
+      },
+      "pages": 6,
+      "action_date": "2008-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MjAzMTk4OTQ4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/a5QGUCwcosI9atQm_6bF_xjshgAWCdH8pLaHiRvbd7Y"
+      }
+    },
+    {
+      "transaction_id": "MjAxOTU5NDk1N2FkaXF6a2N4",
+      "barcode": "SQNK35FC",
+      "type": "363a",
+      "date": "2008-12-08",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/08; no change of members"
+      },
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MjAxOTU5NDk1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/u3bAVIITjKzCAFL1hLhIlHsVP_O7YM2qB-Qdp-bIu6c"
+      }
+    },
+    {
+      "transaction_id": "MjAwNDU0MDQ4NGFkaXF6a2N4",
+      "barcode": "SYQR9ZBQ",
+      "type": "363s",
+      "date": "2008-05-01",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/07; no change of members"
+      },
+      "pages": 6,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MjAwNDU0MDQ4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wzeQ1UFbOq6wnh0AmhFlwxLEa923HFoLyXQZs0HPFlQ"
+      }
+    },
+    {
+      "transaction_id": "MjAwNDMyMjc5MGFkaXF6a2N4",
+      "barcode": "SZLVVZ78",
+      "type": "AA",
+      "date": "2008-04-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2007-06-30"
+      },
+      "pages": 5,
+      "action_date": "2007-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MjAwNDMyMjc5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vdKbPJhhrM-CpgMU3yHPwn_eMnIrJQ6lES2LOPTh-3E"
+      }
+    },
+    {
+      "transaction_id": "MTc5NjU2ODUwYWRpcXprY3g",
+      "type": "AA",
+      "date": "2007-05-01",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2006-06-30"
+      },
+      "pages": 5,
+      "action_date": "2006-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTc5NjU2ODUwYWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/s5I6KXs4Ahs2YKaag09BefpPIwbl76UnarBJDOY1zJU"
+      }
+    },
+    {
+      "transaction_id": "MTY5NTIzMjkxYWRpcXprY3g",
+      "type": "363s",
+      "date": "2006-10-10",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/06; full list of members"
+      },
+      "pages": 6,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTY5NTIzMjkxYWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CjE19WTVk1bSSVD9FhKaHqMB0EjU0N9VpuTtLvWNg_k"
+      }
+    },
+    {
+      "transaction_id": "MTYzMzUwMDI1YWRpcXprY3g",
+      "type": "AA",
+      "date": "2006-07-03",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2005-06-30"
+      },
+      "pages": 5,
+      "action_date": "2005-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTYzMzUwMDI1YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MugLUlAJ8S--TQE2W1w279FYKG9ZHvsXhhi9jSFliyU"
+      }
+    },
+    {
+      "transaction_id": "Nzk4NzY2NjRhZGlxemtjeA",
+      "type": "363s",
+      "date": "2005-11-18",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/05; full list of members"
+      },
+      "pages": 6,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/Nzk4NzY2NjRhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9mYdnaWtUuED6ZwLPIO9t6FnRLKaNjj6yxrfJ0mzUC4"
+      }
+    },
+    {
+      "transaction_id": "MTI3MzE4ODE4YWRpcXprY3g",
+      "type": "AA",
+      "date": "2005-04-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2004-06-30"
+      },
+      "pages": 7,
+      "action_date": "2004-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTI3MzE4ODE4YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VAPKtAxt5K9AaLBy3BHn1b_37y4jYckbeiZfuTUTufQ"
+      }
+    },
+    {
+      "transaction_id": "MTQyNzIyMTY0YWRpcXprY3g",
+      "type": "363s",
+      "date": "2004-10-05",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/04; full list of members"
+      },
+      "pages": 6,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTQyNzIyMTY0YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bXDUwHvD4lNfWtP8GT9M6VMHFehhgCXPfOL32izeN24"
+      }
+    },
+    {
+      "transaction_id": "MzM3NTQyNDlhZGlxemtjeA",
+      "type": "AA",
+      "date": "2004-04-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2003-06-30"
+      },
+      "pages": 7,
+      "action_date": "2003-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzM3NTQyNDlhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/S3rmAZH2njYfuhtRWMLECzPk6lf-hr88-pUYaUsE7fY"
+      }
+    },
+    {
+      "transaction_id": "MTE5MjEzNzE0YWRpcXprY3g",
+      "type": "363s",
+      "date": "2003-10-16",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/03; full list of members"
+      },
+      "pages": 6,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTE5MjEzNzE0YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4iwp9wRk5sJl3SGFGtQfaSYSXBkmtG8aXJici4pA6nc"
+      }
+    },
+    {
+      "transaction_id": "MTEyOTUyNDI4YWRpcXprY3g",
+      "type": "AA",
+      "date": "2003-07-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2002-06-30"
+      },
+      "pages": 7,
+      "action_date": "2002-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTEyOTUyNDI4YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QY_30Hq-KnUFR3sxLfk2X11WkZa3xpKYZ4yALTj6IBM"
+      }
+    },
+    {
+      "transaction_id": "MTQ4MTAzNzIwYWRpcXprY3g",
+      "type": "363s",
+      "date": "2002-09-26",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/02; full list of members"
+      },
+      "pages": 6,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTQ4MTAzNzIwYWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/diFnw5Bxvh35ZBxwBmevgcVYCxMgmywtyeeFCrmEXNs"
+      }
+    },
+    {
+      "transaction_id": "MzUyMjU1NjlhZGlxemtjeA",
+      "type": "AA",
+      "date": "2002-04-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2001-06-30"
+      },
+      "pages": 7,
+      "action_date": "2001-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MzUyMjU1NjlhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/AioJlaBceJkUOXLbkhm0Liyx6XvV-t54EoyQ6kGwA4A"
+      }
+    },
+    {
+      "transaction_id": "OTM2NTU5NTVhZGlxemtjeA",
+      "type": "363s",
+      "date": "2001-11-12",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/01; full list of members"
+      },
+      "pages": 6,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/OTM2NTU5NTVhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Vl-hJG_5UwIshDgjDIeNl2PENys9qgPvC5b3VGGDGy4"
+      }
+    },
+    {
+      "transaction_id": "OTMwMTc3NTZhZGlxemtjeA",
+      "type": "AA",
+      "date": "2001-04-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "2000-06-30"
+      },
+      "pages": 10,
+      "action_date": "2000-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/OTMwMTc3NTZhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BPYUZSdLveMcGFCQip69wLO1qYZrV9RWMDyB3EZ4668"
+      }
+    },
+    {
+      "transaction_id": "NzI1NzYyNTlhZGlxemtjeA",
+      "type": "363s",
+      "date": "2000-10-17",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/00; full list of members"
+      },
+      "pages": 6,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/NzI1NzYyNTlhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/bvr38-7s2tbxAXhPGBoOMnsTdyjOqBq2DB2PDlLzd5s"
+      }
+    },
+    {
+      "transaction_id": "OTYyMTEyODRhZGlxemtjeA",
+      "type": "AA",
+      "date": "2000-07-10",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "1999-06-30"
+      },
+      "pages": 10,
+      "action_date": "1999-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/OTYyMTEyODRhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/V-a5C1ZfbOU21UqgzovpYIzuVHmL_F4OiyxO9TuTiGE"
+      }
+    },
+    {
+      "transaction_id": "NDgzMTk3NzFhZGlxemtjeA",
+      "type": "363s",
+      "date": "1999-10-27",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/99; no change of members"
+      },
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/NDgzMTk3NzFhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5x0tKVoeZhxR9OORBWZX1_XWds-bHQHCF-mVdpG-5xI"
+      }
+    },
+    {
+      "transaction_id": "OTQ1MDIzNDVhZGlxemtjeA",
+      "type": "AA",
+      "date": "1999-05-05",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "1998-06-30"
+      },
+      "pages": 9,
+      "action_date": "1998-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/OTQ1MDIzNDVhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vbfmD6a2XImR9-ODrlkXZOsj02c2ecNFt0PHahi_6NY"
+      }
+    },
+    {
+      "transaction_id": "NzYzOTkxNDlhZGlxemtjeA",
+      "type": "363s",
+      "date": "1998-09-15",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/98; no change of members"
+      },
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/NzYzOTkxNDlhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/X9mo0qa9EFDT9GJHkKAykX48nLHMp4GzJXfJa_zMrjg"
+      }
+    },
+    {
+      "transaction_id": "MTEwMTEzODU3YWRpcXprY3g",
+      "type": "AA",
+      "date": "1998-05-01",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "1997-06-30"
+      },
+      "pages": 7,
+      "action_date": "1997-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTEwMTEzODU3YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2cYkLNNVPqwcRyhuMsMKHOM7L_R5-ff8zTriHkSUTyw"
+      }
+    },
+    {
+      "transaction_id": "MTE2NTk4OTQ2YWRpcXprY3g",
+      "type": "363s",
+      "date": "1997-09-17",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "annual-return",
+          "date": "1997-09-17",
+          "description": "legacy",
+          "type": "363(288)",
+          "description_values": {
+            "description": "Director's particulars changed"
+          }
+        }
+      ],
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/97; full list of members"
+      },
+      "pages": 6,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTE2NTk4OTQ2YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_17-Pz-_Aus9AVqltl0UuiFvCF_oglaJD0kmHwIQIJM"
+      }
+    },
+    {
+      "transaction_id": "ODkyNDE3OTFhZGlxemtjeA",
+      "type": "AA",
+      "date": "1997-04-04",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "1996-06-30"
+      },
+      "pages": 8,
+      "action_date": "1996-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/ODkyNDE3OTFhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/PP-3OsKmhVLCOnJbnKUeLfPBk2YTJhElq72XK1ZOcPo"
+      }
+    },
+    {
+      "transaction_id": "Mzc1NjUyMTJhZGlxemtjeA",
+      "type": "363s",
+      "date": "1996-09-17",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/96; no change of members"
+      },
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/Mzc1NjUyMTJhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/GAlz-21yovAiH8FG6XYkgSR-pMJyb10k86Gf-QL97dY"
+      }
+    },
+    {
+      "transaction_id": "MTE5NjQwNjM1YWRpcXprY3g",
+      "type": "AA",
+      "date": "1996-05-01",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "1995-06-30"
+      },
+      "pages": 11,
+      "action_date": "1995-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTE5NjQwNjM1YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9Dnh9AtOsT_6Bj_1LwxnS8kxUSjqZzhEaXqX58CJImA"
+      }
+    },
+    {
+      "transaction_id": "ODAwMTg1MjZhZGlxemtjeA",
+      "type": "363s",
+      "date": "1995-10-03",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/95; no change of members"
+      },
+      "pages": 4,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/ODAwMTg1MjZhZGlxemtjeA",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/c3g_byZYWnjyjJZvMyE7kJjkhf9M18jwGHzme-jVucU"
+      }
+    },
+    {
+      "transaction_id": "MTEwNzYxNTM2YWRpcXprY3g",
+      "type": "AA",
+      "date": "1995-06-09",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "1994-06-30"
+      },
+      "pages": 10,
+      "action_date": "1994-06-30",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC119502/filing-history/MTEwNzYxNTM2YWRpcXprY3g",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/j_i4NqSiD8JyIIUZAovzNfQDGyYh0zf5kZZFU-m5Mc4"
+      }
+    },
+    {
+      "transaction_id": "MTIyMzM4NTI4YWRpcXprY3g",
+      "type": "287",
+      "date": "1995-03-10",
+      "category": "address",
+      "description": "legacy",
+      "description_values": {
+        "description": "Registered office changed on 10/03/95 from: 2 holm street strathaven ML10 6NB"
+      },
+      "links": {
+        "self": "/company/SC119502/filing-history/MTIyMzM4NTI4YWRpcXprY3g"
+      }
+    },
+    {
+      "transaction_id": "MzAyMjA5NTZhZGlxemtjeA",
+      "type": "363s",
+      "date": "1995-02-06",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/94; full list of members"
+      },
+      "links": {
+        "self": "/company/SC119502/filing-history/MzAyMjA5NTZhZGlxemtjeA"
+      }
+    },
+    {
+      "transaction_id": "OTA4ODgzODZhZGlxemtjeA",
+      "type": "AA",
+      "date": "1994-04-27",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "1993-06-30"
+      },
+      "action_date": "1993-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/OTA4ODgzODZhZGlxemtjeA"
+      }
+    },
+    {
+      "transaction_id": "MjUwNjY2MjNhZGlxemtjeA",
+      "type": "363s",
+      "date": "1993-11-11",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/93; no change of members"
+      },
+      "links": {
+        "self": "/company/SC119502/filing-history/MjUwNjY2MjNhZGlxemtjeA"
+      }
+    },
+    {
+      "transaction_id": "NjU2MDc4MzBhZGlxemtjeA",
+      "type": "AA",
+      "date": "1993-04-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "1992-06-30"
+      },
+      "action_date": "1992-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/NjU2MDc4MzBhZGlxemtjeA"
+      }
+    },
+    {
+      "transaction_id": "MTMyMDc0MzYyYWRpcXprY3g",
+      "type": "363a",
+      "date": "1993-01-08",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/92; no change of members"
+      },
+      "links": {
+        "self": "/company/SC119502/filing-history/MTMyMDc0MzYyYWRpcXprY3g"
+      }
+    },
+    {
+      "transaction_id": "ODA0NDk4NDRhZGlxemtjeA",
+      "type": "AA",
+      "date": "1992-03-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "1991-06-30"
+      },
+      "action_date": "1991-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/ODA0NDk4NDRhZGlxemtjeA"
+      }
+    },
+    {
+      "transaction_id": "MTA5Njk0MDEzYWRpcXprY3g",
+      "type": "AA",
+      "date": "1992-03-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-full",
+      "description_values": {
+        "made_up_date": "1990-06-30"
+      },
+      "action_date": "1990-06-30",
+      "links": {
+        "self": "/company/SC119502/filing-history/MTA5Njk0MDEzYWRpcXprY3g"
+      }
+    },
+    {
+      "transaction_id": "MjY1NDE0ODhhZGlxemtjeA",
+      "type": "363a",
+      "date": "1991-09-09",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 15/08/91; full list of members"
+      },
+      "links": {
+        "self": "/company/SC119502/filing-history/MjY1NDE0ODhhZGlxemtjeA"
+      }
+    },
+    {
+      "transaction_id": "MTI4NzY4OTk2YWRpcXprY3g",
+      "type": "287",
+      "date": "1989-10-04",
+      "category": "address",
+      "description": "legacy",
+      "description_values": {
+        "description": "Registered office changed on 04/10/89 from: 3 hill street edinburgh EH2 3JP"
+      },
+      "links": {
+        "self": "/company/SC119502/filing-history/MTI4NzY4OTk2YWRpcXprY3g"
+      }
+    },
+    {
+      "transaction_id": "MTM4MTY1NjVhZGlxemtjeA",
+      "type": "288",
+      "date": "1989-10-04",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Director resigned;new director appointed"
+      },
+      "links": {
+        "self": "/company/SC119502/filing-history/MTM4MTY1NjVhZGlxemtjeA"
+      }
+    },
+    {
+      "transaction_id": "MTM3NDQyNzFhZGlxemtjeA",
+      "type": "288",
+      "date": "1989-10-04",
+      "category": "officers",
+      "description": "legacy",
+      "description_values": {
+        "description": "Secretary resigned;new secretary appointed"
+      },
+      "links": {
+        "self": "/company/SC119502/filing-history/MTM3NDQyNzFhZGlxemtjeA"
+      }
+    },
+    {
+      "transaction_id": "NTIxOTE2MjRhZGlxemtjeA",
+      "type": "MEM/ARTS",
+      "date": "1989-10-04",
+      "category": "incorporation",
+      "description": "memorandum-articles",
+      "links": {
+        "self": "/company/SC119502/filing-history/NTIxOTE2MjRhZGlxemtjeA"
+      }
+    },
+    {
+      "transaction_id": "MTM1MDc3Mjc5YWRpcXprY3g",
+      "type": "RESOLUTIONS",
+      "date": "1989-10-04",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "incorporation",
+          "description": "special-resolution-alteration-memorandum",
+          "type": "SRES01",
+          "subcategory": "resolution"
+        }
+      ],
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "links": {
+        "self": "/company/SC119502/filing-history/MTM1MDc3Mjc5YWRpcXprY3g"
+      }
+    },
+    {
+      "transaction_id": "MzIxMTc3OTJhZGlxemtjeA",
+      "type": "224",
+      "date": "1989-10-04",
+      "category": "accounts",
+      "description": "legacy",
+      "description_values": {
+        "description": "Accounting reference date notified as 30/06"
+      },
+      "links": {
+        "self": "/company/SC119502/filing-history/MzIxMTc3OTJhZGlxemtjeA"
+      }
+    },
+    {
+      "transaction_id": "Njc1MjQ1NDdhZGlxemtjeA",
+      "type": "NEWINC",
+      "date": "1989-08-15",
+      "category": "incorporation",
+      "description": "incorporation-company",
+      "links": {
+        "self": "/company/SC119502/filing-history/Njc1MjQ1NDdhZGlxemtjeA"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 84
+}

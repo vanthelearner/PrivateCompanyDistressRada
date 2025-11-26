@@ -1,0 +1,187 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzI3MzE3ODUxOWFkaXF6a2N4",
+      "barcode": "A92LASK3",
+      "type": "CH01",
+      "date": "2020-07-15",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2020-04-06",
+        "officer_name": "Miss Indunil Nishadi Ranasinghe"
+      },
+      "pages": 3,
+      "action_date": "2020-04-06",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10207222/filing-history/MzI3MzE3ODUxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/INnj_zFsqyhzrf4hWrYy3ZnCc2Jpk6d4WRqvBd-mJR4"
+      }
+    },
+    {
+      "transaction_id": "MzI3MzE3ODQ3NGFkaXF6a2N4",
+      "barcode": "A98FOZ36",
+      "type": "AC92",
+      "date": "2020-07-15",
+      "category": "restoration",
+      "description": "restoration-order-of-court",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10207222/filing-history/MzI3MzE3ODQ3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8_FhO7XgixVD-jUb7RhjXAK_CctQYwV2Zem6HFnSNXg"
+      }
+    },
+    {
+      "transaction_id": "MzIzNDM1NTE3OWFkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2019-05-21",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10207222/filing-history/MzIzNDM1NTE3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DT8Wlc1ZzVdt6Np5INZBayLluP4g5MWCa50IGrJ_7JE"
+      }
+    },
+    {
+      "transaction_id": "MzIyNzcwNDEyNWFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2019-03-05",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/10207222/filing-history/MzIyNzcwNDEyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pfqmAPsuSRFqyHg5rnSGp1z_ypojbRCRLiAiIXhzdL8"
+      }
+    },
+    {
+      "transaction_id": "MzIyNzY2MTIyMWFkaXF6a2N4",
+      "barcode": "X7ZURC9N",
+      "type": "DS01",
+      "date": "2019-02-22",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/10207222/filing-history/MzIyNzY2MTIyMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Lvu-Hjn83F5TILxY6yYyLT7sxw2t9Gw4AzzeAtoJqm0"
+      }
+    },
+    {
+      "transaction_id": "MzIwNjMyMTkxNWFkaXF6a2N4",
+      "barcode": "X775FVIJ",
+      "type": "CS01",
+      "date": "2018-05-31",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-05-30"
+      },
+      "pages": 3,
+      "action_date": "2018-05-30",
+      "links": {
+        "self": "/company/10207222/filing-history/MzIwNjMyMTkxNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/STFArLh0SsDT8tYi0UYnWzbuNdcdsJ578EpFwzQ3BUU"
+      }
+    },
+    {
+      "transaction_id": "MzE5MjQ4MDg1MmFkaXF6a2N4",
+      "barcode": "X6L1208R",
+      "type": "AA",
+      "date": "2017-12-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2017-06-30"
+      },
+      "pages": 2,
+      "action_date": "2017-06-30",
+      "links": {
+        "self": "/company/10207222/filing-history/MzE5MjQ4MDg1MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/51JIm_J0PWqUaWHadCrMDHUTZSVV4XcOi4xgfWZeWxY"
+      }
+    },
+    {
+      "transaction_id": "MzE3NzA0NTU4N2FkaXF6a2N4",
+      "barcode": "X67KUI96",
+      "type": "CS01",
+      "date": "2017-05-31",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2017-05-30"
+      },
+      "pages": 5,
+      "action_date": "2017-05-30",
+      "links": {
+        "self": "/company/10207222/filing-history/MzE3NzA0NTU4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/y3BpjrOcQmx06HH-wtJ6amDD92r0f7LiAbENkZVKZpY"
+      }
+    },
+    {
+      "transaction_id": "MzE3NTU0NTAyOGFkaXF6a2N4",
+      "barcode": "X66748RF",
+      "type": "AA01",
+      "date": "2017-05-11",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-current-extended",
+      "description_values": {
+        "made_up_date": "2017-05-31",
+        "new_date": "2017-06-30"
+      },
+      "pages": 1,
+      "action_date": "2017-06-30",
+      "links": {
+        "self": "/company/10207222/filing-history/MzE3NTU0NTAyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xMk55pojqg8DwmollvfyK6SLx10sc0cK23SyP27euOk"
+      }
+    },
+    {
+      "transaction_id": "MzE0OTY2NzcwMmFkaXF6a2N4",
+      "barcode": "X583GOLT",
+      "type": "NEWINC",
+      "date": "2016-05-31",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2016-05-31",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2016-05-31",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2016-05-31",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2016-05-31"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 7,
+      "links": {
+        "self": "/company/10207222/filing-history/MzE0OTY2NzcwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ftduCP7NT6cfjP5h2vA5I6xQSwZxNPb4wIdvixWV6Kw"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 10
+}

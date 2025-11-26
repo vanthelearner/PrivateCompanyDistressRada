@@ -1,0 +1,61 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2021-03-31",
+      "period_end_on": "2021-03-31",
+      "period_start_on": "2020-04-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2022-12-31",
+      "overdue": true,
+      "period_end_on": "2022-03-31",
+      "period_start_on": "2021-04-01"
+    },
+    "next_due": "2022-12-31",
+    "next_made_up_to": "2022-03-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "AVSIDYA SERVICES LTD",
+  "company_number": "06267967",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2022-04-27",
+    "next_due": "2023-05-11",
+    "next_made_up_to": "2023-04-27",
+    "overdue": true
+  },
+  "date_of_creation": "2007-06-04",
+  "etag": "e1dcf1a2eabdb79817835675fe5dad39ff86787a",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-06-04",
+  "links": {
+    "persons_with_significant_control": "/company/06267967/persons-with-significant-control",
+    "self": "/company/06267967",
+    "filing_history": "/company/06267967/filing-history",
+    "officers": "/company/06267967/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Moulsham Mill",
+    "address_line_2": "Parkway",
+    "country": "England",
+    "locality": "Chelmsford",
+    "postal_code": "CM2 7PX"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

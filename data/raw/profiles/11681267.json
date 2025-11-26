@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-11-30",
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-31",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-12-01"
+    },
+    "next_due": "2026-08-31",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "BFM LONDON LIMITED",
+  "company_number": "11681267",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-15",
+    "next_due": "2025-11-29",
+    "next_made_up_to": "2025-11-15",
+    "overdue": false
+  },
+  "date_of_creation": "2018-11-16",
+  "etag": "ea63960ed10575fa5e8ea0ee683bc8b198411b85",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11681267/persons-with-significant-control",
+    "self": "/company/11681267",
+    "filing_history": "/company/11681267/filing-history",
+    "officers": "/company/11681267/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "135 Withy Mead",
+    "country": "United Kingdom",
+    "locality": "London",
+    "postal_code": "E4 6JW"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

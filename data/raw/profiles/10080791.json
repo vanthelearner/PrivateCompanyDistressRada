@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2023-03-31",
+      "period_end_on": "2023-03-31",
+      "period_start_on": "2022-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2024-12-31",
+      "overdue": true,
+      "period_end_on": "2024-03-31",
+      "period_start_on": "2023-04-01"
+    },
+    "next_due": "2024-12-31",
+    "next_made_up_to": "2024-03-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "FP INSIEME LIMITED",
+  "company_number": "10080791",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-03-28",
+    "next_due": "2024-04-11",
+    "next_made_up_to": "2024-03-28",
+    "overdue": true
+  },
+  "date_of_cessation": "2022-06-28",
+  "date_of_creation": "2016-03-23",
+  "etag": "2deb71ba532b6c3d962d2447b98a76b3eaecb961",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10080791/persons-with-significant-control",
+    "self": "/company/10080791",
+    "filing_history": "/company/10080791/filing-history",
+    "officers": "/company/10080791/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "19 Tanfield Lane",
+    "address_line_2": "Rushmere",
+    "country": "United Kingdom",
+    "locality": "Northampton",
+    "postal_code": "NN1 5RN",
+    "region": "Northamptonshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

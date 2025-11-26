@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-03-31",
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-31",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-04-01"
+    },
+    "next_due": "2026-12-31",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "ICJR CONSULTANCY LIMITED",
+  "company_number": "06590794",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-05-13",
+    "next_due": "2026-05-27",
+    "next_made_up_to": "2026-05-13",
+    "overdue": false
+  },
+  "date_of_creation": "2008-05-13",
+  "etag": "f0ef74b07735476f511a225a3749db33119cb524",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-05-13",
+  "links": {
+    "persons_with_significant_control": "/company/06590794/persons-with-significant-control",
+    "self": "/company/06590794",
+    "filing_history": "/company/06590794/filing-history",
+    "officers": "/company/06590794/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "3 Selwood Way",
+    "locality": "New Milton",
+    "postal_code": "BH25 7SY",
+    "region": "Hampshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,63 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "09"
+    },
+    "last_accounts": {
+      "made_up_to": "2015-09-30",
+      "period_end_on": "2015-09-30",
+      "period_start_on": "2014-04-01",
+      "type": "total-exemption-small"
+    },
+    "next_accounts": {
+      "due_on": "2017-06-30",
+      "overdue": true,
+      "period_end_on": "2016-09-30",
+      "period_start_on": "2015-10-01"
+    },
+    "next_due": "2017-06-30",
+    "next_made_up_to": "2016-09-30",
+    "overdue": true
+  },
+  "annual_return": {
+    "last_made_up_to": "2015-03-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "MCMILLEN CONSULTANTS LIMITED",
+  "company_number": "NI050108",
+  "company_status": "active",
+  "status": "active",
+  "confirmation_statement": {
+    "next_due": "2017-04-13",
+    "next_made_up_to": "2017-03-30",
+    "overdue": true
+  },
+  "date_of_cessation": "2016-06-28",
+  "date_of_creation": "2004-03-30",
+  "etag": "6917c3f28a9a4d10b4be9aacdfa06e0661d4732a",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "northern-ireland",
+  "last_full_members_list_date": "2015-03-30",
+  "links": {
+    "self": "/company/NI050108",
+    "filing_history": "/company/NI050108/filing-history",
+    "officers": "/company/NI050108/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "At The Offices Of Falconer Stewart",
+    "address_line_2": "248-266 Upper Newtownards Road",
+    "locality": "Ballyhackamore",
+    "postal_code": "BT4 3EU",
+    "region": "Belfast"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false
+}

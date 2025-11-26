@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "10"
+    },
+    "last_accounts": {
+      "made_up_to": "2021-10-30",
+      "period_end_on": "2021-10-30",
+      "period_start_on": "2020-10-26",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2023-07-30",
+      "overdue": true,
+      "period_end_on": "2022-10-30",
+      "period_start_on": "2021-10-31"
+    },
+    "next_due": "2023-07-30",
+    "next_made_up_to": "2022-10-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "BEECHWAY FINANCIAL LTD",
+  "company_number": "12973660",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2021-10-25",
+    "next_due": "2022-11-08",
+    "next_made_up_to": "2022-10-25",
+    "overdue": true
+  },
+  "date_of_creation": "2020-10-26",
+  "etag": "c23b10011cdfbdcf4162919ce16e01b319956ab4",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/12973660/persons-with-significant-control",
+    "self": "/company/12973660",
+    "filing_history": "/company/12973660/filing-history",
+    "officers": "/company/12973660/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "38 Coniston Drive",
+    "address_line_2": "Middleton",
+    "country": "England",
+    "locality": "Manchester",
+    "postal_code": "M24 5RH"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70221"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

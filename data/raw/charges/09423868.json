@@ -1,0 +1,54 @@
+{
+  "etag": "a16064365a0843fe0365a0c8abbf6bcef829cbd6",
+  "total_count": 1,
+  "unfiltered_count": 1,
+  "satisfied_count": 1,
+  "part_satisfied_count": 0,
+  "items": [
+    {
+      "etag": "09a65ce583c8f4917977419a51f49965aa627471",
+      "charge_code": "094238680001",
+      "classification": {
+        "type": "charge-description",
+        "description": "A registered charge"
+      },
+      "charge_number": 1,
+      "status": "fully-satisfied",
+      "delivered_on": "2017-02-23",
+      "created_on": "2017-02-23",
+      "satisfied_on": "2018-06-04",
+      "particulars": {
+        "type": "brief-description",
+        "description": "'I. All freehold or leasehold property of the company with all present and future buildings, fixtures (trade fixtures) plant and machinery which are on such property. Ii. All patents, patent applications, inventions, trade marks, service marks (whether registered or no), trade names, design rights, registered designs, copyrights, know-how, trade secrets, rights ion computer software and any other intellectual or intangible property rights (including the benefit of any licences or consents.'.",
+        "contains_floating_charge": true,
+        "contains_fixed_charge": true,
+        "floating_charge_covers_all": true,
+        "contains_negative_pledge": true
+      },
+      "persons_entitled": [
+        {
+          "name": "Skipton Business Finance LTD"
+        }
+      ],
+      "transactions": [
+        {
+          "filing_type": "create-charge-with-deed",
+          "delivered_on": "2017-02-23",
+          "links": {
+            "filing": "/company/09423868/filing-history/MzE2OTYxOTAzOGFkaXF6a2N4"
+          }
+        },
+        {
+          "filing_type": "charge-satisfaction",
+          "delivered_on": "2018-06-04",
+          "links": {
+            "filing": "/company/09423868/filing-history/MzIwNjU1NzU1NmFkaXF6a2N4"
+          }
+        }
+      ],
+      "links": {
+        "self": "/company/09423868/charges/87B-w41JOAiP3e72eZwa-rXWbD4"
+      }
+    }
+  ]
+}

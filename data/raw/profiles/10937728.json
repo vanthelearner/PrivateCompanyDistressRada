@@ -1,0 +1,64 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "08"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-08-31",
+      "period_end_on": "2025-08-31",
+      "period_start_on": "2024-09-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2027-05-31",
+      "overdue": false,
+      "period_end_on": "2026-08-31",
+      "period_start_on": "2025-09-01"
+    },
+    "next_due": "2027-05-31",
+    "next_made_up_to": "2026-08-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "SHERINGHAM CROFT MANAGEMENT LTD",
+  "company_number": "10937728",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-07-03",
+    "next_due": "2026-07-17",
+    "next_made_up_to": "2026-07-03",
+    "overdue": false
+  },
+  "date_of_creation": "2017-08-30",
+  "etag": "36ab7220c59cc8785cd8eba9d181cc5b49194b28",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10937728/persons-with-significant-control",
+    "self": "/company/10937728",
+    "filing_history": "/company/10937728/filing-history",
+    "officers": "/company/10937728/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2017-12-15",
+      "effective_from": "2017-08-30",
+      "name": "SHERINGAHM CROFT MANAGEMENT LTD"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "46 Holway Road",
+    "country": "United Kingdom",
+    "locality": "Sheringham",
+    "postal_code": "NR26 8HR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70221"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

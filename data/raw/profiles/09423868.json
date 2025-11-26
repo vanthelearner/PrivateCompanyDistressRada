@@ -1,0 +1,67 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-12-31",
+      "period_end_on": "2024-12-31",
+      "period_start_on": "2024-06-01",
+      "type": "unaudited-abridged"
+    },
+    "next_accounts": {
+      "due_on": "2026-09-30",
+      "overdue": false,
+      "period_end_on": "2025-12-31",
+      "period_start_on": "2025-01-01"
+    },
+    "next_due": "2026-09-30",
+    "next_made_up_to": "2025-12-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "FLAME UK BUSINESS SERVICES GROUP LTD",
+  "company_number": "09423868",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-02-04",
+    "next_due": "2026-02-18",
+    "next_made_up_to": "2026-02-04",
+    "overdue": false
+  },
+  "date_of_creation": "2015-02-05",
+  "etag": "4c22688896f7fe193532b9e573ba61a319fe95a9",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2016-02-05",
+  "links": {
+    "persons_with_significant_control": "/company/09423868/persons-with-significant-control",
+    "self": "/company/09423868",
+    "charges": "/company/09423868/charges",
+    "filing_history": "/company/09423868/filing-history",
+    "officers": "/company/09423868/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2019-05-30",
+      "effective_from": "2015-02-05",
+      "name": "FLAME ENERGY LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "White House",
+    "address_line_2": "Wollaton Street",
+    "country": "United Kingdom",
+    "locality": "Nottingham",
+    "postal_code": "NG1 5GF"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

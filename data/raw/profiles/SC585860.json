@@ -1,0 +1,57 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-01-31",
+      "period_end_on": "2024-01-31",
+      "period_start_on": "2023-02-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2025-10-31",
+      "overdue": true,
+      "period_end_on": "2025-01-31",
+      "period_start_on": "2024-02-01"
+    },
+    "next_due": "2025-10-31",
+    "next_made_up_to": "2025-01-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "SGI SOLUTIONS LIMITED",
+  "company_number": "SC585860",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-01-14",
+    "next_due": "2026-01-28",
+    "next_made_up_to": "2026-01-14",
+    "overdue": false
+  },
+  "date_of_creation": "2018-01-16",
+  "etag": "fd4940474afa98f52ae382dd8c97a8d4c356f121",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "links": {
+    "persons_with_significant_control": "/company/SC585860/persons-with-significant-control",
+    "self": "/company/SC585860",
+    "filing_history": "/company/SC585860/filing-history",
+    "officers": "/company/SC585860/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "48 Hayfield Road",
+    "country": "Scotland",
+    "locality": "Kirkcaldy",
+    "postal_code": "KY2 5DT"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

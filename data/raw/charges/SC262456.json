@@ -1,0 +1,85 @@
+{
+  "etag": "7e294a3780366db26de668f2ee04cd929c3da7c4",
+  "total_count": 2,
+  "unfiltered_count": 2,
+  "satisfied_count": 0,
+  "part_satisfied_count": 0,
+  "items": [
+    {
+      "etag": "bf97a391b36305451114a05949caa11bab6cb4e9",
+      "classification": {
+        "type": "charge-description",
+        "description": "Standard security"
+      },
+      "charge_number": 2,
+      "status": "outstanding",
+      "delivered_on": "2006-11-13",
+      "created_on": "2006-10-26",
+      "particulars": {
+        "type": "short-particulars",
+        "description": "4 glenfield, livingston village, livingston WLN20600."
+      },
+      "secured_details": {
+        "type": "amount-secured",
+        "description": "All sums due or to become due"
+      },
+      "persons_entitled": [
+        {
+          "name": "The Royal Bank of Scotland PLC"
+        }
+      ],
+      "transactions": [
+        {
+          "filing_type": "create-charge-scotland-pre-2006-companies-act",
+          "delivered_on": "2006-11-13",
+          "links": {
+            "filing": "/company/SC262456/filing-history/MDE3MTM2OTg3OWFkaXF6a2N4"
+          }
+        }
+      ],
+      "links": {
+        "self": "/company/SC262456/charges/oMXDfvKePL-daW4MXqaf6Lm3fZc"
+      }
+    },
+    {
+      "etag": "bb9b63b9c6d75d75848babe435e9fb9baca551cb",
+      "classification": {
+        "type": "charge-description",
+        "description": "Bond & floating charge"
+      },
+      "charge_number": 1,
+      "status": "outstanding",
+      "delivered_on": "2006-10-11",
+      "created_on": "2006-10-07",
+      "particulars": {
+        "type": "short-particulars",
+        "description": "Undertaking and all property and assets present and future of the company including uncalled capital.",
+        "contains_floating_charge": true
+      },
+      "secured_details": {
+        "type": "amount-secured",
+        "description": "All sums due or to become due"
+      },
+      "scottish_alterations": {
+        "has_restricting_provisions": true
+      },
+      "persons_entitled": [
+        {
+          "name": "The Royal Bank of Scotland PLC"
+        }
+      ],
+      "transactions": [
+        {
+          "filing_type": "create-charge-scotland-pre-2006-companies-act",
+          "delivered_on": "2006-10-11",
+          "links": {
+            "filing": "/company/SC262456/filing-history/MDE2OTk2MTQwMGFkaXF6a2N4"
+          }
+        }
+      ],
+      "links": {
+        "self": "/company/SC262456/charges/e340L93KSL4DpmW5ZusendbNJYw"
+      }
+    }
+  ]
+}

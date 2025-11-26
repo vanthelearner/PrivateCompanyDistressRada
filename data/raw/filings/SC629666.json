@@ -1,0 +1,425 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzM4ODQ1NzQzM2FkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2023-08-05",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC629666/filing-history/MzM4ODQ1NzQzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/U5s_zXpNZL_DV5vQGMnlctyvGRABQLLMD9-T9L4Zl8g"
+      }
+    },
+    {
+      "transaction_id": "MzM4Njk4MDc0M2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2023-07-25",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC629666/filing-history/MzM4Njk4MDc0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7ceAzsjZBDOunUdE503xbwFIy6S9hupbxYEJr6bBEbk"
+      }
+    },
+    {
+      "transaction_id": "MzM0OTYwMzY1NmFkaXF6a2N4",
+      "barcode": "XBB1L0J7",
+      "type": "CS01",
+      "date": "2022-08-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-08-12"
+      },
+      "pages": 3,
+      "action_date": "2022-08-12",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzM0OTYwMzY1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/V7Enon7WTkzC7NC4LWnj-IDr_Bv6Z-SxmzahG6Rrrjc"
+      }
+    },
+    {
+      "transaction_id": "MzM0NzA3MjUyMmFkaXF6a2N4",
+      "barcode": "XB96U2D4",
+      "type": "AA",
+      "date": "2022-07-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2021-05-31"
+      },
+      "pages": 6,
+      "links": {
+        "self": "/company/SC629666/filing-history/MzM0NzA3MjUyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-GXCn7lLYzcIF-VjUFr32rt9ArP96CV54zgMZcyeicU"
+      }
+    },
+    {
+      "transaction_id": "MzM0NjkzMzUyOGFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2022-07-28",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC629666/filing-history/MzM0NjkzMzUyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RmwUKu7ibnx6p6EMkxeuNGDabw7J6XGWOa5n83EYqHg"
+      }
+    },
+    {
+      "transaction_id": "MzM0NjE0OTA5MWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-07-26",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/SC629666/filing-history/MzM0NjE0OTA5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qHdXzhMxHOWWg1RjpXc7V6GQQMfSg6jmBMQ6uWCNU7w"
+      }
+    },
+    {
+      "transaction_id": "MzMyNDg5Njc0MmFkaXF6a2N4",
+      "barcode": "XAK8J6BN",
+      "type": "CH01",
+      "date": "2021-12-29",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-12-24",
+        "officer_name": "Mr Simon William Stewart-Jones"
+      },
+      "pages": 2,
+      "action_date": "2021-12-24",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMyNDg5Njc0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MNctiA1zFjDcOMDHi28LjdjlRvzWvkqHQTwCqInjMbI"
+      }
+    },
+    {
+      "transaction_id": "MzMyNDg5Njc1M2FkaXF6a2N4",
+      "barcode": "XAK8J6H6",
+      "type": "AD01",
+      "date": "2021-12-27",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-12-27",
+        "old_address": "83 Princes Street Edinburgh EH2 2ER United Kingdom",
+        "new_address": "Jsa Services Ltd 83 Princes Street Edinburgh EH2 2ER"
+      },
+      "pages": 1,
+      "action_date": "2021-12-27",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMyNDg5Njc1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FL9iNwvJmgLlWqTfFL3FNd7PpevdSDd4krvoBvD3ShE"
+      }
+    },
+    {
+      "transaction_id": "MzMyNDg5Njc0M2FkaXF6a2N4",
+      "barcode": "XAK8J677",
+      "type": "PSC04",
+      "date": "2021-12-27",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2021-12-24",
+        "psc_name": "Mr Simon William Stewart-Jones"
+      },
+      "pages": 2,
+      "action_date": "2021-12-24",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMyNDg5Njc0M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pDjforSbInpl2EEdVH8CccPUWlGAVr6CcBil6XbQL54"
+      }
+    },
+    {
+      "transaction_id": "MzMyMzM1Mjg3NGFkaXF6a2N4",
+      "barcode": "XAJ44LXL",
+      "type": "CH01",
+      "date": "2021-12-13",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-12-10",
+        "officer_name": "Mr Simon William Stewart-Jones"
+      },
+      "pages": 2,
+      "action_date": "2021-12-10",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMyMzM1Mjg3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8eSWT3ycQ0E2eSzpkNI5f8mBjJZTS2L8Iif3i7_y4l4"
+      }
+    },
+    {
+      "transaction_id": "MzMyMzM1Mjk1MWFkaXF6a2N4",
+      "barcode": "XAJ44M54",
+      "type": "AD01",
+      "date": "2021-12-11",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-12-11",
+        "old_address": "83 Princess Street Edinburgh EH2 2ER United Kingdom",
+        "new_address": "83 Princes Street Edinburgh EH2 2ER"
+      },
+      "pages": 1,
+      "action_date": "2021-12-11",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMyMzM1Mjk1MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8dthUGNeNofuMsnsfGuwhzVoGKzL91xXUzTzqwowPfE"
+      }
+    },
+    {
+      "transaction_id": "MzMyMzM1Mjg3NWFkaXF6a2N4",
+      "barcode": "XAJ44M1D",
+      "type": "PSC04",
+      "date": "2021-12-11",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2021-12-10",
+        "psc_name": "Mr Simon William Stewart-Jones"
+      },
+      "pages": 2,
+      "action_date": "2021-12-10",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMyMzM1Mjg3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/na9gHMivIw1U68AQF1MJPcYCML6GwZYvyAJNV_rshvE"
+      }
+    },
+    {
+      "transaction_id": "MzMyMjg3NTc0NWFkaXF6a2N4",
+      "barcode": "XAIW10JU",
+      "type": "CH01",
+      "date": "2021-12-08",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-12-04",
+        "officer_name": "Mr Simon William Stewart-Jones"
+      },
+      "pages": 2,
+      "action_date": "2021-12-04",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMyMjg3NTc0NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kuaj-Du2Xy-2hLTWdE1Y0LBGC-WqzYnDiMtzZeVwPiY"
+      }
+    },
+    {
+      "transaction_id": "MzMyMjg3NzU1M2FkaXF6a2N4",
+      "barcode": "XAIW186G",
+      "type": "PSC04",
+      "date": "2021-12-08",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2021-12-04",
+        "psc_name": "Mr Simon William Stewart-Jones"
+      },
+      "pages": 2,
+      "action_date": "2021-12-04",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMyMjg3NzU1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UWgMDxKY-H3eZ1B-dEynmpFciUpWo74HaVUTYdPqV6M"
+      }
+    },
+    {
+      "transaction_id": "MzMyMjg3NjUwNGFkaXF6a2N4",
+      "barcode": "XAIW13Z5",
+      "type": "AD01",
+      "date": "2021-12-08",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-12-08",
+        "old_address": "Jsa Services Ltd Dryburgh House 3 Meikle Road Livingston EH54 7DE Scotland",
+        "new_address": "83 Princess Street Edinburgh EH2 2ER"
+      },
+      "pages": 1,
+      "action_date": "2021-12-08",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMyMjg3NjUwNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7-XBXn3qX1X2-R9dB8eeDl1IbBi_rLZP1moSbBHNNio"
+      }
+    },
+    {
+      "transaction_id": "MzMxOTM5NTk5MWFkaXF6a2N4",
+      "barcode": "XAGNOX00",
+      "type": "AA",
+      "date": "2021-11-06",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2020-05-31"
+      },
+      "pages": 7,
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMxOTM5NTk5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZF1j4zVIHgbxfW9uvAw6mmn-GPUi7WE7D91Lw95z6m4"
+      }
+    },
+    {
+      "transaction_id": "MzMxMDUxMTc4N2FkaXF6a2N4",
+      "barcode": "XAAPIGIA",
+      "type": "CS01",
+      "date": "2021-08-12",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2021-08-12"
+      },
+      "pages": 4,
+      "action_date": "2021-08-12",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMxMDUxMTc4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/A75aTL1jSYNipBpzsely0mlMqGT4wFzv2JwJQLfkoCM"
+      }
+    },
+    {
+      "transaction_id": "MzMxMDUwOTcxNGFkaXF6a2N4",
+      "barcode": "XAAPI9KQ",
+      "type": "CH01",
+      "date": "2021-08-12",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-08-10",
+        "officer_name": "Mr Simon William Stewart-Jones"
+      },
+      "pages": 2,
+      "action_date": "2021-08-10",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMxMDUwOTcxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/G5QNwzPmsOKWbfnQ4AJFVLJlz98jATBQto7CQNTMTyY"
+      }
+    },
+    {
+      "transaction_id": "MzMxMDUwODkyMmFkaXF6a2N4",
+      "barcode": "XAAPI6QO",
+      "type": "PSC04",
+      "date": "2021-08-12",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2021-08-10",
+        "psc_name": "Mr Simon William Stewart-Jones"
+      },
+      "pages": 2,
+      "action_date": "2021-08-10",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMxMDUwODkyMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/OD0ghSu6YujYjH2zVxZKpkISrjGbLB5JElGo1Fwyrh4"
+      }
+    },
+    {
+      "transaction_id": "MzMwNTM2OTMwNGFkaXF6a2N4",
+      "barcode": "XA7A8NT5",
+      "type": "AD01",
+      "date": "2021-06-23",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-06-23",
+        "old_address": "22B Buckingham Terrace Edinburgh EH4 3AD Scotland",
+        "new_address": "Jsa Services Ltd Dryburgh House 3 Meikle Road Livingston EH54 7DE"
+      },
+      "pages": 1,
+      "action_date": "2021-06-23",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMwNTM2OTMwNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DKbKWiKJMCB3KV0_jeozyMudsOT1vBLPX4OV4hWTXtU"
+      }
+    },
+    {
+      "transaction_id": "MzMwNDA2NzcyNWFkaXF6a2N4",
+      "barcode": "XA6BNG40",
+      "type": "CS01",
+      "date": "2021-06-10",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-05-06"
+      },
+      "pages": 3,
+      "action_date": "2021-05-06",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzMwNDA2NzcyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/f8-xBxAURgiitjG3mc0n65kaYf_3xWz20NS3c1lrDQk"
+      }
+    },
+    {
+      "transaction_id": "MzI2Nzk1MzA4NWFkaXF6a2N4",
+      "barcode": "X97RVYSJ",
+      "type": "CS01",
+      "date": "2020-06-22",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-05-06"
+      },
+      "pages": 3,
+      "action_date": "2020-05-06",
+      "links": {
+        "self": "/company/SC629666/filing-history/MzI2Nzk1MzA4NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kACYtOqMgfyaisL86DWHB9-_8U5Fc5GX5oRsdc8lSr4"
+      }
+    },
+    {
+      "transaction_id": "MzIzMzcyNDUzOWFkaXF6a2N4",
+      "barcode": "X84VFWF7",
+      "type": "NEWINC",
+      "date": "2019-05-07",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-05-07",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-05-07",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-05-07",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "10"
+              }
+            ]
+          },
+          "action_date": "2019-05-07"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/SC629666/filing-history/MzIzMzcyNDUzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/PazAl9d77GmITk9KmyZsTUiQR_zk3iAPn75pWL68agU"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 23
+}

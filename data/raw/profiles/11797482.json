@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-01-31",
+      "period_end_on": "2022-01-31",
+      "period_start_on": "2021-02-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2023-10-31",
+      "overdue": true,
+      "period_end_on": "2023-01-31",
+      "period_start_on": "2022-02-01"
+    },
+    "next_due": "2023-10-31",
+    "next_made_up_to": "2023-01-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "CARNE CONSULTING LIMITED",
+  "company_number": "11797482",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2022-01-29",
+    "next_due": "2023-02-12",
+    "next_made_up_to": "2023-01-29",
+    "overdue": true
+  },
+  "date_of_creation": "2019-01-30",
+  "etag": "6a1e5d5741c1a49fcc677093a3ba53ebec4dd0c5",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11797482/persons-with-significant-control",
+    "self": "/company/11797482",
+    "filing_history": "/company/11797482/filing-history",
+    "officers": "/company/11797482/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "45 Wolsey Road",
+    "address_line_2": "Hampton Hill",
+    "country": "United Kingdom",
+    "locality": "Hampton",
+    "postal_code": "TW12 1QP"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "73110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

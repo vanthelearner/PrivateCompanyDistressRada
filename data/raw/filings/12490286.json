@@ -1,0 +1,281 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQ4NjI2MTM2N2FkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2025-10-25",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12490286/filing-history/MzQ4NjI2MTM2N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RPTa3_le5gLOVDkAWxJYW0bYHCSxYjImq3mk9vgvyEw"
+      }
+    },
+    {
+      "transaction_id": "MzQ4NjI2MTI1M2FkaXF6a2N4",
+      "barcode": "XEDUKG2H",
+      "type": "AA",
+      "date": "2025-10-24",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2025-02-28"
+      },
+      "pages": 3,
+      "action_date": "2025-02-28",
+      "links": {
+        "self": "/company/12490286/filing-history/MzQ4NjI2MTI1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/lHzNUQwmAnJQEVbtil0GK1HTtfLa_uAMI7gmWS7IAbc"
+      }
+    },
+    {
+      "transaction_id": "MzQ2OTUwMzYyNmFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2025-06-11",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12490286/filing-history/MzQ2OTUwMzYyNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/qXSVMg4ZjWT3nK6ROlJrwCVsdOchx9V8p8-CLYcUJTg"
+      }
+    },
+    {
+      "transaction_id": "MzQ2NTg0OTcxN2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2025-05-20",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12490286/filing-history/MzQ2NTg0OTcxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/U-6TVaO2xNeixOYtH1abgUuevKzH4ZUQHeKKwIQEC8c"
+      }
+    },
+    {
+      "transaction_id": "MzQ0NDYxNDcyNGFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2024-11-23",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12490286/filing-history/MzQ0NDYxNDcyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/VJkdoUp6d1LDUq8fchrmSV34ta8L0vYi2faJar-jQn0"
+      }
+    },
+    {
+      "transaction_id": "MzQ0NDYxNDY4MWFkaXF6a2N4",
+      "barcode": "XDGG7WII",
+      "type": "AA",
+      "date": "2024-11-22",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2024-02-29"
+      },
+      "pages": 3,
+      "action_date": "2024-02-29",
+      "links": {
+        "self": "/company/12490286/filing-history/MzQ0NDYxNDY4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QQAC0Hu2f9S_747BBNu-nqaLzRxxymepxf9KbFc0o14"
+      }
+    },
+    {
+      "transaction_id": "MzQyMTgxOTI5MGFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2024-05-15",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12490286/filing-history/MzQyMTgxOTI5MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6xlQy9fVKXWDAKPz-1knykDuUyQ6NuvdHLYmLD1A0G4"
+      }
+    },
+    {
+      "transaction_id": "MzQxOTMyMzU0MmFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2024-04-30",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12490286/filing-history/MzQxOTMyMzU0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RA8eo59PrrSAnNQ7m95qlBwBonawvJtWNeH41uu-t8w"
+      }
+    },
+    {
+      "transaction_id": "MzQwMTAxNjQwOWFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2023-11-22",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12490286/filing-history/MzQwMTAxNjQwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/aDDpdnx082QATiinxQkloYYLfqT2DIU9aXb_BvWbtQ0"
+      }
+    },
+    {
+      "transaction_id": "MzQwMTAxNjM5NGFkaXF6a2N4",
+      "barcode": "XCGR4PP7",
+      "type": "AA",
+      "date": "2023-11-21",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-02-28"
+      },
+      "pages": 3,
+      "action_date": "2023-02-28",
+      "links": {
+        "self": "/company/12490286/filing-history/MzQwMTAxNjM5NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BtEOCn_KQuBNDe-8lpdxz0Eo03FzXu46HW_wYFmHU3Y"
+      }
+    },
+    {
+      "transaction_id": "MzM4MjQ0NTA1M2FkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2023-06-10",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12490286/filing-history/MzM4MjQ0NTA1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/yIAl48UyDbK31zQiPhjBXT-q3y-TC2NbIQEj-xSxHpw"
+      }
+    },
+    {
+      "transaction_id": "MzM3ODg0OTc2NGFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2023-05-16",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/12490286/filing-history/MzM3ODg0OTc2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DJowJ3M0DmQ2ud4UK9IzfojHvjctq8W-NOgg4-OHSAA"
+      }
+    },
+    {
+      "transaction_id": "MzM1NzczMDYzOGFkaXF6a2N4",
+      "barcode": "XBG9H8CZ",
+      "type": "AA",
+      "date": "2022-11-07",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2022-02-28"
+      },
+      "pages": 3,
+      "action_date": "2022-02-28",
+      "links": {
+        "self": "/company/12490286/filing-history/MzM1NzczMDYzOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mc0mEvusiA6-48EWSSge0O75a4j23hgqUV-v0T-D42k"
+      }
+    },
+    {
+      "transaction_id": "MzMzMTMyNDQ0MmFkaXF6a2N4",
+      "barcode": "XAYTF4SI",
+      "type": "CS01",
+      "date": "2022-02-28",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-02-27"
+      },
+      "pages": 3,
+      "action_date": "2022-02-27",
+      "links": {
+        "self": "/company/12490286/filing-history/MzMzMTMyNDQ0MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/0hCht7jzyejKwfjR-6AYtZ0lmro-2N6xMxbio8KIb3A"
+      }
+    },
+    {
+      "transaction_id": "MzMyMTUxNzc4MGFkaXF6a2N4",
+      "barcode": "XAI2KJGQ",
+      "type": "AA",
+      "date": "2021-11-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2021-02-28"
+      },
+      "pages": 3,
+      "action_date": "2021-02-28",
+      "links": {
+        "self": "/company/12490286/filing-history/MzMyMTUxNzc4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-uyuFP806xdxfBj1FceOh5PBrrdJ3dg_FAR8ip00rXU"
+      }
+    },
+    {
+      "transaction_id": "MzI5Mjg2NzY1M2FkaXF6a2N4",
+      "barcode": "X9ZCJN54",
+      "type": "CS01",
+      "date": "2021-03-01",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-02-27"
+      },
+      "pages": 3,
+      "action_date": "2021-02-27",
+      "links": {
+        "self": "/company/12490286/filing-history/MzI5Mjg2NzY1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/O_dYHR6owqFiBNIVbmixeBrn6rx62vP--ojb-YPDr5A"
+      }
+    },
+    {
+      "transaction_id": "MzI1ODQ4NTgzMmFkaXF6a2N4",
+      "barcode": "X8ZOSVK8",
+      "type": "NEWINC",
+      "date": "2020-02-28",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2020-02-28",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2020-02-28",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2020-02-28",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2020-02-28"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/12490286/filing-history/MzI1ODQ4NTgzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ahtoU3epIs21cee-9E_PFPKfx4mIXWc64mtV3CiJrfg"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 17
+}

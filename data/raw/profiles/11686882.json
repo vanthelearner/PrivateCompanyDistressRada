@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "11"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-11-30",
+      "period_end_on": "2024-11-30",
+      "period_start_on": "2023-12-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-08-31",
+      "overdue": false,
+      "period_end_on": "2025-11-30",
+      "period_start_on": "2024-12-01"
+    },
+    "next_due": "2026-08-31",
+    "next_made_up_to": "2025-11-30",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "JIMMY JAMES COMPANIES UK LTD",
+  "company_number": "11686882",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2024-11-19",
+    "next_due": "2025-12-03",
+    "next_made_up_to": "2025-11-19",
+    "overdue": false
+  },
+  "date_of_creation": "2018-11-20",
+  "etag": "d4dea3e6b354f10979e8e611aceed25ea0f4b0b1",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11686882/persons-with-significant-control",
+    "self": "/company/11686882",
+    "filing_history": "/company/11686882/filing-history",
+    "officers": "/company/11686882/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "40 Castlebar Road",
+    "country": "England",
+    "locality": "London",
+    "postal_code": "W5 2DD"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "73110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "04"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-04-30",
+      "period_end_on": "2022-04-30",
+      "period_start_on": "2021-05-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2024-01-31",
+      "overdue": true,
+      "period_end_on": "2023-04-30",
+      "period_start_on": "2022-05-01"
+    },
+    "next_due": "2024-01-31",
+    "next_made_up_to": "2023-04-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "INTEGER DATA LIMITED",
+  "company_number": "11935773",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-03-31",
+    "next_due": "2024-04-14",
+    "next_made_up_to": "2024-03-31",
+    "overdue": true
+  },
+  "date_of_creation": "2019-04-09",
+  "etag": "5e0a578b6326f08084e9f13c1fa353f13515e2b4",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11935773/persons-with-significant-control",
+    "self": "/company/11935773",
+    "filing_history": "/company/11935773/filing-history",
+    "officers": "/company/11935773/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "3 Kendal Close",
+    "country": "United Kingdom",
+    "locality": "Chester",
+    "postal_code": "CH2 2PR"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "62020",
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

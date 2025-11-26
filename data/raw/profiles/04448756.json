@@ -1,0 +1,68 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "06"
+    },
+    "last_accounts": {
+      "made_up_to": "2010-06-30",
+      "period_end_on": "2010-06-30",
+      "period_start_on": "2009-07-01",
+      "type": "total-exemption-small"
+    },
+    "next_accounts": {
+      "due_on": "2012-03-31",
+      "overdue": true,
+      "period_end_on": "2011-06-30",
+      "period_start_on": "2010-07-01"
+    },
+    "next_due": "2012-03-31",
+    "next_made_up_to": "2011-06-30",
+    "overdue": true
+  },
+  "annual_return": {
+    "last_made_up_to": "2012-05-28"
+  },
+  "can_file": true,
+  "company_name": "DAWLISH LIMITED",
+  "company_number": "04448756",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "next_due": "2017-06-11",
+    "next_made_up_to": "2017-05-28",
+    "overdue": true
+  },
+  "date_of_creation": "2002-05-28",
+  "etag": "60f07d823d20211023d7e4d9b78b60ae255b2498",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2012-05-28",
+  "links": {
+    "self": "/company/04448756",
+    "filing_history": "/company/04448756/filing-history",
+    "officers": "/company/04448756/officers"
+  },
+  "previous_company_names": [
+    {
+      "ceased_on": "2012-10-11",
+      "effective_from": "2002-05-28",
+      "name": "KLEIN O'RORKE LIMITED"
+    }
+  ],
+  "registered_office_address": {
+    "address_line_1": "2 Mountview Court 310 Friern Barnet Lane",
+    "address_line_2": "Whetstone",
+    "locality": "London",
+    "postal_code": "N20 0YZ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "73110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

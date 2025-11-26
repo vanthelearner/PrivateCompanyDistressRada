@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "30",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-05-31",
+      "period_end_on": "2022-05-31",
+      "period_start_on": "2021-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2024-02-29",
+      "overdue": true,
+      "period_end_on": "2023-05-30",
+      "period_start_on": "2022-06-01"
+    },
+    "next_due": "2024-02-29",
+    "next_made_up_to": "2023-05-30",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "CLC COMPLIANCE SERVICES LIMITED",
+  "company_number": "11985314",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-06-30",
+    "next_due": "2024-07-14",
+    "next_made_up_to": "2024-06-30",
+    "overdue": true
+  },
+  "date_of_creation": "2019-05-08",
+  "etag": "f313183d6c596862de45d429fcb146be6f96d491",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11985314/persons-with-significant-control",
+    "self": "/company/11985314",
+    "filing_history": "/company/11985314/filing-history",
+    "officers": "/company/11985314/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Flat 93 Nankeville Court",
+    "address_line_2": "Guildford Road",
+    "country": "England",
+    "locality": "Woking",
+    "postal_code": "GU22 7RF",
+    "region": "Surrey"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

@@ -1,0 +1,411 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQ3NDE0OTYyN2FkaXF6a2N4",
+      "barcode": "XE6ZO8QJ",
+      "type": "AA",
+      "date": "2025-07-17",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2025-04-30"
+      },
+      "pages": 7,
+      "links": {
+        "self": "/company/11787455/filing-history/MzQ3NDE0OTYyN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dU0O9yylfZ4x4IWWVVjr9vWGBl3j_Gs_a2k0yXSqwEk"
+      }
+    },
+    {
+      "transaction_id": "MzQ1MjU0NzQzNGFkaXF6a2N4",
+      "barcode": "XDUXKK0H",
+      "type": "CS01",
+      "date": "2025-01-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2025-01-06"
+      },
+      "pages": 4,
+      "action_date": "2025-01-06",
+      "links": {
+        "self": "/company/11787455/filing-history/MzQ1MjU0NzQzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jFG1bOdSBLwkWlHrAHp9_ws6a26Ba_6Hvw79Il52Bl4"
+      }
+    },
+    {
+      "transaction_id": "MzQyMTgyNTg3OGFkaXF6a2N4",
+      "barcode": "XD340RV4",
+      "type": "AA",
+      "date": "2024-05-14",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2024-04-30"
+      },
+      "pages": 9,
+      "links": {
+        "self": "/company/11787455/filing-history/MzQyMTgyNTg3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/PR5GNjpUQK163T9qruk2P6QZ-zMSyEbN7rzBQNosArU"
+      }
+    },
+    {
+      "transaction_id": "MzQxMDYwMzM3NmFkaXF6a2N4",
+      "barcode": "XCWFA23F",
+      "type": "CS01",
+      "date": "2024-02-09",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-01-06"
+      },
+      "pages": 3,
+      "action_date": "2024-01-06",
+      "links": {
+        "self": "/company/11787455/filing-history/MzQxMDYwMzM3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/E98H-0WLJhZ3hmbECVrXw_aKG5-4SvJvQkwtDs_bhLM"
+      }
+    },
+    {
+      "transaction_id": "MzM3OTY5ODQxMGFkaXF6a2N4",
+      "barcode": "XC3OHC8O",
+      "type": "AA",
+      "date": "2023-05-16",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2023-04-30"
+      },
+      "pages": 9,
+      "links": {
+        "self": "/company/11787455/filing-history/MzM3OTY5ODQxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RPqo3ZYfIXx9MYIJTR97xwvrDGSCwjA3IRl9Uedqs1A"
+      }
+    },
+    {
+      "transaction_id": "MzM2NjMyNTA4M2FkaXF6a2N4",
+      "barcode": "XBVGK0H6",
+      "type": "CS01",
+      "date": "2023-01-18",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-01-06"
+      },
+      "pages": 3,
+      "action_date": "2023-01-06",
+      "links": {
+        "self": "/company/11787455/filing-history/MzM2NjMyNTA4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XXu64uv_oxfkKaJXoXjKC_C7erTnYsR5xfT-Hr27Hsk"
+      }
+    },
+    {
+      "transaction_id": "MzM2NDE1MTE3M2FkaXF6a2N4",
+      "barcode": "XBJX8ZYR",
+      "type": "AA",
+      "date": "2022-12-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2022-04-30"
+      },
+      "pages": 9,
+      "links": {
+        "self": "/company/11787455/filing-history/MzM2NDE1MTE3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ufYDWJeDWydGvNB6awEVUedManIkYat-3W9bnrUQZ5c"
+      }
+    },
+    {
+      "transaction_id": "MzMyNzI2MzM0OWFkaXF6a2N4",
+      "barcode": "XAW297NC",
+      "type": "CH01",
+      "date": "2022-01-20",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2021-12-04",
+        "officer_name": "Ms Basak Canga"
+      },
+      "pages": 2,
+      "action_date": "2021-12-04",
+      "links": {
+        "self": "/company/11787455/filing-history/MzMyNzI2MzM0OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/RinNzInEHjhNfd17VWq-IvXhJ6-RLmCwE-Sao1Emnao"
+      }
+    },
+    {
+      "transaction_id": "MzMyNzI2MzI2NGFkaXF6a2N4",
+      "barcode": "XAW2977U",
+      "type": "PSC04",
+      "date": "2022-01-20",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2021-11-04",
+        "psc_name": "Ms Basak Canga"
+      },
+      "pages": 2,
+      "action_date": "2021-11-04",
+      "links": {
+        "self": "/company/11787455/filing-history/MzMyNzI2MzI2NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/LDIkHIJXTPfw09mpxeOtk2aBO4KtXRZbJ3RnoXxnulg"
+      }
+    },
+    {
+      "transaction_id": "MzMyNzI2MjMxMmFkaXF6a2N4",
+      "barcode": "XAW293FV",
+      "type": "AD01",
+      "date": "2022-01-20",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-01-20",
+        "old_address": "Flat 10, the Lindens Great Austins Farnham GU9 8LA England",
+        "new_address": "4 Willowbourne Fleet GU51 5AB"
+      },
+      "pages": 1,
+      "action_date": "2022-01-20",
+      "links": {
+        "self": "/company/11787455/filing-history/MzMyNzI2MjMxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/o1X5C4ngSWt7xowKxJlMfiByueWYuWK7gKkeOHPrcxs"
+      }
+    },
+    {
+      "transaction_id": "MzMyNjE2MzM3NWFkaXF6a2N4",
+      "barcode": "XAVDZXHT",
+      "type": "CS01",
+      "date": "2022-01-10",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-01-06"
+      },
+      "pages": 3,
+      "action_date": "2022-01-06",
+      "links": {
+        "self": "/company/11787455/filing-history/MzMyNjE2MzM3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/laHEWWXxV025iYSg43r1YKyopmRQ7vGYF0R4OfUBs8U"
+      }
+    },
+    {
+      "transaction_id": "MzMwMTA5MTQ5OGFkaXF6a2N4",
+      "barcode": "XA4GFCSO",
+      "type": "AA",
+      "date": "2021-05-14",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2021-04-30"
+      },
+      "pages": 8,
+      "links": {
+        "self": "/company/11787455/filing-history/MzMwMTA5MTQ5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oFYhYylyX8WoZdBC2eYpEQyMmkaEwLmQHzjAO1Jg9Vw"
+      }
+    },
+    {
+      "transaction_id": "MzI4ODM3MDQwM2FkaXF6a2N4",
+      "barcode": "X9W07PRL",
+      "type": "CS01",
+      "date": "2021-01-12",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-01-06"
+      },
+      "pages": 3,
+      "action_date": "2021-01-06",
+      "links": {
+        "self": "/company/11787455/filing-history/MzI4ODM3MDQwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oz_eu3a0whJ1Qf8zYGfOI09nLinRxY_7GSeCWXkhIsg"
+      }
+    },
+    {
+      "transaction_id": "MzI2NzE1NDUyOWFkaXF6a2N4",
+      "barcode": "X96YXVJD",
+      "type": "AA",
+      "date": "2020-06-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-unaudited-abridged",
+      "description_values": {
+        "made_up_date": "2020-04-30"
+      },
+      "pages": 8,
+      "links": {
+        "self": "/company/11787455/filing-history/MzI2NzE1NDUyOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZlCvzwixAuEIwx3xd7_0udAqTd6l-Q7MCUb9NLOus7M"
+      }
+    },
+    {
+      "transaction_id": "MzI1Mzc5ODQ3NWFkaXF6a2N4",
+      "barcode": "X8W2FNOH",
+      "type": "CS01",
+      "date": "2020-01-06",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2020-01-06"
+      },
+      "pages": 3,
+      "action_date": "2020-01-06",
+      "links": {
+        "self": "/company/11787455/filing-history/MzI1Mzc5ODQ3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4fHcEb0k08hhe7Cxuqjj48w5EOI2o7aoL3cLG0spA0c"
+      }
+    },
+    {
+      "transaction_id": "MzI1MzIxMTE4M2FkaXF6a2N4",
+      "barcode": "X8L7T2AP",
+      "type": "AA",
+      "date": "2019-12-27",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2019-04-30"
+      },
+      "pages": 6,
+      "action_date": "2019-04-30",
+      "links": {
+        "self": "/company/11787455/filing-history/MzI1MzIxMTE4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cUq8UONDzzP7ELt9XmKSsVtRsqrnlDjVzsxY-NmrHNg"
+      }
+    },
+    {
+      "transaction_id": "MzI0OTMzNjQ4NmFkaXF6a2N4",
+      "barcode": "X8I6P9M2",
+      "type": "AA01",
+      "date": "2019-11-14",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-shortened",
+      "description_values": {
+        "made_up_date": "2020-01-31",
+        "new_date": "2019-04-30"
+      },
+      "pages": 1,
+      "action_date": "2019-04-30",
+      "links": {
+        "self": "/company/11787455/filing-history/MzI0OTMzNjQ4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ujOuP4OG8ccGGxC9BivJg4dg2MnenItmpW53sI3-fK8"
+      }
+    },
+    {
+      "transaction_id": "MzI0NzMzMjk5OWFkaXF6a2N4",
+      "barcode": "X8GMROOW",
+      "type": "CH01",
+      "date": "2019-10-22",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2019-10-10",
+        "officer_name": "Ms Basak Canga"
+      },
+      "pages": 2,
+      "action_date": "2019-10-10",
+      "links": {
+        "self": "/company/11787455/filing-history/MzI0NzMzMjk5OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YcINR76JEpmml_HjjuGDUMvN3YAqXZt7VWtbQfjvIa8"
+      }
+    },
+    {
+      "transaction_id": "MzI0NzMzMjg4N2FkaXF6a2N4",
+      "barcode": "X8GMRO4B",
+      "type": "CH01",
+      "date": "2019-10-22",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2019-10-10",
+        "officer_name": "Ms Basak Canga"
+      },
+      "pages": 2,
+      "action_date": "2019-10-10",
+      "links": {
+        "self": "/company/11787455/filing-history/MzI0NzMzMjg4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/EHh5LBI1qlwkv2KrD3_yFvwriHyvLsJ54AOs2IOqzkM"
+      }
+    },
+    {
+      "transaction_id": "MzIzNzkzODI1OWFkaXF6a2N4",
+      "barcode": "X88H1S7C",
+      "type": "PSC04",
+      "date": "2019-06-27",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2019-06-10",
+        "psc_name": "Ms Basak Canga"
+      },
+      "pages": 2,
+      "action_date": "2019-06-10",
+      "links": {
+        "self": "/company/11787455/filing-history/MzIzNzkzODI1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2bsuMEiP7Ja0Juit__71sZAiOdxX2BLPjvSKp3XWHvc"
+      }
+    },
+    {
+      "transaction_id": "MzIzNzkzODA4N2FkaXF6a2N4",
+      "barcode": "X88H1RZE",
+      "type": "AD01",
+      "date": "2019-06-27",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2019-06-27",
+        "old_address": "Demsa Accounts 278 Langham Road London N15 3NP United Kingdom",
+        "new_address": "Flat 10, the Lindens Great Austins Farnham GU9 8LA"
+      },
+      "pages": 1,
+      "action_date": "2019-06-27",
+      "links": {
+        "self": "/company/11787455/filing-history/MzIzNzkzODA4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/5THYvy5ZEXXKAir6FnaT8mftMOab2U5Twq8pbpUYoGw"
+      }
+    },
+    {
+      "transaction_id": "MzIyNTMyMDU1NmFkaXF6a2N4",
+      "barcode": "X7XSQ6VN",
+      "type": "NEWINC",
+      "date": "2019-01-25",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-01-25",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-01-25",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-01-25",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "100"
+              }
+            ]
+          },
+          "action_date": "2019-01-25"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/11787455/filing-history/MzIyNTMyMDU1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gzDkVCus64394sytGIQokCX0BAX7_ua8CKp4kGyM9IE"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 22
+}

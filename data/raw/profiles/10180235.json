@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "05"
+    },
+    "last_accounts": {
+      "made_up_to": "2024-05-31",
+      "period_end_on": "2024-05-31",
+      "period_start_on": "2023-06-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-02-28",
+      "overdue": false,
+      "period_end_on": "2025-05-31",
+      "period_start_on": "2024-06-01"
+    },
+    "next_due": "2026-02-28",
+    "next_made_up_to": "2025-05-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "SAGACITI CONSULTING LTD",
+  "company_number": "10180235",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-05-12",
+    "next_due": "2026-05-26",
+    "next_made_up_to": "2026-05-12",
+    "overdue": false
+  },
+  "date_of_creation": "2016-05-13",
+  "etag": "7f2bf3cbc90ed3a21795a7281f1ae014f6d9f979",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10180235/persons-with-significant-control",
+    "self": "/company/10180235",
+    "filing_history": "/company/10180235/filing-history",
+    "officers": "/company/10180235/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Unit 4b Winford Business Park",
+    "address_line_2": "Winford",
+    "country": "United Kingdom",
+    "locality": "Bristol",
+    "postal_code": "BS40 8HJ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

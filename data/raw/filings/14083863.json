@@ -1,0 +1,766 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQ2NjcwMTI5N2FkaXF6a2N4",
+      "barcode": "XE2P9NQB",
+      "type": "CS01",
+      "date": "2025-05-19",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2025-05-02"
+      },
+      "pages": 5,
+      "action_date": "2025-05-02",
+      "links": {
+        "self": "/company/14083863/filing-history/MzQ2NjcwMTI5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pziXXr-CqmBWzjohgZHgQOeqCf5Wcvqg7Ca9fn8-bhg"
+      }
+    },
+    {
+      "transaction_id": "MzQ2NTkwMDEyNGFkaXF6a2N4",
+      "barcode": "XE2H2997",
+      "type": "PSC04",
+      "date": "2025-05-13",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2025-05-02",
+        "psc_name": "Mr Damian Hahnloser"
+      },
+      "pages": 2,
+      "action_date": "2025-05-02",
+      "links": {
+        "self": "/company/14083863/filing-history/MzQ2NTkwMDEyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/v3uf-JVFZhCSFFgqycd0VGgZ1kCnk2Svt3pHxK3zKhY"
+      }
+    },
+    {
+      "transaction_id": "MzQ2NTkwMDExOWFkaXF6a2N4",
+      "barcode": "XE2H296Z",
+      "type": "PSC04",
+      "date": "2025-05-13",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2025-05-02",
+        "psc_name": "Mr Dennis Klieber"
+      },
+      "pages": 2,
+      "action_date": "2025-05-02",
+      "links": {
+        "self": "/company/14083863/filing-history/MzQ2NTkwMDExOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/x_4tDaYtKfDcbnZ4Dt61WDOT-hOl3c6g4Vv36tJBbM8"
+      }
+    },
+    {
+      "transaction_id": "MzQ2NTg5NTQ4OWFkaXF6a2N4",
+      "barcode": "XE2H1OYY",
+      "type": "CH01",
+      "date": "2025-05-13",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2025-05-02",
+        "officer_name": "Mr Dennis Klieber"
+      },
+      "pages": 2,
+      "action_date": "2025-05-02",
+      "links": {
+        "self": "/company/14083863/filing-history/MzQ2NTg5NTQ4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WIQypzNxuUe73AdinY56O6adwZ7vr1Mr9oIGhDnKVS4"
+      }
+    },
+    {
+      "transaction_id": "MzQ1Mzg1ODA4OGFkaXF6a2N4",
+      "barcode": "XDVRE5SQ",
+      "type": "PSC04",
+      "date": "2025-02-05",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2024-12-07",
+        "psc_name": "Mr Damian Hahnloser"
+      },
+      "pages": 2,
+      "action_date": "2024-12-07",
+      "links": {
+        "self": "/company/14083863/filing-history/MzQ1Mzg1ODA4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Nia5fU4_LkOto0yhz-dgYZVUobGWAOSgaLBCMhWfi60"
+      }
+    },
+    {
+      "transaction_id": "MzQ1Mzg1ODAyOGFkaXF6a2N4",
+      "barcode": "XDVRE5A0",
+      "type": "CH01",
+      "date": "2025-02-05",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2024-12-07",
+        "officer_name": "Mr Damian Hahnloser"
+      },
+      "pages": 2,
+      "action_date": "2024-12-07",
+      "links": {
+        "self": "/company/14083863/filing-history/MzQ1Mzg1ODAyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/epnpP-jFd6WAYyLF2_qu2gpdYjt-L8n0WAufTR8Amtk"
+      }
+    },
+    {
+      "transaction_id": "MzQ0NzU4MDQ1MGFkaXF6a2N4",
+      "barcode": "ADHVBGXV",
+      "type": "AA",
+      "date": "2024-12-17",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2024-03-31"
+      },
+      "pages": 2,
+      "action_date": "2024-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/14083863/filing-history/MzQ0NzU4MDQ1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/v07Pflm6jKb8u1mGS4M_1w2AXipztifAXt4HjBsVqz4"
+      }
+    },
+    {
+      "transaction_id": "MzQ0MDUwMTQ0MGFkaXF6a2N4",
+      "barcode": "XDE9O4KQ",
+      "type": "SH01",
+      "date": "2024-10-22",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2024-06-03",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "11.42"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2024-06-03",
+      "links": {
+        "self": "/company/14083863/filing-history/MzQ0MDUwMTQ0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XiBdgCdFNbmETA7u9UTji-paY2lYqIkwfmxmZcEG4aY"
+      }
+    },
+    {
+      "transaction_id": "MzQzMDc1NDY2NmFkaXF6a2N4",
+      "barcode": "XD8I8H15",
+      "type": "AP01",
+      "date": "2024-07-31",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Ms Charlotte Elin Sofia Henderson",
+        "appointment_date": "2024-07-29"
+      },
+      "pages": 2,
+      "action_date": "2024-07-29",
+      "links": {
+        "self": "/company/14083863/filing-history/MzQzMDc1NDY2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Ay8FT2mGRIJBlMKzukjJaSJTO7rH9aji7l6M75BCMTE"
+      }
+    },
+    {
+      "transaction_id": "MzQyMTgyNjY1OGFkaXF6a2N4",
+      "barcode": "XD340UR6",
+      "type": "CS01",
+      "date": "2024-05-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-05-02"
+      },
+      "pages": 3,
+      "action_date": "2024-05-02",
+      "links": {
+        "self": "/company/14083863/filing-history/MzQyMTgyNjY1OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dZoiMIyyBazNHhQGpgKLEAo9TxHuTec7w3hRJGaK8-c"
+      }
+    },
+    {
+      "transaction_id": "MzQwNDI3OTU5MWFkaXF6a2N4",
+      "barcode": "ACICN93C",
+      "type": "AA",
+      "date": "2023-12-24",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-03-31"
+      },
+      "pages": 2,
+      "action_date": "2023-03-31",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/14083863/filing-history/MzQwNDI3OTU5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BZJrFLA-bXIvOmr6_LktyXLI6JIUQBfcuikc-d75nYo"
+      }
+    },
+    {
+      "transaction_id": "MzM5OTAxOTQwMWFkaXF6a2N4",
+      "barcode": "XCFPFMRL",
+      "type": "CH01",
+      "date": "2023-11-06",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2023-11-03",
+        "officer_name": "Mr Damian Hahnloser"
+      },
+      "pages": 2,
+      "action_date": "2023-11-03",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM5OTAxOTQwMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SjYyCXCeEBGe_1x9JcozNyRz2SZ0V9SrRQaj0LKZ_b4"
+      }
+    },
+    {
+      "transaction_id": "MzM5OTAxOTM5N2FkaXF6a2N4",
+      "barcode": "XCFPFMQ2",
+      "type": "CH01",
+      "date": "2023-11-06",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2023-11-03",
+        "officer_name": "Mr Dennis Klieber"
+      },
+      "pages": 2,
+      "action_date": "2023-11-03",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM5OTAxOTM5N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oSINw_f7nwFaSKUiHULvNN58HjJCnIkNks1MmaVogbI"
+      }
+    },
+    {
+      "transaction_id": "MzM5ODg2NDA3NGFkaXF6a2N4",
+      "barcode": "XCFHKPHZ",
+      "type": "AD01",
+      "date": "2023-11-03",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-11-03",
+        "old_address": "29 Enford Street London W1H 1DJ England",
+        "new_address": "Meridien House 43 Upper Berkeley Street London W1H 5QL"
+      },
+      "pages": 1,
+      "action_date": "2023-11-03",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM5ODg2NDA3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ETuv3uWuFUcIuxXqYpn_c2AWIkKKk402kb-Ll2RlRuo"
+      }
+    },
+    {
+      "transaction_id": "MzM3ODM4MjYxNmFkaXF6a2N4",
+      "barcode": "XC2PUJCI",
+      "type": "CS01",
+      "date": "2023-05-03",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2023-05-02"
+      },
+      "pages": 5,
+      "action_date": "2023-05-02",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM3ODM4MjYxNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dwcB-s36DMJselmBM5whpVdhWp8Qi6GhpP8jB4XMFqY"
+      }
+    },
+    {
+      "transaction_id": "MzM3NjE2Mzk3NGFkaXF6a2N4",
+      "barcode": "XC1DH7EJ",
+      "type": "AA01",
+      "date": "2023-04-13",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-shortened",
+      "description_values": {
+        "made_up_date": "2023-05-31",
+        "new_date": "2023-03-31"
+      },
+      "pages": 1,
+      "action_date": "2023-03-31",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM3NjE2Mzk3NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9JaUcJvYOCfVGCRs4ctPv6BeCKV63K4LRdct6u-sO7g"
+      }
+    },
+    {
+      "transaction_id": "MzM2NTg0NzkxMGFkaXF6a2N4",
+      "barcode": "XBVB3ACB",
+      "type": "RP04SH01",
+      "date": "2023-01-23",
+      "category": "capital",
+      "description": "second-filing-capital-allotment-shares",
+      "description_values": {
+        "date": "2022-11-04",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "10.92"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2022-11-04",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM2NTg0NzkxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vvrkjD2IlFHN8vimmmgIO2-yYzBPLpz-BudS-qhU0Zw"
+      }
+    },
+    {
+      "transaction_id": "MzM2NTg0NzYxM2FkaXF6a2N4",
+      "barcode": "XBVB38XU",
+      "type": "RP04SH01",
+      "date": "2023-01-23",
+      "category": "capital",
+      "description": "second-filing-capital-allotment-shares",
+      "description_values": {
+        "date": "2022-11-04",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "10.92"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2022-11-04",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM2NTg0NzYxM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9RC7U7AZussD4lsfNXTnxPYFTsPuWsRdiUugAwpmtME"
+      }
+    },
+    {
+      "transaction_id": "MzM2NTY1NDg1M2FkaXF6a2N4",
+      "barcode": "XBV38BTF",
+      "type": "SH01",
+      "date": "2023-01-13",
+      "category": "capital",
+      "annotations": [
+        {
+          "annotation": "Clarification A second filed SH01 was registered on 23/01/2023.",
+          "date": "2023-01-23",
+          "description": "annotation",
+          "category": "annotation",
+          "type": "ANNOTATION",
+          "description_values": {
+            "description": "Clarification a second filed SH01 was registered on 23/01/2023."
+          }
+        }
+      ],
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2022-11-04",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "11.02"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2022-11-04",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/14083863/filing-history/MzM2NTY1NDg1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/K36LiE6tKUR4XDXRjOQ1ty4mbo-jP7-pokjh42Fu7FY"
+      }
+    },
+    {
+      "transaction_id": "MzM2MTc0Mjk5MmFkaXF6a2N4",
+      "barcode": "XBIPW30R",
+      "type": "PSC09",
+      "date": "2022-12-12",
+      "category": "persons-with-significant-control",
+      "subcategory": "statements",
+      "description": "withdrawal-of-a-person-with-significant-control-statement",
+      "description_values": {
+        "withdrawal_date": "2022-12-12"
+      },
+      "pages": 2,
+      "action_date": "2022-12-12",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM2MTc0Mjk5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ft3vajxze6ckWAZT2YI5SWPBElIzt0q9iYjM4a8KYJ0"
+      }
+    },
+    {
+      "transaction_id": "MzM2MTc0MjAzNGFkaXF6a2N4",
+      "barcode": "XBIPVZ7M",
+      "type": "PSC08",
+      "date": "2022-12-12",
+      "category": "persons-with-significant-control",
+      "subcategory": "statements",
+      "description": "notification-of-a-person-with-significant-control-statement",
+      "pages": 2,
+      "links": {
+        "self": "/company/14083863/filing-history/MzM2MTc0MjAzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/v_nsAwpDq6aDHmBw2G-UHZmfiEquMuuJblAQlL9rD-s"
+      }
+    },
+    {
+      "transaction_id": "MzM2MTc0MTE0NmFkaXF6a2N4",
+      "barcode": "XBIPVVQW",
+      "type": "PSC01",
+      "date": "2022-12-12",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Dennis Klieber",
+        "notification_date": "2022-11-29"
+      },
+      "pages": 2,
+      "action_date": "2022-11-29",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM2MTc0MTE0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UC16zi9xdxCzn9SqnFfLo2anr-tcq0SW29rde504UEY"
+      }
+    },
+    {
+      "transaction_id": "MzM2MTc0MTA0N2FkaXF6a2N4",
+      "barcode": "XBIPVUZS",
+      "type": "PSC04",
+      "date": "2022-12-12",
+      "category": "persons-with-significant-control",
+      "subcategory": "change",
+      "description": "change-to-a-person-with-significant-control",
+      "description_values": {
+        "change_date": "2022-11-29",
+        "psc_name": "Mr Damian Hahnloser"
+      },
+      "pages": 2,
+      "action_date": "2022-11-29",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM2MTc0MTA0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4O7VtMYrZ3f_g5Gpm-Ys_FsBsuGPRjgKgfu-IaVOJoI"
+      }
+    },
+    {
+      "transaction_id": "MzM2MDE3MDc4OGFkaXF6a2N4",
+      "barcode": "XBHTPMA0",
+      "type": "AP01",
+      "date": "2022-11-29",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mr Dennis Klieber",
+        "appointment_date": "2022-11-29"
+      },
+      "pages": 2,
+      "action_date": "2022-11-29",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM2MDE3MDc4OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/7alTDeKJGLJy6vNiKwTPB-UmSYhra-jcZ0QpkKq3Vao"
+      }
+    },
+    {
+      "transaction_id": "MzM1OTMyMjMzM2FkaXF6a2N4",
+      "barcode": "XBH89NZV",
+      "type": "CERTNM",
+      "date": "2022-11-22",
+      "category": "change-of-name",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2022-11-21"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2022-11-22",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "certificate-change-of-name-company",
+      "description_values": {
+        "description": "Company name changed enford holdco LIMITED\\certificate issued on 22/11/22"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/14083863/filing-history/MzM1OTMyMjMzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dfDOamB2SEVpUSiRXnzDhKxfz6FIRs5qufgWIsRyAd0"
+      }
+    },
+    {
+      "transaction_id": "MzM1NzUyNzU4N2FkaXF6a2N4",
+      "barcode": "XBG1KHII",
+      "type": "SH01",
+      "date": "2022-11-04",
+      "category": "capital",
+      "annotations": [
+        {
+          "annotation": "Clarification A second filed SH01 was registered on 23/01/2023.",
+          "date": "2023-01-23",
+          "description": "annotation",
+          "category": "annotation",
+          "type": "ANNOTATION",
+          "description_values": {
+            "description": "Clarification a second filed SH01 was registered on 23/01/2023."
+          }
+        }
+      ],
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2022-11-04",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "10.92"
+          }
+        ]
+      },
+      "pages": 4,
+      "action_date": "2022-11-04",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/14083863/filing-history/MzM1NzUyNzU4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Nlhf76XwDEktQCxadq8M-FBII8myBo6szeGdE6e78fk"
+      }
+    },
+    {
+      "transaction_id": "MzM1NTIzMDkwMGFkaXF6a2N4",
+      "barcode": "XBEMEK7H",
+      "type": "SH01",
+      "date": "2022-10-14",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2022-10-12",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "10.82"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2022-10-12",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM1NTIzMDkwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YXkKa-bPf3Jl6bSc4rfdLwEKXbwYEqT9i2ffLG6EqRQ"
+      }
+    },
+    {
+      "transaction_id": "MzM1NTIxNzY3MWFkaXF6a2N4",
+      "barcode": "XBEMDC4H",
+      "type": "SH01",
+      "date": "2022-10-14",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2022-10-12",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "10.76"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2022-10-12",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM1NTIxNzY3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/w-lkRmy75XISAoRBmooFaCPfTZgOb7Lo9Rfcwd0En6o"
+      }
+    },
+    {
+      "transaction_id": "MzM1Mzg3OTQ3MWFkaXF6a2N4",
+      "barcode": "XBDVACYI",
+      "type": "SH01",
+      "date": "2022-10-03",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2022-09-28",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "10.56"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2022-09-28",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM1Mzg3OTQ3MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hulYelfcxB1upTiGOjMTfZxL6OOTL8Arx2_HX7nZ_JQ"
+      }
+    },
+    {
+      "transaction_id": "MzM1MjAxOTcxOWFkaXF6a2N4",
+      "barcode": "XBCLRSWI",
+      "type": "SH01",
+      "date": "2022-09-15",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2022-09-13",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "10.55"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2022-09-13",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM1MjAxOTcxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ayUMWtwHrfvEKBH1nPf3qgKn2f84dyqxyeXjSsSpiIY"
+      }
+    },
+    {
+      "transaction_id": "MzM0OTQ0OTk1OWFkaXF6a2N4",
+      "barcode": "XBB1DMLD",
+      "type": "SH01",
+      "date": "2022-08-23",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2022-08-19",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "10.35"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2022-08-19",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM0OTQ0OTk1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/u9v_--CBm8sdCPjbHct_lO9P-wwFqFU0_bhdD3M1l9E"
+      }
+    },
+    {
+      "transaction_id": "MzM0ODIyMTMyM2FkaXF6a2N4",
+      "barcode": "XBA0FFK1",
+      "type": "SH01",
+      "date": "2022-08-09",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2022-08-09",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "10.3"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2022-08-09",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM0ODIyMTMyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Sl21cF5Gj2b4FReXU428FCjfAov3HBSGT-1fLjL1MBs"
+      }
+    },
+    {
+      "transaction_id": "MzM0NzE0MDkwMmFkaXF6a2N4",
+      "barcode": "XB971V4X",
+      "type": "SH01",
+      "date": "2022-07-28",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2022-07-28",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "10.2"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2022-07-28",
+      "links": {
+        "self": "/company/14083863/filing-history/MzM0NzE0MDkwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ETh0CPDtN4HWybLaBVk30Dtq8eswQ33CdNQRKqDRkaY"
+      }
+    },
+    {
+      "transaction_id": "MzM0MzMzODY0MWFkaXF6a2N4",
+      "barcode": "YB6Q7769",
+      "type": "SH02",
+      "date": "2022-06-24",
+      "category": "capital",
+      "description": "capital-alter-shares-subdivision",
+      "description_values": {
+        "date": "2022-05-16"
+      },
+      "pages": 4,
+      "action_date": "2022-05-16",
+      "paper_filed": true,
+      "links": {
+        "self": "/company/14083863/filing-history/MzM0MzMzODY0MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ixg-BCKxSAhFwC_OnhVZgY-61ty-JZs7DuDAwoi5-F4"
+      }
+    },
+    {
+      "transaction_id": "MzMzODEyOTM1N2FkaXF6a2N4",
+      "barcode": "XB387HN5",
+      "type": "NEWINC",
+      "date": "2022-05-03",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2022-05-03",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2022-05-03",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2022-05-03",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "10"
+              }
+            ]
+          },
+          "action_date": "2022-05-03"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/14083863/filing-history/MzMzODEyOTM1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/c-IejKTuatL9E6DE0HgKg0zafE_p4HA-Mkfm19Hz24E"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 35
+}

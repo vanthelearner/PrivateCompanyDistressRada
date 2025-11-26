@@ -1,0 +1,56 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "type": "null"
+    },
+    "next_accounts": {
+      "due_on": "2021-01-15",
+      "overdue": true,
+      "period_end_on": "2020-01-31",
+      "period_start_on": "2019-01-15"
+    },
+    "next_due": "2021-01-15",
+    "next_made_up_to": "2020-01-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "BILL AGENCY LTD",
+  "company_number": "11768206",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2020-02-09",
+    "next_due": "2021-03-23",
+    "next_made_up_to": "2021-02-09",
+    "overdue": true
+  },
+  "date_of_cessation": "2021-07-13",
+  "date_of_creation": "2019-01-15",
+  "etag": "bd3560a8a406e4752d8b178efabea7ec60a15e8b",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11768206/persons-with-significant-control",
+    "self": "/company/11768206",
+    "filing_history": "/company/11768206/filing-history",
+    "officers": "/company/11768206/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "189 Holdenhurst Road",
+    "address_line_2": "Flat 2",
+    "country": "United Kingdom",
+    "locality": "Bournemouth"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70221",
+    "96090"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

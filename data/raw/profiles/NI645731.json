@@ -1,0 +1,59 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-03-31",
+      "period_end_on": "2022-03-31",
+      "period_start_on": "2021-04-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2023-12-31",
+      "overdue": true,
+      "period_end_on": "2023-03-31",
+      "period_start_on": "2022-04-01"
+    },
+    "next_due": "2023-12-31",
+    "next_made_up_to": "2023-03-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "IKOLO LIMITED",
+  "company_number": "NI645731",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-07-29",
+    "next_due": "2024-08-12",
+    "next_made_up_to": "2024-07-29",
+    "overdue": true
+  },
+  "date_of_creation": "2017-05-12",
+  "etag": "e393f0495aea9e8e8c0609675d6e279c05c85d19",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "northern-ireland",
+  "links": {
+    "persons_with_significant_control_statements": "/company/NI645731/persons-with-significant-control-statements",
+    "self": "/company/NI645731",
+    "filing_history": "/company/NI645731/filing-history",
+    "officers": "/company/NI645731/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "2nd Floor 15 Gray's Hill",
+    "country": "Northern Ireland",
+    "locality": "Bangor",
+    "postal_code": "BT20 3BB",
+    "region": "Down"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "73110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

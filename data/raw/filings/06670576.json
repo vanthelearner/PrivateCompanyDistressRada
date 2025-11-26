@@ -1,0 +1,840 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzM1NzkyMDQ1MGFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2022-11-10",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06670576/filing-history/MzM1NzkyMDQ1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eF5U0MGVGA5z4mbYIIkz5hpyy7ECc-UjaNkXxKiAu0o"
+      }
+    },
+    {
+      "transaction_id": "MzM1NTQ1Mzk4NmFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-10-25",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06670576/filing-history/MzM1NTQ1Mzk4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/k_TvBPoITU3XUEB1Lw6WhJ9YPJf9SApSgM_6YOcRiVM"
+      }
+    },
+    {
+      "transaction_id": "MzM0ODkzODQwMWFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2022-08-18",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06670576/filing-history/MzM0ODkzODQwMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Nwnm5wVq801_rKMa__ZWOqLLTMcSA3n_sjgIzAQMk78"
+      }
+    },
+    {
+      "transaction_id": "MzM0ODkzODMyOWFkaXF6a2N4",
+      "barcode": "XBALLETE",
+      "type": "CS01",
+      "date": "2022-08-17",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2022-08-12"
+      },
+      "pages": 4,
+      "action_date": "2022-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzM0ODkzODMyOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/l-1hImXAE9BkMdvG-fU8WV3OWqKu48ISauhz5fRcjg0"
+      }
+    },
+    {
+      "transaction_id": "MzMyOTM0NTc1MmFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2022-02-10",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06670576/filing-history/MzMyOTM0NTc1MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/nU_0BNcW8tgNxqopoAFzzvgSJaU0HegkRnkknBBrNPc"
+      }
+    },
+    {
+      "transaction_id": "MzMyNjM3Nzg4M2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2022-01-18",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06670576/filing-history/MzMyNjM3Nzg4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/OHplfleiGIzt_A_o-pY5pKsHR441baMfq8TCINA-sE8"
+      }
+    },
+    {
+      "transaction_id": "MzMxMDk5NDc0NGFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2021-08-19",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06670576/filing-history/MzMxMDk5NDc0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/PcsEUBUNp5aqmlPzx3AanBCJLSpZVUaiz41XGpD4rls"
+      }
+    },
+    {
+      "transaction_id": "MzMxMDk5NDY4MWFkaXF6a2N4",
+      "barcode": "XAB59R0W",
+      "type": "CS01",
+      "date": "2021-08-18",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2021-08-12"
+      },
+      "pages": 4,
+      "action_date": "2021-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzMxMDk5NDY4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/iITf5gdDZD7dmZXc2urn0Ni6DKayoDeTKl9Z-AWXjYI"
+      }
+    },
+    {
+      "transaction_id": "MzMwOTI0OTI5NWFkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2021-08-10",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06670576/filing-history/MzMwOTI0OTI5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/z2VPvHnbtVLNxMrUQRTm5RJk8uU0Z9CAqidIAh26aMQ"
+      }
+    },
+    {
+      "transaction_id": "MzI5ODc2MTQ0OGFkaXF6a2N4",
+      "type": "DISS40",
+      "date": "2021-04-24",
+      "category": "gazette",
+      "description": "gazette-filings-brought-up-to-date",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06670576/filing-history/MzI5ODc2MTQ0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/-Un2VwrPYIf_HKXfpfP3jICPQZHHf-JSsUbFjlZDqQM"
+      }
+    },
+    {
+      "transaction_id": "MzI5ODc2MTM2OGFkaXF6a2N4",
+      "barcode": "XA30TSX5",
+      "type": "AA",
+      "date": "2021-04-23",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2019-08-31"
+      },
+      "pages": 8,
+      "action_date": "2019-08-31",
+      "links": {
+        "self": "/company/06670576/filing-history/MzI5ODc2MTM2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/juNJui_-YKHP0es8BwHOk3rRN122HIeyjPNtRHCWjy8"
+      }
+    },
+    {
+      "transaction_id": "MzI5NDY0ODU3NmFkaXF6a2N4",
+      "barcode": "XA0H0E7S",
+      "type": "AD01",
+      "date": "2021-03-17",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-03-17",
+        "old_address": "Suite 22 5 Bridget Street Maidenhead SL6 1JN England",
+        "new_address": "Suite 22 5 Bridge Street Maidenhead Berkshire SL6 1JN"
+      },
+      "pages": 1,
+      "action_date": "2021-03-17",
+      "links": {
+        "self": "/company/06670576/filing-history/MzI5NDY0ODU3NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/d0svh_ZevSw85Qfxuc8PsCiz5MREJoI833vipi5KSOg"
+      }
+    },
+    {
+      "transaction_id": "MzI4ODY0NzM2NmFkaXF6a2N4",
+      "barcode": "X9W5LFEZ",
+      "type": "AD01",
+      "date": "2021-01-14",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-01-14",
+        "old_address": "Suite 22 5 Bridge Street Maidenhead Berkshire SL6 3NA United Kingdom",
+        "new_address": "Suite 22 5 Bridget Street Maidenhead SL6 1JN"
+      },
+      "pages": 1,
+      "action_date": "2021-01-14",
+      "links": {
+        "self": "/company/06670576/filing-history/MzI4ODY0NzM2NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vNQhuZw7oZklUfLkDZMSHK7E2XHuptIL9WdF090pIbc"
+      }
+    },
+    {
+      "transaction_id": "MzI4ODIwNzc0NmFkaXF6a2N4",
+      "type": "DISS16(SOAS)",
+      "date": "2021-01-12",
+      "category": "dissolution",
+      "description": "dissolved-compulsory-strike-off-suspended",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06670576/filing-history/MzI4ODIwNzc0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_p1m5zFQZRR0IPNAB4E8Lg9VKtJDMMkxNDsI0IGvEhA"
+      }
+    },
+    {
+      "transaction_id": "MzI4NTc2NDUzNWFkaXF6a2N4",
+      "barcode": "X9JNYQRM",
+      "type": "AD01",
+      "date": "2020-12-11",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2020-12-11",
+        "old_address": "Ashdown Hurrey, 20 Havelock Hastings East Sussex TN34 1BP",
+        "new_address": "Suite 22 5 Bridge Street Maidenhead Berkshire SL6 3NA"
+      },
+      "pages": 1,
+      "action_date": "2020-12-11",
+      "links": {
+        "self": "/company/06670576/filing-history/MzI4NTc2NDUzNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QDLhGsW21h8djJSQJDBqdOg0_heIw4gmA7-pmEVLb34"
+      }
+    },
+    {
+      "transaction_id": "MzI4NDA1ODYwM2FkaXF6a2N4",
+      "type": "GAZ1",
+      "date": "2020-12-01",
+      "category": "gazette",
+      "description": "gazette-notice-compulsory",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06670576/filing-history/MzI4NDA1ODYwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/i8mThqNOikYMy5BKo2XdXBA6-YfwYfR1F0nHiRFW17c"
+      }
+    },
+    {
+      "transaction_id": "MzI3NTIyNTg4NGFkaXF6a2N4",
+      "barcode": "X9BDR5ZT",
+      "type": "CS01",
+      "date": "2020-08-13",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-08-12"
+      },
+      "pages": 4,
+      "action_date": "2020-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzI3NTIyNTg4NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MoE78Fs5OZmzMF3bchBGMltuv6TFP3TsDNIjZ2LikG4"
+      }
+    },
+    {
+      "transaction_id": "MzI0MTcwMzcxNmFkaXF6a2N4",
+      "barcode": "X8BUNTTN",
+      "type": "CS01",
+      "date": "2019-08-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2019-08-12"
+      },
+      "pages": 4,
+      "action_date": "2019-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzI0MTcwMzcxNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/AiSEzdWq4qXcRrA-sxhasgRzMn1hyMUVZNnZCNFUsfA"
+      }
+    },
+    {
+      "transaction_id": "MzIzNTQxNDA5NmFkaXF6a2N4",
+      "barcode": "X86ESIMX",
+      "type": "AA",
+      "date": "2019-05-28",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2018-08-31"
+      },
+      "pages": 8,
+      "action_date": "2018-08-31",
+      "links": {
+        "self": "/company/06670576/filing-history/MzIzNTQxNDA5NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/eNkazq6XHI32pFdnVdIOf2Q6Ah02M_BTre3HeNAH4To"
+      }
+    },
+    {
+      "transaction_id": "MzIxMzc5NjkxN2FkaXF6a2N4",
+      "barcode": "X7DTJEFT",
+      "type": "CS01",
+      "date": "2018-09-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2018-08-12"
+      },
+      "pages": 4,
+      "action_date": "2018-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzIxMzc5NjkxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/AUfGt0UVs29iFB23tVuMD7VNC_aFnsr8EcxQYUHJ4TA"
+      }
+    },
+    {
+      "transaction_id": "MzIwNTA5ODMxOWFkaXF6a2N4",
+      "barcode": "X761LDY1",
+      "type": "AA",
+      "date": "2018-05-16",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2017-08-31"
+      },
+      "pages": 8,
+      "action_date": "2017-08-31",
+      "links": {
+        "self": "/company/06670576/filing-history/MzIwNTA5ODMxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YVK-EdflYvrmxw1nB34ATMuW3Enj9O4FNyKsBRjFxLo"
+      }
+    },
+    {
+      "transaction_id": "MzE4NjQ3NDAxNGFkaXF6a2N4",
+      "barcode": "X6FXMKVF",
+      "type": "CS01",
+      "date": "2017-09-28",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2017-08-12"
+      },
+      "pages": 4,
+      "action_date": "2017-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzE4NjQ3NDAxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hOzdznn91DxzyDlf1sorc4KuOTXcy6allybmoh8S_uA"
+      }
+    },
+    {
+      "transaction_id": "MzE3NzA3NTk1OWFkaXF6a2N4",
+      "barcode": "X67LU3ZE",
+      "type": "AA",
+      "date": "2017-05-31",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2016-08-31"
+      },
+      "pages": 7,
+      "action_date": "2016-08-31",
+      "links": {
+        "self": "/company/06670576/filing-history/MzE3NzA3NTk1OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jE8djvDdeTQNwA_tVRcw0Ccl6L6ZUEb49OiiwO-m8uw"
+      }
+    },
+    {
+      "transaction_id": "MzE1Njk2MzY1MWFkaXF6a2N4",
+      "barcode": "X5F2PMQO",
+      "type": "CS01",
+      "date": "2016-09-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2016-08-12"
+      },
+      "pages": 5,
+      "action_date": "2016-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzE1Njk2MzY1MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZPFGlOvFP7xi7QqvF6Oxtb0CRiNVe6AsfP1DGQs0Jm4"
+      }
+    },
+    {
+      "transaction_id": "MzEzODUxNTY3OWFkaXF6a2N4",
+      "barcode": "X4NA3SUX",
+      "type": "AA",
+      "date": "2015-12-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2015-08-31"
+      },
+      "pages": 7,
+      "action_date": "2015-08-31",
+      "links": {
+        "self": "/company/06670576/filing-history/MzEzODUxNTY3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vfnHU_M72kgxH56Yqs6_0wFrYntddV0L3tAgRbVIX50"
+      }
+    },
+    {
+      "transaction_id": "MzEzMDY1MzM4OWFkaXF6a2N4",
+      "barcode": "X4FKWYY2",
+      "type": "AR01",
+      "date": "2015-09-09",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-09-09",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-09-09",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1,100"
+              }
+            ]
+          },
+          "action_date": "2015-09-09"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2015-08-12"
+      },
+      "pages": 5,
+      "action_date": "2015-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzEzMDY1MzM4OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QBC4V8LZUXzmvUiOpKcPkDIm6NQPxkpMXcgkdxlpOSI"
+      }
+    },
+    {
+      "transaction_id": "MzEzMDY1MzIxOWFkaXF6a2N4",
+      "barcode": "X4FKWYQP",
+      "type": "AP01",
+      "date": "2015-09-09",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-director-company-with-name-date",
+      "description_values": {
+        "officer_name": "Mrs Anna Berry",
+        "appointment_date": "2014-04-01"
+      },
+      "pages": 2,
+      "action_date": "2014-04-01",
+      "links": {
+        "self": "/company/06670576/filing-history/MzEzMDY1MzIxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CuCbSVVFGfnIFzbM95Dbj_2b1xygrh-bH3rpZl8Ivh4"
+      }
+    },
+    {
+      "transaction_id": "MzEyNDE1Nzk4MmFkaXF6a2N4",
+      "barcode": "X48FAPO1",
+      "type": "AA",
+      "date": "2015-05-29",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-small",
+      "description_values": {
+        "made_up_date": "2014-08-31"
+      },
+      "pages": 7,
+      "action_date": "2014-08-31",
+      "links": {
+        "self": "/company/06670576/filing-history/MzEyNDE1Nzk4MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/g6tdFG1jUWs_pYCIfMrZ_TYcoNxPEYCjW6kEh8EexLI"
+      }
+    },
+    {
+      "transaction_id": "MzEwNzI0OTgxMmFkaXF6a2N4",
+      "barcode": "X3G529NT",
+      "type": "AR01",
+      "date": "2014-09-10",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2014-09-10",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2014-09-10",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1,100"
+              }
+            ]
+          },
+          "action_date": "2014-09-10"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2014-08-12"
+      },
+      "pages": 4,
+      "action_date": "2014-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzEwNzI0OTgxMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oM3bac2EmNnGuKD1tJP2Gj9Fu8Zx5ybsvHpl84FxqTE"
+      }
+    },
+    {
+      "transaction_id": "MzEwNzI0OTYwM2FkaXF6a2N4",
+      "barcode": "X3G529NL",
+      "type": "CH01",
+      "date": "2014-09-10",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2014-08-12",
+        "officer_name": "Mr Derren Alexander Berry"
+      },
+      "pages": 2,
+      "action_date": "2014-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzEwNzI0OTYwM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6V4wUA_ShSqiaJ8J1uuab2Y8C-5ZKg3tPx_GLEQlc3c"
+      }
+    },
+    {
+      "transaction_id": "MzEwMjg5NzczMmFkaXF6a2N4",
+      "barcode": "X3B644XU",
+      "type": "AA",
+      "date": "2014-06-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2013-08-31"
+      },
+      "pages": 3,
+      "action_date": "2013-08-31",
+      "links": {
+        "self": "/company/06670576/filing-history/MzEwMjg5NzczMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/OH1aio1U7p_PcpS69fEXd5blbbHwmw1UzgoxaU_bZtY"
+      }
+    },
+    {
+      "transaction_id": "MzA5OTE4NTcxOWFkaXF6a2N4",
+      "barcode": "X36WZNG0",
+      "type": "SH01",
+      "date": "2014-04-30",
+      "category": "capital",
+      "description": "capital-allotment-shares",
+      "description_values": {
+        "date": "2014-04-01",
+        "capital": [
+          {
+            "currency": "GBP",
+            "figure": "1,100"
+          }
+        ]
+      },
+      "pages": 3,
+      "action_date": "2014-04-01",
+      "links": {
+        "self": "/company/06670576/filing-history/MzA5OTE4NTcxOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/R2m4Qcap3tP-KnfEBA4bx4LMPILF5vEH08ieRGdWVFM"
+      }
+    },
+    {
+      "transaction_id": "MzA4NDgyNDM1N2FkaXF6a2N4",
+      "barcode": "X2GPRM1V",
+      "type": "AR01",
+      "date": "2013-09-11",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2013-08-12"
+      },
+      "pages": 4,
+      "action_date": "2013-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzA4NDgyNDM1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FlE4EeDWcxLsYX3XHAzet_tl0EVxtOyfN61cUT8Qp8A"
+      }
+    },
+    {
+      "transaction_id": "MzA2OTQwNTIxNGFkaXF6a2N4",
+      "barcode": "X1NRWHBV",
+      "type": "AA",
+      "date": "2012-12-14",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2012-08-31"
+      },
+      "pages": 2,
+      "action_date": "2012-08-31",
+      "links": {
+        "self": "/company/06670576/filing-history/MzA2OTQwNTIxNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YOfFeHXurFMErkxGkmxcRdFmKk1k4RgyyrG_W8hifzM"
+      }
+    },
+    {
+      "transaction_id": "MzA2ODkxMDE5NWFkaXF6a2N4",
+      "barcode": "X1N7629L",
+      "type": "CH01",
+      "date": "2012-12-06",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2012-12-06",
+        "officer_name": "Mr Derren Alexander Berry"
+      },
+      "pages": 2,
+      "action_date": "2012-12-06",
+      "links": {
+        "self": "/company/06670576/filing-history/MzA2ODkxMDE5NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/_NMjTSmLYa9G3qUzWlPcPV5yG8AWeueaVZLAHbr9skY"
+      }
+    },
+    {
+      "transaction_id": "MzA2Nzg5MDIzNGFkaXF6a2N4",
+      "barcode": "X1M6XSV5",
+      "type": "AR01",
+      "date": "2012-11-21",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2012-08-12"
+      },
+      "pages": 4,
+      "action_date": "2012-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzA2Nzg5MDIzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HNa2cK2zs8XkdE1QdhymwNi-dH4GNynhbd2RYm2oHOs"
+      }
+    },
+    {
+      "transaction_id": "MzA2NjEwMTYzMmFkaXF6a2N4",
+      "barcode": "X1JWFCGH",
+      "type": "CH01",
+      "date": "2012-10-19",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2012-01-17",
+        "officer_name": "Mr Derren Alexander Berry"
+      },
+      "pages": 2,
+      "action_date": "2012-01-17",
+      "links": {
+        "self": "/company/06670576/filing-history/MzA2NjEwMTYzMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DVPhRDewxJeuUfkM1_RbXpDjYCbLpViPxP-ZLJoBCKE"
+      }
+    },
+    {
+      "transaction_id": "MzA1NzMyNDIwN2FkaXF6a2N4",
+      "barcode": "X18QHLMR",
+      "type": "AA",
+      "date": "2012-05-11",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2011-08-31"
+      },
+      "pages": 2,
+      "action_date": "2011-08-31",
+      "links": {
+        "self": "/company/06670576/filing-history/MzA1NzMyNDIwN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/HTZoVDMX5MxfknfvOWA3skRvyRRphHYGwjulyq5pt3Q"
+      }
+    },
+    {
+      "transaction_id": "MzA0MzczNzgzM2FkaXF6a2N4",
+      "barcode": "XQJ9TXIN",
+      "type": "TM02",
+      "date": "2011-09-13",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-secretary-company-with-name",
+      "description_values": {
+        "officer_name": "Stephanie Berry"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/06670576/filing-history/MzA0MzczNzgzM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/tWS2XODpjxCNBIDf1lfjQNIpra2K09WlnmzHtJVY5NQ"
+      }
+    },
+    {
+      "transaction_id": "MzA0MzczNzcyOWFkaXF6a2N4",
+      "barcode": "XQJ8IXIB",
+      "type": "AP03",
+      "date": "2011-09-13",
+      "category": "officers",
+      "subcategory": "appointments",
+      "description": "appoint-person-secretary-company-with-name",
+      "description_values": {
+        "officer_name": "Mr Derren Alexander Berry"
+      },
+      "pages": 1,
+      "links": {
+        "self": "/company/06670576/filing-history/MzA0MzczNzcyOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FiQSJBG0eE4TXEpKbY0IXDavOUaaaYOC9Otr9DDlSrs"
+      }
+    },
+    {
+      "transaction_id": "MzA0MzUzMTExMmFkaXF6a2N4",
+      "barcode": "XPBDTXEE",
+      "type": "AR01",
+      "date": "2011-09-09",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2011-08-12"
+      },
+      "pages": 4,
+      "action_date": "2011-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzA0MzUzMTExMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BUxsJ4lTptvtXX6m5Cep6KLcNnPLjGtTxGNGjSbF8CY"
+      }
+    },
+    {
+      "transaction_id": "MzAzMzQ2MDgzNGFkaXF6a2N4",
+      "barcode": "XYU13S9U",
+      "type": "AA",
+      "date": "2011-03-08",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2010-08-31"
+      },
+      "pages": 2,
+      "action_date": "2010-08-31",
+      "links": {
+        "self": "/company/06670576/filing-history/MzAzMzQ2MDgzNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cEpYlVDEFvkWUdcEPV5OJEhRvfAV3KSWY0SNwnjcB6c"
+      }
+    },
+    {
+      "transaction_id": "MzAyMzk0NTUxMGFkaXF6a2N4",
+      "barcode": "XENUTNOW",
+      "type": "AR01",
+      "date": "2010-09-24",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2010-08-12"
+      },
+      "pages": 3,
+      "action_date": "2010-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzAyMzk0NTUxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mOGqzXj9F16Pad4DE0lFPEPTFEg6uqPxReBlu1mFSoY"
+      }
+    },
+    {
+      "transaction_id": "MzAyMzk0NTM2OWFkaXF6a2N4",
+      "barcode": "XENUSNOV",
+      "type": "CH01",
+      "date": "2010-09-24",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2010-08-12",
+        "officer_name": "Mr Derren Alexander Berry"
+      },
+      "pages": 2,
+      "action_date": "2010-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzAyMzk0NTM2OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pSOlV2Cr82nWYaoKtkcUsOB1V1PnVA7RKh3Y5_htsg8"
+      }
+    },
+    {
+      "transaction_id": "MzAyMzk0NTM2NWFkaXF6a2N4",
+      "barcode": "XENUQNOT",
+      "type": "CH03",
+      "date": "2010-09-24",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-secretary-company-with-change-date",
+      "description_values": {
+        "change_date": "2010-08-12",
+        "officer_name": "Miss Stephanie Julia Berry"
+      },
+      "pages": 1,
+      "action_date": "2010-08-12",
+      "links": {
+        "self": "/company/06670576/filing-history/MzAyMzk0NTM2NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DZxz-LdUHdmu-WPirXhD2_yqNsLVYFUHNUsagEiW5RQ"
+      }
+    },
+    {
+      "transaction_id": "MzAwMzE0OTQwNmFkaXF6a2N4",
+      "barcode": "X3A3SF2M",
+      "type": "AA",
+      "date": "2009-11-18",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2009-08-31"
+      },
+      "pages": 2,
+      "action_date": "2009-08-31",
+      "links": {
+        "self": "/company/06670576/filing-history/MzAwMzE0OTQwNmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/p4C2mIdqlt7oul8UbSyQdJHfmyv6HhxHZQ7myOZQnXM"
+      }
+    },
+    {
+      "transaction_id": "MjA0MjU2NDUyNGFkaXF6a2N4",
+      "barcode": "XGZPBDQF",
+      "type": "363a",
+      "date": "2009-10-01",
+      "category": "annual-return",
+      "description": "legacy",
+      "description_values": {
+        "description": "Return made up to 12/08/09; full list of members"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/06670576/filing-history/MjA0MjU2NDUyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/pMrbM96FRg2EPMrfz4gXME7-BCx5azUMcYSSYTuQuxI"
+      }
+    },
+    {
+      "transaction_id": "MjAxMDc1NDQ4MWFkaXF6a2N4",
+      "barcode": "XK2TE26Y",
+      "type": "NEWINC",
+      "date": "2008-08-12",
+      "category": "incorporation",
+      "description": "incorporation-company",
+      "pages": 17,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/06670576/filing-history/MjAxMDc1NDQ4MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/p6Ck1nJIJ5kgZuThkdyWXpIjUav2SwYdMs1sW-_nSaY"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 48
+}

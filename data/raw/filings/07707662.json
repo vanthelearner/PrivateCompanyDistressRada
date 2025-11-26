@@ -1,0 +1,885 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQ2MTk1Mzg4NWFkaXF6a2N4",
+      "barcode": "XE05B229",
+      "type": "AA",
+      "date": "2025-04-09",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2024-07-31"
+      },
+      "pages": 2,
+      "action_date": "2024-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzQ2MTk1Mzg4NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CXtbi3wbN3ImhGgvVVoCUye_tVh35xtAhBjlfaBxMWs"
+      }
+    },
+    {
+      "transaction_id": "MzQ1NjUxOTA5MmFkaXF6a2N4",
+      "barcode": "XDX6OQFU",
+      "type": "CS01",
+      "date": "2025-02-26",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2025-02-23"
+      },
+      "pages": 3,
+      "action_date": "2025-02-23",
+      "links": {
+        "self": "/company/07707662/filing-history/MzQ1NjUxOTA5MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/isOIiGr2nH2EFLzogvV-h1dPHubs2xhQvFsdIcakZ9g"
+      }
+    },
+    {
+      "transaction_id": "MzQ0MDY2MDc4MGFkaXF6a2N4",
+      "barcode": "XDECAV6W",
+      "type": "CH01",
+      "date": "2024-10-23",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2024-10-01",
+        "officer_name": "Mr Dong Bi"
+      },
+      "pages": 2,
+      "action_date": "2024-10-01",
+      "links": {
+        "self": "/company/07707662/filing-history/MzQ0MDY2MDc4MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/oaw4jDrd7HVxSG01jQED_RvoNJ69xPu81vlDJENMpaY"
+      }
+    },
+    {
+      "transaction_id": "MzQyMTgxODI5MWFkaXF6a2N4",
+      "barcode": "XD340I56",
+      "type": "AA",
+      "date": "2024-05-14",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2023-07-31"
+      },
+      "pages": 2,
+      "action_date": "2023-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzQyMTgxODI5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/CdrvxcPiIXTu0u_C9xuqppHHucA2HaJVvUvnJfGsxPc"
+      }
+    },
+    {
+      "transaction_id": "MzQxMzQ2NTgwNGFkaXF6a2N4",
+      "barcode": "XCY85MHK",
+      "type": "CS01",
+      "date": "2024-03-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-02-23"
+      },
+      "pages": 3,
+      "action_date": "2024-02-23",
+      "links": {
+        "self": "/company/07707662/filing-history/MzQxMzQ2NTgwNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FfsvkNVs87fj1l2uBq0x6MMSF9lqrLDx01dh6UP-psI"
+      }
+    },
+    {
+      "transaction_id": "MzQwMjc3Njc3OGFkaXF6a2N4",
+      "barcode": "XCHNHGSR",
+      "type": "CERTNM",
+      "date": "2023-12-06",
+      "category": "change-of-name",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2022-10-01"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2023-12-06",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "certificate-change-of-name-company",
+      "description_values": {
+        "description": "Company name changed tphouse (uk) LIMITED\\certificate issued on 06/12/23"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/07707662/filing-history/MzQwMjc3Njc3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/4_eH0SBU9C2L-aeQN66oTsk99VcbI4MEGAOHjLu6k0M"
+      }
+    },
+    {
+      "transaction_id": "MzM4MDY4OTk1NmFkaXF6a2N4",
+      "barcode": "XC47AUUX",
+      "type": "PSC01",
+      "date": "2023-05-24",
+      "category": "persons-with-significant-control",
+      "subcategory": "notifications",
+      "description": "notification-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "Dong Bi",
+        "notification_date": "2023-01-01"
+      },
+      "pages": 2,
+      "action_date": "2023-01-01",
+      "links": {
+        "self": "/company/07707662/filing-history/MzM4MDY4OTk1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FJZ8_4g943c7L1RkEmvVbeB4Kxd65hw-gjKuzoVpwD4"
+      }
+    },
+    {
+      "transaction_id": "MzM3ODA2ODM3NWFkaXF6a2N4",
+      "barcode": "XC2KEHGZ",
+      "type": "AA",
+      "date": "2023-04-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2022-07-31"
+      },
+      "pages": 2,
+      "action_date": "2022-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzM3ODA2ODM3NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kZLe5c5ArleBib29XyIhVPVyrCS28XuGGyfC4AO18EA"
+      }
+    },
+    {
+      "transaction_id": "MzM3NDQ2MzM4NmFkaXF6a2N4",
+      "barcode": "XC08UBKY",
+      "type": "CERTNM",
+      "date": "2023-03-29",
+      "category": "change-of-name",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2023-01-01"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2023-03-29",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "certificate-change-of-name-company",
+      "description_values": {
+        "description": "Company name changed myairfam (uk) LIMITED\\certificate issued on 29/03/23"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/07707662/filing-history/MzM3NDQ2MzM4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/mcwhllAHM1lypaUWrgsmE3xBxIepYocwojBjm1KTvo8"
+      }
+    },
+    {
+      "transaction_id": "MzM3MTUyNjM3OGFkaXF6a2N4",
+      "barcode": "XBYLN8JN",
+      "type": "CS01",
+      "date": "2023-03-05",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2023-02-23"
+      },
+      "pages": 4,
+      "action_date": "2023-02-23",
+      "links": {
+        "self": "/company/07707662/filing-history/MzM3MTUyNjM3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/QelgaE-zG19jt-BDyvfsIImEuEWGjL1FGCCCwD9Fb0Y"
+      }
+    },
+    {
+      "transaction_id": "MzM3MTUxOTMyOGFkaXF6a2N4",
+      "barcode": "XBYLMJMP",
+      "type": "PSC07",
+      "date": "2023-03-05",
+      "category": "persons-with-significant-control",
+      "subcategory": "termination",
+      "description": "cessation-of-a-person-with-significant-control",
+      "description_values": {
+        "psc_name": "The City of Low Carbon Limited",
+        "cessation_date": "2023-01-01"
+      },
+      "pages": 1,
+      "action_date": "2023-01-01",
+      "links": {
+        "self": "/company/07707662/filing-history/MzM3MTUxOTMyOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/XuvIXLDPtyRen0qRA3l1iTJIcZxHRJxKP9qaAx4o0cA"
+      }
+    },
+    {
+      "transaction_id": "MzM0Mzc4Nzk0N2FkaXF6a2N4",
+      "barcode": "XB70VP4R",
+      "type": "AD01",
+      "date": "2022-06-27",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2022-06-27",
+        "old_address": "Flat 47 Mortimer Crescent London NW6 5NS England",
+        "new_address": "Flat 49 Clarewood Court Seymour Place London W1H 2NN"
+      },
+      "pages": 1,
+      "action_date": "2022-06-27",
+      "links": {
+        "self": "/company/07707662/filing-history/MzM0Mzc4Nzk0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZEOMnBqecjCh4jbwPcI4gRSh4I6UuT-qwEbRywcjL_s"
+      }
+    },
+    {
+      "transaction_id": "MzMzMzAxNzM2OGFkaXF6a2N4",
+      "barcode": "XAZXPZBK",
+      "type": "AA",
+      "date": "2022-03-16",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2021-07-31"
+      },
+      "pages": 2,
+      "action_date": "2021-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzMzMzAxNzM2OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gYCG45zwIIp1avYmFJJD0CwgTo5wP3sdGiYrVfq8Z4I"
+      }
+    },
+    {
+      "transaction_id": "MzMzMDgxNDgyM2FkaXF6a2N4",
+      "barcode": "XAYG1YZC",
+      "type": "CS01",
+      "date": "2022-02-23",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2022-02-23"
+      },
+      "pages": 3,
+      "action_date": "2022-02-23",
+      "links": {
+        "self": "/company/07707662/filing-history/MzMzMDgxNDgyM2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/9aEj2zRt4WF-aNpBLQoIIdZC_lIY3varoz9CuBCnbQM"
+      }
+    },
+    {
+      "transaction_id": "MzMxNzYwMDMwOWFkaXF6a2N4",
+      "barcode": "XAFJBWP4",
+      "type": "AD01",
+      "date": "2021-10-20",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2021-10-20",
+        "old_address": "30 Wykeham Hill Wembley HA9 9RZ England",
+        "new_address": "Flat 47 Mortimer Crescent London NW6 5NS"
+      },
+      "pages": 1,
+      "action_date": "2021-10-20",
+      "links": {
+        "self": "/company/07707662/filing-history/MzMxNzYwMDMwOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vOTFeqqTksGzprmI0k8criw2k76Tm-pmymHHFnzVoNg"
+      }
+    },
+    {
+      "transaction_id": "MzI5NTYxNzQwMmFkaXF6a2N4",
+      "barcode": "XA0XM5PM",
+      "type": "AA",
+      "date": "2021-03-25",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2020-07-31"
+      },
+      "pages": 2,
+      "action_date": "2020-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzI5NTYxNzQwMmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xYgxRE99OuDmreLRlarusyLaO0P1A8i5HK7tHd8-8oc"
+      }
+    },
+    {
+      "transaction_id": "MzI5NTQ1NTExMWFkaXF6a2N4",
+      "barcode": "XA0XCJOR",
+      "type": "CS01",
+      "date": "2021-03-24",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2021-03-04"
+      },
+      "pages": 3,
+      "action_date": "2021-03-04",
+      "links": {
+        "self": "/company/07707662/filing-history/MzI5NTQ1NTExMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/jbg1fq6BUSl-PwsVFiEEdSaS2JXwwoT5Dty07d2h04s"
+      }
+    },
+    {
+      "transaction_id": "MzI1OTI1MDQ0NmFkaXF6a2N4",
+      "barcode": "X90CM834",
+      "type": "CS01",
+      "date": "2020-03-08",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2020-03-04"
+      },
+      "pages": 3,
+      "action_date": "2020-03-04",
+      "links": {
+        "self": "/company/07707662/filing-history/MzI1OTI1MDQ0NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/uEXuMcScKSn8tljycEUl-MAnw6kND7pgUVbM7u9P8Zg"
+      }
+    },
+    {
+      "transaction_id": "MzI1OTI0OTA3OWFkaXF6a2N4",
+      "barcode": "X90CMQOB",
+      "type": "AA",
+      "date": "2020-03-08",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2019-07-31"
+      },
+      "pages": 2,
+      "action_date": "2019-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzI1OTI0OTA3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/vVgogXE_XSpUBbAs1_7tKngcVxNtrBeeTRrwBbdnG2I"
+      }
+    },
+    {
+      "transaction_id": "MzI1NTMzMzYwMWFkaXF6a2N4",
+      "barcode": "X8X6F6FD",
+      "type": "RESOLUTIONS",
+      "date": "2020-01-23",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2018-08-01"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2020-01-23",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/07707662/filing-history/MzI1NTMzMzYwMWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/wuGhh9Vrl5vpJHuZLXJHLAulCqZ2p3dgZ6sKLTyXdEU"
+      }
+    },
+    {
+      "transaction_id": "MzIyODUzNjE2MmFkaXF6a2N4",
+      "barcode": "X80IV6W9",
+      "type": "AA",
+      "date": "2019-03-04",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2018-07-31"
+      },
+      "pages": 2,
+      "action_date": "2018-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzIyODUzNjE2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ZyO2wNKHTSNa1MKfBaVeY_hb3QWJRU25cfV1pFUkjZI"
+      }
+    },
+    {
+      "transaction_id": "MzIyODUzNTU2M2FkaXF6a2N4",
+      "barcode": "X80IV41C",
+      "type": "CS01",
+      "date": "2019-03-04",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2019-03-04"
+      },
+      "pages": 3,
+      "action_date": "2019-03-04",
+      "links": {
+        "self": "/company/07707662/filing-history/MzIyODUzNTU2M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/dyyMpiZ4506yAPSDPY1LJzMCGvVlH6q_Do3K2ZG0jnU"
+      }
+    },
+    {
+      "transaction_id": "MzIwOTgxOTQyNGFkaXF6a2N4",
+      "barcode": "X7AABF89",
+      "type": "CS01",
+      "date": "2018-07-16",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2018-07-07"
+      },
+      "pages": 3,
+      "action_date": "2018-07-07",
+      "links": {
+        "self": "/company/07707662/filing-history/MzIwOTgxOTQyNGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kkopuOePub4IAcEB5K0ZehXnQY_FOx0KOX2xqJTFBUM"
+      }
+    },
+    {
+      "transaction_id": "MzIwODczODI0OGFkaXF6a2N4",
+      "barcode": "X796FDD4",
+      "type": "AA",
+      "date": "2018-06-30",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2017-07-31"
+      },
+      "pages": 2,
+      "action_date": "2017-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzIwODczODI0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/8iSCbvgxNVUGCg153hdM892AwjArlajrUudGCFxa9_s"
+      }
+    },
+    {
+      "transaction_id": "MzE4NDQ3NDM2MmFkaXF6a2N4",
+      "barcode": "X6E5UNDL",
+      "type": "RESOLUTIONS",
+      "date": "2017-09-04",
+      "category": "resolution",
+      "resolutions": [
+        {
+          "category": "change-of-name",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2017-06-01"
+          }
+        }
+      ],
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2017-09-04",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "resolution",
+      "description_values": {
+        "description": "Resolutions"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/07707662/filing-history/MzE4NDQ3NDM2MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/6u1bpleODVxzWlubeRu_u-_xcIkci1iCQS4lzysMsHI"
+      }
+    },
+    {
+      "transaction_id": "MzE4NDE0Mjg1M2FkaXF6a2N4",
+      "barcode": "X6DWMAL4",
+      "type": "CS01",
+      "date": "2017-08-30",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2017-07-07"
+      },
+      "pages": 3,
+      "action_date": "2017-07-07",
+      "links": {
+        "self": "/company/07707662/filing-history/MzE4NDE0Mjg1M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kA9aNyqGuByRdAsOfoBGeoOvahAGQTotHtx_jWqMg2A"
+      }
+    },
+    {
+      "transaction_id": "MzE3Nzg5MzI1NWFkaXF6a2N4",
+      "barcode": "X68GSJA2",
+      "type": "AA",
+      "date": "2017-06-12",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2016-07-31"
+      },
+      "pages": 2,
+      "action_date": "2016-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzE3Nzg5MzI1NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/BUPQ18fHBceliIw6awMlXpEiZ4Blyo_FRutbCkQ-SLY"
+      }
+    },
+    {
+      "transaction_id": "MzE2MTE3NTc1OGFkaXF6a2N4",
+      "barcode": "X5J0GBR5",
+      "type": "AD01",
+      "date": "2016-11-04",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2016-11-04",
+        "old_address": "3-4 Devonshire Street London W1W 5DT England",
+        "new_address": "30 Wykeham Hill Wembley HA9 9RZ"
+      },
+      "pages": 1,
+      "action_date": "2016-11-04",
+      "links": {
+        "self": "/company/07707662/filing-history/MzE2MTE3NTc1OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/xvVRXOBwsBPLdEUBZSN_JYdtmC2nX9aiJZ5xdGDWbCQ"
+      }
+    },
+    {
+      "transaction_id": "MzE1MjUyMDQxN2FkaXF6a2N4",
+      "barcode": "X5APZJP5",
+      "type": "CS01",
+      "date": "2016-07-07",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-updates",
+      "description_values": {
+        "made_up_date": "2016-07-07"
+      },
+      "pages": 5,
+      "action_date": "2016-07-07",
+      "links": {
+        "self": "/company/07707662/filing-history/MzE1MjUyMDQxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gHwqqfOPArxUM5tRi3Cg6JKRpyfY-aCLAGpAjPAnDE4"
+      }
+    },
+    {
+      "transaction_id": "MzE1MjAzNzU1N2FkaXF6a2N4",
+      "barcode": "X5A7QUTE",
+      "type": "AD01",
+      "date": "2016-06-30",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2016-06-30",
+        "old_address": "10 Margaret Street London W1W 8RL",
+        "new_address": "3-4 Devonshire Street London W1W 5DT"
+      },
+      "pages": 1,
+      "action_date": "2016-06-30",
+      "links": {
+        "self": "/company/07707662/filing-history/MzE1MjAzNzU1N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/fYFFOOBGbOTxZ8-rWT73PxseDzVOnom_v5ETnlN8AZ0"
+      }
+    },
+    {
+      "transaction_id": "MzE0NDY4NjgxMGFkaXF6a2N4",
+      "barcode": "X53D3H8E",
+      "type": "AA",
+      "date": "2016-03-23",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2015-07-31"
+      },
+      "pages": 2,
+      "action_date": "2015-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzE0NDY4NjgxMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/AznwuRjZ9-1fFcIxNOcC6cbKfl0lVunWwkX_V_BDEjI"
+      }
+    },
+    {
+      "transaction_id": "MzEyNzMyMzkxN2FkaXF6a2N4",
+      "barcode": "X4BWD12Z",
+      "type": "AR01",
+      "date": "2015-07-18",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2015-07-18",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2015-07-18",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1,000"
+              }
+            ]
+          },
+          "action_date": "2015-07-18"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2015-07-18"
+      },
+      "pages": 3,
+      "action_date": "2015-07-18",
+      "links": {
+        "self": "/company/07707662/filing-history/MzEyNzMyMzkxN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/y4TEd2LcjWXCcB1iatKPTJtZuFHI9kxtz9t9kKyxyWo"
+      }
+    },
+    {
+      "transaction_id": "MzEyNTk0MDk3N2FkaXF6a2N4",
+      "barcode": "X4ADM36N",
+      "type": "AA",
+      "date": "2015-06-26",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2014-07-31"
+      },
+      "pages": 2,
+      "action_date": "2014-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzEyNTk0MDk3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/hPYZuuZtRoVF3nJovhf6v7Vo9XR3DfNRr3N1Vlr9Dqo"
+      }
+    },
+    {
+      "transaction_id": "MzEwNTYxODUyNWFkaXF6a2N4",
+      "barcode": "X3E9UJOJ",
+      "type": "AR01",
+      "date": "2014-08-14",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2014-08-14",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2014-08-14",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1,000"
+              }
+            ]
+          },
+          "action_date": "2014-08-14"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2014-07-18"
+      },
+      "pages": 3,
+      "action_date": "2014-07-18",
+      "links": {
+        "self": "/company/07707662/filing-history/MzEwNTYxODUyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/2cJljcgZJjLE1fuX3Qor1LBb9c0KPNeBE_fYFNCJ93k"
+      }
+    },
+    {
+      "transaction_id": "MzEwNTYxODQ3N2FkaXF6a2N4",
+      "barcode": "X3E9UJOB",
+      "type": "TM02",
+      "date": "2014-08-14",
+      "category": "officers",
+      "subcategory": "termination",
+      "description": "termination-secretary-company-with-name-termination-date",
+      "description_values": {
+        "officer_name": "Research in Green Corporation Limited",
+        "termination_date": "2014-01-01"
+      },
+      "pages": 1,
+      "action_date": "2014-01-01",
+      "links": {
+        "self": "/company/07707662/filing-history/MzEwNTYxODQ3N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/buMVHnVsbs88oThITP9sxU4XZO4b-wUNHw9syOngG68"
+      }
+    },
+    {
+      "transaction_id": "MzA5Njk1NzYwMGFkaXF6a2N4",
+      "barcode": "X34E0TVE",
+      "type": "AA",
+      "date": "2014-03-25",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2013-07-31"
+      },
+      "pages": 2,
+      "action_date": "2013-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzA5Njk1NzYwMGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/YSrX7Bx3hhSEInXZZCU6p7LvxeFqAudN3hgQzbaxVn4"
+      }
+    },
+    {
+      "transaction_id": "MzA4MTg4ODc3OWFkaXF6a2N4",
+      "barcode": "X2D4MJ4I",
+      "type": "AR01",
+      "date": "2013-07-22",
+      "category": "annual-return",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2013-07-22",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2013-07-22",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1,000"
+              }
+            ]
+          },
+          "action_date": "2013-07-22"
+        }
+      ],
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2013-07-18"
+      },
+      "pages": 4,
+      "action_date": "2013-07-18",
+      "links": {
+        "self": "/company/07707662/filing-history/MzA4MTg4ODc3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/rl1-9XGObsONe3A1NNW7QaEgZXftNTQRMCOH59_g538"
+      }
+    },
+    {
+      "transaction_id": "MzA3NDM2MjY3M2FkaXF6a2N4",
+      "barcode": "X2402OKI",
+      "type": "AA",
+      "date": "2013-03-12",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-dormant",
+      "description_values": {
+        "made_up_date": "2012-07-31"
+      },
+      "pages": 2,
+      "action_date": "2012-07-31",
+      "links": {
+        "self": "/company/07707662/filing-history/MzA3NDM2MjY3M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/Af47uLB494qcFVhSdfmiqaFoZn4gIG3jouSqHgCZ1VA"
+      }
+    },
+    {
+      "transaction_id": "MzA2NTIzMDIyNWFkaXF6a2N4",
+      "barcode": "X1IR9M2I",
+      "type": "CH01",
+      "date": "2012-10-04",
+      "category": "officers",
+      "subcategory": "change",
+      "description": "change-person-director-company-with-change-date",
+      "description_values": {
+        "change_date": "2011-08-01",
+        "officer_name": "Mr Dong Bi"
+      },
+      "pages": 2,
+      "action_date": "2011-08-01",
+      "links": {
+        "self": "/company/07707662/filing-history/MzA2NTIzMDIyNWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/DMyhk2678dXFK8pwslfo4I1Db5org4jp4Xv_sUIUPig"
+      }
+    },
+    {
+      "transaction_id": "MzA2NDI3Mjg5MWFkaXF6a2N4",
+      "barcode": "X1HOB3VN",
+      "type": "CERTNM",
+      "date": "2012-09-18",
+      "category": "change-of-name",
+      "associated_filings": [
+        {
+          "category": "change-of-name",
+          "date": "2012-09-18",
+          "description": "resolution-change-of-name",
+          "type": "RES15",
+          "subcategory": "resolution",
+          "description_values": {
+            "resolution_date": "2011-08-08"
+          }
+        },
+        {
+          "category": "change-of-name",
+          "date": "2012-09-18",
+          "description": "change-of-name-by-resolution",
+          "type": "NM01"
+        }
+      ],
+      "subcategory": "certificate",
+      "description": "certificate-change-of-name-company",
+      "description_values": {
+        "description": "Company name changed rigreen low carbon valley LIMITED\\certificate issued on 18/09/12"
+      },
+      "pages": 3,
+      "links": {
+        "self": "/company/07707662/filing-history/MzA2NDI3Mjg5MWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ToLLbt9dOskGHIBsLn1Qwd-VNnayXscTao_Eg_RlYFE"
+      }
+    },
+    {
+      "transaction_id": "MzA2MzAyNDU4N2FkaXF6a2N4",
+      "barcode": "X1G69TSB",
+      "type": "AR01",
+      "date": "2012-08-27",
+      "category": "annual-return",
+      "description": "annual-return-company-with-made-up-date-full-list-shareholders",
+      "description_values": {
+        "made_up_date": "2012-07-18"
+      },
+      "pages": 4,
+      "action_date": "2012-07-18",
+      "links": {
+        "self": "/company/07707662/filing-history/MzA2MzAyNDU4N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/gvzGbEp8yu03PyhC5mgpw0UyqJGF8gZ6x2OyqXmUSL4"
+      }
+    },
+    {
+      "transaction_id": "MzA0MDUyMzA3OWFkaXF6a2N4",
+      "barcode": "X7KXVVU5",
+      "type": "NEWINC",
+      "date": "2011-07-18",
+      "category": "incorporation",
+      "description": "incorporation-company",
+      "pages": 21,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/07707662/filing-history/MzA0MDUyMzA3OWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/yuapdMv5WfI3YW8VG6j1Bf14LAv8JE5PeiTRZZxBXx8"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 42
+}

@@ -1,0 +1,133 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzI5NTA3NjY5OGFkaXF6a2N4",
+      "barcode": "RA0CUWPM",
+      "type": "AC92",
+      "date": "2021-03-22",
+      "category": "restoration",
+      "description": "restoration-order-of-court",
+      "pages": 3,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11924380/filing-history/MzI5NTA3NjY5OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/SKvaWi6LXxrqkbC5HJw0pVLkL8_8vN4uOuc6SsZBtCo"
+      }
+    },
+    {
+      "transaction_id": "MzI3ODI0NDU0N2FkaXF6a2N4",
+      "type": "GAZ2(A)",
+      "date": "2020-09-29",
+      "category": "gazette",
+      "description": "gazette-dissolved-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11924380/filing-history/MzI3ODI0NDU0N2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/IDKx-JOuSn0CTpxjIICY2dXa_KnOiCAK_gk90wGs-0Y"
+      }
+    },
+    {
+      "transaction_id": "MzI2MDM1MzAzN2FkaXF6a2N4",
+      "barcode": "X918GQGA",
+      "type": "AA",
+      "date": "2020-03-20",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-total-exemption-full",
+      "description_values": {
+        "made_up_date": "2019-12-31"
+      },
+      "pages": 6,
+      "action_date": "2019-12-31",
+      "links": {
+        "self": "/company/11924380/filing-history/MzI2MDM1MzAzN2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/ujmSKAwZvgcAu8JEYc9sixkJHYykpNdEeTlwlU_Bnvg"
+      }
+    },
+    {
+      "transaction_id": "MzI1ODMwNzA3OGFkaXF6a2N4",
+      "type": "GAZ1(A)",
+      "date": "2020-03-10",
+      "category": "gazette",
+      "description": "gazette-notice-voluntary",
+      "pages": 1,
+      "paper_filed": true,
+      "links": {
+        "self": "/company/11924380/filing-history/MzI1ODMwNzA3OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/kzTSK1WtEG49dQu_Y9Ceu8jNB9L-4yoEeOG-_-LgQEg"
+      }
+    },
+    {
+      "transaction_id": "MzI1ODA2NzY4NmFkaXF6a2N4",
+      "barcode": "X8ZGLKAP",
+      "type": "DS01",
+      "date": "2020-02-26",
+      "category": "dissolution",
+      "description": "dissolution-application-strike-off-company",
+      "pages": 1,
+      "links": {
+        "self": "/company/11924380/filing-history/MzI1ODA2NzY4NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/fiRDjEj487G97c9LUivLHReFCshXgKOMF4qbPXM_8xQ"
+      }
+    },
+    {
+      "transaction_id": "MzI1NjY0NDA1NmFkaXF6a2N4",
+      "barcode": "X8Y7RWO9",
+      "type": "AA01",
+      "date": "2020-02-06",
+      "category": "accounts",
+      "description": "change-account-reference-date-company-previous-shortened",
+      "description_values": {
+        "made_up_date": "2020-04-30",
+        "new_date": "2019-12-31"
+      },
+      "pages": 1,
+      "action_date": "2019-12-31",
+      "links": {
+        "self": "/company/11924380/filing-history/MzI1NjY0NDA1NmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/K0I7GcsO3N-VfC3eb4oVL5UFIsyHlm9-AdKefZVsPdc"
+      }
+    },
+    {
+      "transaction_id": "MzIzMTA3MDkzOWFkaXF6a2N4",
+      "barcode": "X82IXF0P",
+      "type": "NEWINC",
+      "date": "2019-04-03",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "incorporation",
+          "date": "2019-04-03",
+          "description": "model-articles-adopted",
+          "type": "MODEL ARTICLES"
+        },
+        {
+          "category": "capital",
+          "date": "2019-04-03",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2019-04-03",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2019-04-03"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 10,
+      "links": {
+        "self": "/company/11924380/filing-history/MzIzMTA3MDkzOWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/PcvbdKuuVbJMUFOX37klQ3sFLgRdn6UKLSh-mBkcZgU"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 7
+}

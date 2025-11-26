@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2019-12-31",
+      "period_end_on": "2019-12-31",
+      "period_start_on": "2019-04-03",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2021-09-30",
+      "overdue": true,
+      "period_end_on": "2020-12-31",
+      "period_start_on": "2020-01-01"
+    },
+    "next_due": "2021-09-30",
+    "next_made_up_to": "2020-12-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "ALFIE MARKETING LTD",
+  "company_number": "11924380",
+  "company_status": "active",
+  "confirmation_statement": {
+    "next_due": "2020-04-16",
+    "next_made_up_to": "2020-04-02",
+    "overdue": true
+  },
+  "date_of_cessation": "2020-09-29",
+  "date_of_creation": "2019-04-03",
+  "etag": "a142ec7884023de15a7c8a8100d2bdb1e4b2d71c",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/11924380/persons-with-significant-control",
+    "self": "/company/11924380",
+    "filing_history": "/company/11924380/filing-history",
+    "officers": "/company/11924380/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "10 Clayton Road",
+    "address_line_2": "Lane End",
+    "country": "United Kingdom",
+    "locality": "High Wycombe",
+    "postal_code": "HP14 3GA"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "73110"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

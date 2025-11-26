@@ -1,0 +1,179 @@
+{
+  "filing_history_status": "filing-history-available",
+  "items": [
+    {
+      "transaction_id": "MzQ3MzQwNzE0NWFkaXF6a2N4",
+      "barcode": "XE6R9NXU",
+      "type": "AA",
+      "date": "2025-07-14",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2025-05-31"
+      },
+      "pages": 2,
+      "action_date": "2025-05-31",
+      "links": {
+        "self": "/company/14100097/filing-history/MzQ3MzQwNzE0NWFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UQnBeNYTmOXedQxITwZpxt0NDRfAsw1QqhRn1znmGgg"
+      }
+    },
+    {
+      "transaction_id": "MzQ2Njc5MTA0MGFkaXF6a2N4",
+      "barcode": "XE2PDWM0",
+      "type": "CS01",
+      "date": "2025-05-17",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2025-05-10"
+      },
+      "pages": 3,
+      "action_date": "2025-05-10",
+      "links": {
+        "self": "/company/14100097/filing-history/MzQ2Njc5MTA0MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/cgIPuOAjVgFaV9VpygDduVM9amUtwCwpflzSCBFsbC4"
+      }
+    },
+    {
+      "transaction_id": "MzQ1NjEyMjQ1MGFkaXF6a2N4",
+      "barcode": "XDX1506N",
+      "type": "AA",
+      "date": "2025-02-24",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2024-05-31"
+      },
+      "pages": 3,
+      "action_date": "2024-05-31",
+      "links": {
+        "self": "/company/14100097/filing-history/MzQ1NjEyMjQ1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/K49ZyYc5rF9pYVfZV7rUgKsDBU9cHWszplGiuE7ZIsU"
+      }
+    },
+    {
+      "transaction_id": "MzQyMTgxNDU3MmFkaXF6a2N4",
+      "barcode": "XD340EHG",
+      "type": "CS01",
+      "date": "2024-05-14",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2024-05-10"
+      },
+      "pages": 3,
+      "action_date": "2024-05-10",
+      "links": {
+        "self": "/company/14100097/filing-history/MzQyMTgxNDU3MmFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/MwiYmN_eBiCdB44ApD3BnT3Ih5e2jq6ke5XuGRZFzmI"
+      }
+    },
+    {
+      "transaction_id": "MzQxMDU2ODk0NGFkaXF6a2N4",
+      "barcode": "XCWHZ2R4",
+      "type": "AA",
+      "date": "2024-02-09",
+      "category": "accounts",
+      "description": "accounts-with-accounts-type-micro-entity",
+      "description_values": {
+        "made_up_date": "2023-05-31"
+      },
+      "pages": 2,
+      "action_date": "2023-05-31",
+      "links": {
+        "self": "/company/14100097/filing-history/MzQxMDU2ODk0NGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/FUougFeoFwICWRfb9ebLtp9scIfdPSIFSOQbKxnVEOc"
+      }
+    },
+    {
+      "transaction_id": "MzQxMDQ4NDE1MGFkaXF6a2N4",
+      "barcode": "XCWFAGYH",
+      "type": "AD01",
+      "date": "2024-02-08",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2024-02-08",
+        "old_address": "1 Main Street Gillamoor York YO62 7HX England",
+        "new_address": "24 Howe End Kirkbymoorside York YO62 6BD"
+      },
+      "pages": 1,
+      "action_date": "2024-02-08",
+      "links": {
+        "self": "/company/14100097/filing-history/MzQxMDQ4NDE1MGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/UiuHRVqUcS2_M73eZKSez9IaaVNS3Asq-y3E0qAmnLk"
+      }
+    },
+    {
+      "transaction_id": "MzM4MjY4NDc4M2FkaXF6a2N4",
+      "barcode": "XC5M3KIR",
+      "type": "CS01",
+      "date": "2023-06-13",
+      "category": "confirmation-statement",
+      "description": "confirmation-statement-with-no-updates",
+      "description_values": {
+        "made_up_date": "2023-05-10"
+      },
+      "pages": 3,
+      "action_date": "2023-05-10",
+      "links": {
+        "self": "/company/14100097/filing-history/MzM4MjY4NDc4M2FkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/q2jxzCSj8F1ZWcIzOmsSuQ_AKDSX4ixdi61ebVGQG0c"
+      }
+    },
+    {
+      "transaction_id": "MzM3OTAzMzcxOGFkaXF6a2N4",
+      "barcode": "XC38BOU2",
+      "type": "AD01",
+      "date": "2023-05-10",
+      "category": "address",
+      "description": "change-registered-office-address-company-with-date-old-address-new-address",
+      "description_values": {
+        "change_date": "2023-05-10",
+        "old_address": "27 Old Gloucester Street London WC1N 3AX United Kingdom",
+        "new_address": "1 Main Street Gillamoor York YO62 7HX"
+      },
+      "pages": 1,
+      "action_date": "2023-05-10",
+      "links": {
+        "self": "/company/14100097/filing-history/MzM3OTAzMzcxOGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/WOG8jh0DCGXfwx0BSGQdtdG1VW08Uu3R2Dvm1ap1jWo"
+      }
+    },
+    {
+      "transaction_id": "MzMzODk2ODQ0OGFkaXF6a2N4",
+      "barcode": "XB3TF90Q",
+      "type": "NEWINC",
+      "date": "2022-05-11",
+      "category": "incorporation",
+      "associated_filings": [
+        {
+          "category": "capital",
+          "date": "2022-05-11",
+          "description": "statement-of-capital",
+          "type": "SH01",
+          "description_values": {
+            "date": "2022-05-11",
+            "capital": [
+              {
+                "currency": "GBP",
+                "figure": "1"
+              }
+            ]
+          },
+          "action_date": "2022-05-11"
+        }
+      ],
+      "description": "incorporation-company",
+      "pages": 28,
+      "links": {
+        "self": "/company/14100097/filing-history/MzMzODk2ODQ0OGFkaXF6a2N4",
+        "document_metadata": "https://document-api.company-information.service.gov.uk/document/JbqW1Um5nnvla95Xdrj_VecI0JdQ2Wp38V8PbSFHXzE"
+      }
+    }
+  ],
+  "items_per_page": 100,
+  "start_index": 0,
+  "total_count": 9
+}

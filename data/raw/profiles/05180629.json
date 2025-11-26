@@ -1,0 +1,60 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "03"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-03-31",
+      "period_end_on": "2025-03-31",
+      "period_start_on": "2024-04-01",
+      "type": "dormant"
+    },
+    "next_accounts": {
+      "due_on": "2026-12-31",
+      "overdue": false,
+      "period_end_on": "2026-03-31",
+      "period_start_on": "2025-04-01"
+    },
+    "next_due": "2026-12-31",
+    "next_made_up_to": "2026-03-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "NUCLEUS COMPLETE BUSINESS ADVICE LIMITED",
+  "company_number": "05180629",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-07-15",
+    "next_due": "2026-07-29",
+    "next_made_up_to": "2026-07-15",
+    "overdue": false
+  },
+  "date_of_creation": "2004-07-15",
+  "etag": "1d1e815c802bde7185f0a98f497a25bc8d89649f",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-07-15",
+  "links": {
+    "persons_with_significant_control": "/company/05180629/persons-with-significant-control",
+    "self": "/company/05180629",
+    "filing_history": "/company/05180629/filing-history",
+    "officers": "/company/05180629/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "17 Hall Lane",
+    "address_line_2": "Kirkburton",
+    "country": "England",
+    "locality": "Huddersfield",
+    "postal_code": "HD8 0QW"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

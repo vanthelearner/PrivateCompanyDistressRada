@@ -1,0 +1,61 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "12"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-12-31",
+      "period_end_on": "2022-12-31",
+      "period_start_on": "2022-01-01",
+      "type": "total-exemption-full"
+    },
+    "next_accounts": {
+      "due_on": "2024-09-30",
+      "overdue": true,
+      "period_end_on": "2023-12-31",
+      "period_start_on": "2023-01-01"
+    },
+    "next_due": "2024-09-30",
+    "next_made_up_to": "2023-12-31",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "CELEBRE LIMITED",
+  "company_number": "SC262456",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2023-01-26",
+    "next_due": "2024-02-09",
+    "next_made_up_to": "2024-01-26",
+    "overdue": true
+  },
+  "date_of_creation": "2004-01-26",
+  "etag": "a33fdf3951e4e39b6da9b59487f7fe7f83f2e246",
+  "has_been_liquidated": false,
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "scotland",
+  "last_full_members_list_date": "2016-01-26",
+  "links": {
+    "persons_with_significant_control": "/company/SC262456/persons-with-significant-control",
+    "self": "/company/SC262456",
+    "charges": "/company/SC262456/charges",
+    "filing_history": "/company/SC262456/filing-history",
+    "officers": "/company/SC262456/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "Abercorn School, Newton",
+    "address_line_2": "Broxburn",
+    "locality": "West Lothian",
+    "postal_code": "EH52 6PZ"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

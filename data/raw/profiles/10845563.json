@@ -1,0 +1,58 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "28",
+      "month": "02"
+    },
+    "last_accounts": {
+      "made_up_to": "2022-02-28",
+      "period_end_on": "2022-02-28",
+      "period_start_on": "2021-07-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2023-11-30",
+      "overdue": true,
+      "period_end_on": "2023-02-28",
+      "period_start_on": "2022-03-01"
+    },
+    "next_due": "2023-11-30",
+    "next_made_up_to": "2023-02-28",
+    "overdue": true
+  },
+  "can_file": true,
+  "company_name": "MAUDSLEY LTD",
+  "company_number": "10845563",
+  "company_status": "active",
+  "company_status_detail": "active-proposal-to-strike-off",
+  "confirmation_statement": {
+    "last_made_up_to": "2022-06-28",
+    "next_due": "2023-07-12",
+    "next_made_up_to": "2023-06-28",
+    "overdue": true
+  },
+  "date_of_creation": "2017-06-30",
+  "etag": "f675072d29c522e6f5acffd207d95d3185087b4f",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/10845563/persons-with-significant-control",
+    "self": "/company/10845563",
+    "filing_history": "/company/10845563/filing-history",
+    "officers": "/company/10845563/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "44 Hazell Road",
+    "country": "England",
+    "locality": "Farnham",
+    "postal_code": "GU9 7BP"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70229"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}

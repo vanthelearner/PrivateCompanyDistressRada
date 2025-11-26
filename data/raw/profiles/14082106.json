@@ -1,0 +1,62 @@
+{
+  "accounts": {
+    "accounting_reference_date": {
+      "day": "31",
+      "month": "01"
+    },
+    "last_accounts": {
+      "made_up_to": "2025-01-31",
+      "period_end_on": "2025-01-31",
+      "period_start_on": "2024-02-01",
+      "type": "micro-entity"
+    },
+    "next_accounts": {
+      "due_on": "2026-10-31",
+      "overdue": false,
+      "period_end_on": "2026-01-31",
+      "period_start_on": "2025-02-01"
+    },
+    "next_due": "2026-10-31",
+    "next_made_up_to": "2026-01-31",
+    "overdue": false
+  },
+  "can_file": true,
+  "company_name": "WE ARE DEFY LIMITED",
+  "company_number": "14082106",
+  "company_status": "active",
+  "confirmation_statement": {
+    "last_made_up_to": "2025-05-03",
+    "next_due": "2026-05-17",
+    "next_made_up_to": "2026-05-03",
+    "overdue": false
+  },
+  "date_of_creation": "2022-05-03",
+  "etag": "ecdd1c4188e29b7641f946dcc9713871f79b57cf",
+  "has_charges": false,
+  "has_insolvency_history": false,
+  "jurisdiction": "england-wales",
+  "links": {
+    "persons_with_significant_control": "/company/14082106/persons-with-significant-control",
+    "self": "/company/14082106",
+    "filing_history": "/company/14082106/filing-history",
+    "officers": "/company/14082106/officers"
+  },
+  "registered_office_address": {
+    "address_line_1": "3 New Park Place",
+    "address_line_2": "Pride Park",
+    "country": "England",
+    "locality": "Derby",
+    "postal_code": "DE24 8DZ",
+    "region": "Derbyshire"
+  },
+  "registered_office_is_in_dispute": false,
+  "sic_codes": [
+    "70210",
+    "70221",
+    "70229",
+    "73120"
+  ],
+  "type": "ltd",
+  "undeliverable_registered_office_address": false,
+  "has_super_secure_pscs": false
+}
