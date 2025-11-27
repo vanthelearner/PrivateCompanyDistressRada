@@ -18,8 +18,8 @@ The workflow is built in **Jupyter notebooks** and uses the official Companies H
    - Fetch:
      - Company **profile**
      - **Filing history**
-     - **Charges** (security over assets)  
-   - Cache raw JSON responses to disk so you don’t hammer the API every time.
+     - **Charges** (security over assets)
+       
 
 2. **Stage / Week 2 – Data model & feature engineering (signals)**  
    - Design a **feature schema** for each company  
@@ -51,4 +51,5 @@ Roughly:
 │     └─ boring_profitable_watchlist_v1.csv
 ├─ Week 1_Foundations.ipynb  # Stage/Week 1 – API + caching
 └─ Stage 1 + Stage 2.ipynb   # Consolidated Week 2 pipeline
+
 
