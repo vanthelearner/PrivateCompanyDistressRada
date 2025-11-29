@@ -1,4 +1,4 @@
-# Private Company Distress Radar v1 (UK Companies House)
+# Private Company Distress/Boring Radar v1 (UK Companies House)
 
 This project is a small research / tooling sandbox to spot UK private companies that might be:
 
@@ -169,3 +169,4 @@ All main knobs (sample size, SIC codes, distress thresholds, boring thresholds, 
 ├─ Stage 1 + Stage 2.ipynb     # Early combined pipeline (dev / scratchpad)
 └─ Stage 1 + Stage 2 + Stage 3.ipynb
                                # Final from-scratch Stage 1–3 pipeline
+
